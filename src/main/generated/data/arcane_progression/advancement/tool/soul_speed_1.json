@@ -1,0 +1,916 @@
+{
+  "parent": "arcane_progression:tool/treasure_cat",
+  "criteria": {
+    "nether_travel_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_1000": {
+      "conditions": {
+        "min_count": 1000
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_510": {
+      "conditions": {
+        "min_count": 510
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_530": {
+      "conditions": {
+        "min_count": 530
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_550": {
+      "conditions": {
+        "min_count": 550
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_570": {
+      "conditions": {
+        "min_count": 570
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_590": {
+      "conditions": {
+        "min_count": 590
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_610": {
+      "conditions": {
+        "min_count": 610
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_630": {
+      "conditions": {
+        "min_count": 630
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_650": {
+      "conditions": {
+        "min_count": 650
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_670": {
+      "conditions": {
+        "min_count": 670
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_690": {
+      "conditions": {
+        "min_count": 690
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_710": {
+      "conditions": {
+        "min_count": 710
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_720": {
+      "conditions": {
+        "min_count": 720
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_730": {
+      "conditions": {
+        "min_count": 730
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_740": {
+      "conditions": {
+        "min_count": 740
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_750": {
+      "conditions": {
+        "min_count": 750
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_760": {
+      "conditions": {
+        "min_count": 760
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_770": {
+      "conditions": {
+        "min_count": 770
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_780": {
+      "conditions": {
+        "min_count": 780
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_790": {
+      "conditions": {
+        "min_count": 790
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_800": {
+      "conditions": {
+        "min_count": 800
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_810": {
+      "conditions": {
+        "min_count": 810
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_820": {
+      "conditions": {
+        "min_count": 820
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_830": {
+      "conditions": {
+        "min_count": 830
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_840": {
+      "conditions": {
+        "min_count": 840
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_850": {
+      "conditions": {
+        "min_count": 850
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_860": {
+      "conditions": {
+        "min_count": 860
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_870": {
+      "conditions": {
+        "min_count": 870
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_880": {
+      "conditions": {
+        "min_count": 880
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_890": {
+      "conditions": {
+        "min_count": 890
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_900": {
+      "conditions": {
+        "min_count": 900
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_910": {
+      "conditions": {
+        "min_count": 910
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_920": {
+      "conditions": {
+        "min_count": 920
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_930": {
+      "conditions": {
+        "min_count": 930
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_940": {
+      "conditions": {
+        "min_count": 940
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_950": {
+      "conditions": {
+        "min_count": 950
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_960": {
+      "conditions": {
+        "min_count": 960
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_970": {
+      "conditions": {
+        "min_count": 970
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_980": {
+      "conditions": {
+        "min_count": 980
+      },
+      "trigger": "arcane_progression:nether_travel"
+    },
+    "nether_travel_990": {
+      "conditions": {
+        "min_count": 990
+      },
+      "trigger": "arcane_progression:nether_travel"
+    }
+  },
+  "display": {
+    "description": "Travel 1,000 blocks in the Nether",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:soul_sand"
+    },
+    "title": "Soul Speed I"
+  },
+  "requirements": [
+    [
+      "nether_travel_10"
+    ],
+    [
+      "nether_travel_20"
+    ],
+    [
+      "nether_travel_30"
+    ],
+    [
+      "nether_travel_40"
+    ],
+    [
+      "nether_travel_50"
+    ],
+    [
+      "nether_travel_60"
+    ],
+    [
+      "nether_travel_70"
+    ],
+    [
+      "nether_travel_80"
+    ],
+    [
+      "nether_travel_90"
+    ],
+    [
+      "nether_travel_100"
+    ],
+    [
+      "nether_travel_110"
+    ],
+    [
+      "nether_travel_120"
+    ],
+    [
+      "nether_travel_130"
+    ],
+    [
+      "nether_travel_140"
+    ],
+    [
+      "nether_travel_150"
+    ],
+    [
+      "nether_travel_160"
+    ],
+    [
+      "nether_travel_170"
+    ],
+    [
+      "nether_travel_180"
+    ],
+    [
+      "nether_travel_190"
+    ],
+    [
+      "nether_travel_200"
+    ],
+    [
+      "nether_travel_210"
+    ],
+    [
+      "nether_travel_220"
+    ],
+    [
+      "nether_travel_230"
+    ],
+    [
+      "nether_travel_240"
+    ],
+    [
+      "nether_travel_250"
+    ],
+    [
+      "nether_travel_260"
+    ],
+    [
+      "nether_travel_270"
+    ],
+    [
+      "nether_travel_280"
+    ],
+    [
+      "nether_travel_290"
+    ],
+    [
+      "nether_travel_300"
+    ],
+    [
+      "nether_travel_310"
+    ],
+    [
+      "nether_travel_320"
+    ],
+    [
+      "nether_travel_330"
+    ],
+    [
+      "nether_travel_340"
+    ],
+    [
+      "nether_travel_350"
+    ],
+    [
+      "nether_travel_360"
+    ],
+    [
+      "nether_travel_370"
+    ],
+    [
+      "nether_travel_380"
+    ],
+    [
+      "nether_travel_390"
+    ],
+    [
+      "nether_travel_400"
+    ],
+    [
+      "nether_travel_410"
+    ],
+    [
+      "nether_travel_420"
+    ],
+    [
+      "nether_travel_430"
+    ],
+    [
+      "nether_travel_440"
+    ],
+    [
+      "nether_travel_450"
+    ],
+    [
+      "nether_travel_460"
+    ],
+    [
+      "nether_travel_470"
+    ],
+    [
+      "nether_travel_480"
+    ],
+    [
+      "nether_travel_490"
+    ],
+    [
+      "nether_travel_500"
+    ],
+    [
+      "nether_travel_510"
+    ],
+    [
+      "nether_travel_520"
+    ],
+    [
+      "nether_travel_530"
+    ],
+    [
+      "nether_travel_540"
+    ],
+    [
+      "nether_travel_550"
+    ],
+    [
+      "nether_travel_560"
+    ],
+    [
+      "nether_travel_570"
+    ],
+    [
+      "nether_travel_580"
+    ],
+    [
+      "nether_travel_590"
+    ],
+    [
+      "nether_travel_600"
+    ],
+    [
+      "nether_travel_610"
+    ],
+    [
+      "nether_travel_620"
+    ],
+    [
+      "nether_travel_630"
+    ],
+    [
+      "nether_travel_640"
+    ],
+    [
+      "nether_travel_650"
+    ],
+    [
+      "nether_travel_660"
+    ],
+    [
+      "nether_travel_670"
+    ],
+    [
+      "nether_travel_680"
+    ],
+    [
+      "nether_travel_690"
+    ],
+    [
+      "nether_travel_700"
+    ],
+    [
+      "nether_travel_710"
+    ],
+    [
+      "nether_travel_720"
+    ],
+    [
+      "nether_travel_730"
+    ],
+    [
+      "nether_travel_740"
+    ],
+    [
+      "nether_travel_750"
+    ],
+    [
+      "nether_travel_760"
+    ],
+    [
+      "nether_travel_770"
+    ],
+    [
+      "nether_travel_780"
+    ],
+    [
+      "nether_travel_790"
+    ],
+    [
+      "nether_travel_800"
+    ],
+    [
+      "nether_travel_810"
+    ],
+    [
+      "nether_travel_820"
+    ],
+    [
+      "nether_travel_830"
+    ],
+    [
+      "nether_travel_840"
+    ],
+    [
+      "nether_travel_850"
+    ],
+    [
+      "nether_travel_860"
+    ],
+    [
+      "nether_travel_870"
+    ],
+    [
+      "nether_travel_880"
+    ],
+    [
+      "nether_travel_890"
+    ],
+    [
+      "nether_travel_900"
+    ],
+    [
+      "nether_travel_910"
+    ],
+    [
+      "nether_travel_920"
+    ],
+    [
+      "nether_travel_930"
+    ],
+    [
+      "nether_travel_940"
+    ],
+    [
+      "nether_travel_950"
+    ],
+    [
+      "nether_travel_960"
+    ],
+    [
+      "nether_travel_970"
+    ],
+    [
+      "nether_travel_980"
+    ],
+    [
+      "nether_travel_990"
+    ],
+    [
+      "nether_travel_1000"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

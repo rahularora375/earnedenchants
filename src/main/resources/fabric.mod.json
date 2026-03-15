@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "arcane_progression",
+	"version": "${version}",
+	"name": "Arcane Progression",
+	"description": "Unlock enchantments by completing in-game challenges. Progress through an advancement tree to earn each enchantment tier.",
+	"authors": [
+		"Rahul Arora"
+	],
+	"contact": {},
+	"license": "All Rights Reserved",
+	"icon": "assets/arcane_progression/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.rahularora.arcaneprogression.ArcaneProgression"
+		],
+		"client": [
+			"com.rahularora.arcaneprogression.ArcaneProgressionClient"
+		],
+		"fabric-datagen": [
+			"com.rahularora.arcaneprogression.ArcaneProgressionDataGenerator"
+		]
+	},
+	"mixins": [
+		"arcane_progression.mixins.json",
+		{
+			"config": "arcane_progression.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

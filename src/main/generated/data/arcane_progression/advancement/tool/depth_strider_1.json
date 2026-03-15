@@ -1,0 +1,466 @@
+{
+  "parent": "arcane_progression:tool/armor_cat",
+  "criteria": {
+    "uw_travel_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    },
+    "uw_travel_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:underwater_travel"
+    }
+  },
+  "display": {
+    "description": "Travel 500 blocks underwater",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:heart_of_the_sea"
+    },
+    "title": "Depth Strider I"
+  },
+  "requirements": [
+    [
+      "uw_travel_10"
+    ],
+    [
+      "uw_travel_20"
+    ],
+    [
+      "uw_travel_30"
+    ],
+    [
+      "uw_travel_40"
+    ],
+    [
+      "uw_travel_50"
+    ],
+    [
+      "uw_travel_60"
+    ],
+    [
+      "uw_travel_70"
+    ],
+    [
+      "uw_travel_80"
+    ],
+    [
+      "uw_travel_90"
+    ],
+    [
+      "uw_travel_100"
+    ],
+    [
+      "uw_travel_110"
+    ],
+    [
+      "uw_travel_120"
+    ],
+    [
+      "uw_travel_130"
+    ],
+    [
+      "uw_travel_140"
+    ],
+    [
+      "uw_travel_150"
+    ],
+    [
+      "uw_travel_160"
+    ],
+    [
+      "uw_travel_170"
+    ],
+    [
+      "uw_travel_180"
+    ],
+    [
+      "uw_travel_190"
+    ],
+    [
+      "uw_travel_200"
+    ],
+    [
+      "uw_travel_210"
+    ],
+    [
+      "uw_travel_220"
+    ],
+    [
+      "uw_travel_230"
+    ],
+    [
+      "uw_travel_240"
+    ],
+    [
+      "uw_travel_250"
+    ],
+    [
+      "uw_travel_260"
+    ],
+    [
+      "uw_travel_270"
+    ],
+    [
+      "uw_travel_280"
+    ],
+    [
+      "uw_travel_290"
+    ],
+    [
+      "uw_travel_300"
+    ],
+    [
+      "uw_travel_310"
+    ],
+    [
+      "uw_travel_320"
+    ],
+    [
+      "uw_travel_330"
+    ],
+    [
+      "uw_travel_340"
+    ],
+    [
+      "uw_travel_350"
+    ],
+    [
+      "uw_travel_360"
+    ],
+    [
+      "uw_travel_370"
+    ],
+    [
+      "uw_travel_380"
+    ],
+    [
+      "uw_travel_390"
+    ],
+    [
+      "uw_travel_400"
+    ],
+    [
+      "uw_travel_410"
+    ],
+    [
+      "uw_travel_420"
+    ],
+    [
+      "uw_travel_430"
+    ],
+    [
+      "uw_travel_440"
+    ],
+    [
+      "uw_travel_450"
+    ],
+    [
+      "uw_travel_460"
+    ],
+    [
+      "uw_travel_470"
+    ],
+    [
+      "uw_travel_480"
+    ],
+    [
+      "uw_travel_490"
+    ],
+    [
+      "uw_travel_500"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

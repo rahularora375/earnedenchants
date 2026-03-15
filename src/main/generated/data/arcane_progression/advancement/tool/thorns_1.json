@@ -1,0 +1,106 @@
+{
+  "parent": "arcane_progression:tool/armor_cat",
+  "criteria": {
+    "mob_hit_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    },
+    "mob_hit_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:mob_melee_hits"
+    }
+  },
+  "display": {
+    "description": "Get hit by mobs in melee 100 times",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:cactus"
+    },
+    "title": "Thorns I"
+  },
+  "requirements": [
+    [
+      "mob_hit_10"
+    ],
+    [
+      "mob_hit_20"
+    ],
+    [
+      "mob_hit_30"
+    ],
+    [
+      "mob_hit_40"
+    ],
+    [
+      "mob_hit_50"
+    ],
+    [
+      "mob_hit_60"
+    ],
+    [
+      "mob_hit_70"
+    ],
+    [
+      "mob_hit_80"
+    ],
+    [
+      "mob_hit_90"
+    ],
+    [
+      "mob_hit_100"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

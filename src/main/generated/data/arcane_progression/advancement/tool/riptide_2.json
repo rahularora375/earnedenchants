@@ -1,0 +1,1816 @@
+{
+  "parent": "arcane_progression:tool/riptide_1",
+  "criteria": {
+    "wet_travel_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1000": {
+      "conditions": {
+        "min_count": 1000
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1010": {
+      "conditions": {
+        "min_count": 1010
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1020": {
+      "conditions": {
+        "min_count": 1020
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1030": {
+      "conditions": {
+        "min_count": 1030
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1040": {
+      "conditions": {
+        "min_count": 1040
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1050": {
+      "conditions": {
+        "min_count": 1050
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1060": {
+      "conditions": {
+        "min_count": 1060
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1070": {
+      "conditions": {
+        "min_count": 1070
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1080": {
+      "conditions": {
+        "min_count": 1080
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1090": {
+      "conditions": {
+        "min_count": 1090
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1100": {
+      "conditions": {
+        "min_count": 1100
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1110": {
+      "conditions": {
+        "min_count": 1110
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1120": {
+      "conditions": {
+        "min_count": 1120
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1130": {
+      "conditions": {
+        "min_count": 1130
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1140": {
+      "conditions": {
+        "min_count": 1140
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1150": {
+      "conditions": {
+        "min_count": 1150
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1160": {
+      "conditions": {
+        "min_count": 1160
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1170": {
+      "conditions": {
+        "min_count": 1170
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1180": {
+      "conditions": {
+        "min_count": 1180
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1190": {
+      "conditions": {
+        "min_count": 1190
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1200": {
+      "conditions": {
+        "min_count": 1200
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1210": {
+      "conditions": {
+        "min_count": 1210
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1220": {
+      "conditions": {
+        "min_count": 1220
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1230": {
+      "conditions": {
+        "min_count": 1230
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1240": {
+      "conditions": {
+        "min_count": 1240
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1250": {
+      "conditions": {
+        "min_count": 1250
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1260": {
+      "conditions": {
+        "min_count": 1260
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1270": {
+      "conditions": {
+        "min_count": 1270
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1280": {
+      "conditions": {
+        "min_count": 1280
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1290": {
+      "conditions": {
+        "min_count": 1290
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1300": {
+      "conditions": {
+        "min_count": 1300
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1310": {
+      "conditions": {
+        "min_count": 1310
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1320": {
+      "conditions": {
+        "min_count": 1320
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1330": {
+      "conditions": {
+        "min_count": 1330
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1340": {
+      "conditions": {
+        "min_count": 1340
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1350": {
+      "conditions": {
+        "min_count": 1350
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1360": {
+      "conditions": {
+        "min_count": 1360
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1370": {
+      "conditions": {
+        "min_count": 1370
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1380": {
+      "conditions": {
+        "min_count": 1380
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1390": {
+      "conditions": {
+        "min_count": 1390
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1400": {
+      "conditions": {
+        "min_count": 1400
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1410": {
+      "conditions": {
+        "min_count": 1410
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1420": {
+      "conditions": {
+        "min_count": 1420
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1430": {
+      "conditions": {
+        "min_count": 1430
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1440": {
+      "conditions": {
+        "min_count": 1440
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1450": {
+      "conditions": {
+        "min_count": 1450
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1460": {
+      "conditions": {
+        "min_count": 1460
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1470": {
+      "conditions": {
+        "min_count": 1470
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1480": {
+      "conditions": {
+        "min_count": 1480
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1490": {
+      "conditions": {
+        "min_count": 1490
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1500": {
+      "conditions": {
+        "min_count": 1500
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1510": {
+      "conditions": {
+        "min_count": 1510
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1520": {
+      "conditions": {
+        "min_count": 1520
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1530": {
+      "conditions": {
+        "min_count": 1530
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1540": {
+      "conditions": {
+        "min_count": 1540
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1550": {
+      "conditions": {
+        "min_count": 1550
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1560": {
+      "conditions": {
+        "min_count": 1560
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1570": {
+      "conditions": {
+        "min_count": 1570
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1580": {
+      "conditions": {
+        "min_count": 1580
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1590": {
+      "conditions": {
+        "min_count": 1590
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1600": {
+      "conditions": {
+        "min_count": 1600
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1610": {
+      "conditions": {
+        "min_count": 1610
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1620": {
+      "conditions": {
+        "min_count": 1620
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1630": {
+      "conditions": {
+        "min_count": 1630
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1640": {
+      "conditions": {
+        "min_count": 1640
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1650": {
+      "conditions": {
+        "min_count": 1650
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1660": {
+      "conditions": {
+        "min_count": 1660
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1670": {
+      "conditions": {
+        "min_count": 1670
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1680": {
+      "conditions": {
+        "min_count": 1680
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1690": {
+      "conditions": {
+        "min_count": 1690
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1700": {
+      "conditions": {
+        "min_count": 1700
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1710": {
+      "conditions": {
+        "min_count": 1710
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1720": {
+      "conditions": {
+        "min_count": 1720
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1730": {
+      "conditions": {
+        "min_count": 1730
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1740": {
+      "conditions": {
+        "min_count": 1740
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1750": {
+      "conditions": {
+        "min_count": 1750
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1760": {
+      "conditions": {
+        "min_count": 1760
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1770": {
+      "conditions": {
+        "min_count": 1770
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1780": {
+      "conditions": {
+        "min_count": 1780
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1790": {
+      "conditions": {
+        "min_count": 1790
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1800": {
+      "conditions": {
+        "min_count": 1800
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1810": {
+      "conditions": {
+        "min_count": 1810
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1820": {
+      "conditions": {
+        "min_count": 1820
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1830": {
+      "conditions": {
+        "min_count": 1830
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1840": {
+      "conditions": {
+        "min_count": 1840
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1850": {
+      "conditions": {
+        "min_count": 1850
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1860": {
+      "conditions": {
+        "min_count": 1860
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1870": {
+      "conditions": {
+        "min_count": 1870
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1880": {
+      "conditions": {
+        "min_count": 1880
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1890": {
+      "conditions": {
+        "min_count": 1890
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1900": {
+      "conditions": {
+        "min_count": 1900
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1910": {
+      "conditions": {
+        "min_count": 1910
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1920": {
+      "conditions": {
+        "min_count": 1920
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1930": {
+      "conditions": {
+        "min_count": 1930
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1940": {
+      "conditions": {
+        "min_count": 1940
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1950": {
+      "conditions": {
+        "min_count": 1950
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1960": {
+      "conditions": {
+        "min_count": 1960
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1970": {
+      "conditions": {
+        "min_count": 1970
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1980": {
+      "conditions": {
+        "min_count": 1980
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_1990": {
+      "conditions": {
+        "min_count": 1990
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_2000": {
+      "conditions": {
+        "min_count": 2000
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_510": {
+      "conditions": {
+        "min_count": 510
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_530": {
+      "conditions": {
+        "min_count": 530
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_550": {
+      "conditions": {
+        "min_count": 550
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_570": {
+      "conditions": {
+        "min_count": 570
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_590": {
+      "conditions": {
+        "min_count": 590
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_610": {
+      "conditions": {
+        "min_count": 610
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_630": {
+      "conditions": {
+        "min_count": 630
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_650": {
+      "conditions": {
+        "min_count": 650
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_670": {
+      "conditions": {
+        "min_count": 670
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_690": {
+      "conditions": {
+        "min_count": 690
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_710": {
+      "conditions": {
+        "min_count": 710
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_720": {
+      "conditions": {
+        "min_count": 720
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_730": {
+      "conditions": {
+        "min_count": 730
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_740": {
+      "conditions": {
+        "min_count": 740
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_750": {
+      "conditions": {
+        "min_count": 750
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_760": {
+      "conditions": {
+        "min_count": 760
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_770": {
+      "conditions": {
+        "min_count": 770
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_780": {
+      "conditions": {
+        "min_count": 780
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_790": {
+      "conditions": {
+        "min_count": 790
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_800": {
+      "conditions": {
+        "min_count": 800
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_810": {
+      "conditions": {
+        "min_count": 810
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_820": {
+      "conditions": {
+        "min_count": 820
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_830": {
+      "conditions": {
+        "min_count": 830
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_840": {
+      "conditions": {
+        "min_count": 840
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_850": {
+      "conditions": {
+        "min_count": 850
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_860": {
+      "conditions": {
+        "min_count": 860
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_870": {
+      "conditions": {
+        "min_count": 870
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_880": {
+      "conditions": {
+        "min_count": 880
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_890": {
+      "conditions": {
+        "min_count": 890
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_900": {
+      "conditions": {
+        "min_count": 900
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_910": {
+      "conditions": {
+        "min_count": 910
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_920": {
+      "conditions": {
+        "min_count": 920
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_930": {
+      "conditions": {
+        "min_count": 930
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_940": {
+      "conditions": {
+        "min_count": 940
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_950": {
+      "conditions": {
+        "min_count": 950
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_960": {
+      "conditions": {
+        "min_count": 960
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_970": {
+      "conditions": {
+        "min_count": 970
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_980": {
+      "conditions": {
+        "min_count": 980
+      },
+      "trigger": "arcane_progression:rain_travel"
+    },
+    "wet_travel_990": {
+      "conditions": {
+        "min_count": 990
+      },
+      "trigger": "arcane_progression:rain_travel"
+    }
+  },
+  "display": {
+    "description": "Travel 2,000 blocks in rain",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:water_bucket"
+    },
+    "title": "Riptide II"
+  },
+  "requirements": [
+    [
+      "wet_travel_10"
+    ],
+    [
+      "wet_travel_20"
+    ],
+    [
+      "wet_travel_30"
+    ],
+    [
+      "wet_travel_40"
+    ],
+    [
+      "wet_travel_50"
+    ],
+    [
+      "wet_travel_60"
+    ],
+    [
+      "wet_travel_70"
+    ],
+    [
+      "wet_travel_80"
+    ],
+    [
+      "wet_travel_90"
+    ],
+    [
+      "wet_travel_100"
+    ],
+    [
+      "wet_travel_110"
+    ],
+    [
+      "wet_travel_120"
+    ],
+    [
+      "wet_travel_130"
+    ],
+    [
+      "wet_travel_140"
+    ],
+    [
+      "wet_travel_150"
+    ],
+    [
+      "wet_travel_160"
+    ],
+    [
+      "wet_travel_170"
+    ],
+    [
+      "wet_travel_180"
+    ],
+    [
+      "wet_travel_190"
+    ],
+    [
+      "wet_travel_200"
+    ],
+    [
+      "wet_travel_210"
+    ],
+    [
+      "wet_travel_220"
+    ],
+    [
+      "wet_travel_230"
+    ],
+    [
+      "wet_travel_240"
+    ],
+    [
+      "wet_travel_250"
+    ],
+    [
+      "wet_travel_260"
+    ],
+    [
+      "wet_travel_270"
+    ],
+    [
+      "wet_travel_280"
+    ],
+    [
+      "wet_travel_290"
+    ],
+    [
+      "wet_travel_300"
+    ],
+    [
+      "wet_travel_310"
+    ],
+    [
+      "wet_travel_320"
+    ],
+    [
+      "wet_travel_330"
+    ],
+    [
+      "wet_travel_340"
+    ],
+    [
+      "wet_travel_350"
+    ],
+    [
+      "wet_travel_360"
+    ],
+    [
+      "wet_travel_370"
+    ],
+    [
+      "wet_travel_380"
+    ],
+    [
+      "wet_travel_390"
+    ],
+    [
+      "wet_travel_400"
+    ],
+    [
+      "wet_travel_410"
+    ],
+    [
+      "wet_travel_420"
+    ],
+    [
+      "wet_travel_430"
+    ],
+    [
+      "wet_travel_440"
+    ],
+    [
+      "wet_travel_450"
+    ],
+    [
+      "wet_travel_460"
+    ],
+    [
+      "wet_travel_470"
+    ],
+    [
+      "wet_travel_480"
+    ],
+    [
+      "wet_travel_490"
+    ],
+    [
+      "wet_travel_500"
+    ],
+    [
+      "wet_travel_510"
+    ],
+    [
+      "wet_travel_520"
+    ],
+    [
+      "wet_travel_530"
+    ],
+    [
+      "wet_travel_540"
+    ],
+    [
+      "wet_travel_550"
+    ],
+    [
+      "wet_travel_560"
+    ],
+    [
+      "wet_travel_570"
+    ],
+    [
+      "wet_travel_580"
+    ],
+    [
+      "wet_travel_590"
+    ],
+    [
+      "wet_travel_600"
+    ],
+    [
+      "wet_travel_610"
+    ],
+    [
+      "wet_travel_620"
+    ],
+    [
+      "wet_travel_630"
+    ],
+    [
+      "wet_travel_640"
+    ],
+    [
+      "wet_travel_650"
+    ],
+    [
+      "wet_travel_660"
+    ],
+    [
+      "wet_travel_670"
+    ],
+    [
+      "wet_travel_680"
+    ],
+    [
+      "wet_travel_690"
+    ],
+    [
+      "wet_travel_700"
+    ],
+    [
+      "wet_travel_710"
+    ],
+    [
+      "wet_travel_720"
+    ],
+    [
+      "wet_travel_730"
+    ],
+    [
+      "wet_travel_740"
+    ],
+    [
+      "wet_travel_750"
+    ],
+    [
+      "wet_travel_760"
+    ],
+    [
+      "wet_travel_770"
+    ],
+    [
+      "wet_travel_780"
+    ],
+    [
+      "wet_travel_790"
+    ],
+    [
+      "wet_travel_800"
+    ],
+    [
+      "wet_travel_810"
+    ],
+    [
+      "wet_travel_820"
+    ],
+    [
+      "wet_travel_830"
+    ],
+    [
+      "wet_travel_840"
+    ],
+    [
+      "wet_travel_850"
+    ],
+    [
+      "wet_travel_860"
+    ],
+    [
+      "wet_travel_870"
+    ],
+    [
+      "wet_travel_880"
+    ],
+    [
+      "wet_travel_890"
+    ],
+    [
+      "wet_travel_900"
+    ],
+    [
+      "wet_travel_910"
+    ],
+    [
+      "wet_travel_920"
+    ],
+    [
+      "wet_travel_930"
+    ],
+    [
+      "wet_travel_940"
+    ],
+    [
+      "wet_travel_950"
+    ],
+    [
+      "wet_travel_960"
+    ],
+    [
+      "wet_travel_970"
+    ],
+    [
+      "wet_travel_980"
+    ],
+    [
+      "wet_travel_990"
+    ],
+    [
+      "wet_travel_1000"
+    ],
+    [
+      "wet_travel_1010"
+    ],
+    [
+      "wet_travel_1020"
+    ],
+    [
+      "wet_travel_1030"
+    ],
+    [
+      "wet_travel_1040"
+    ],
+    [
+      "wet_travel_1050"
+    ],
+    [
+      "wet_travel_1060"
+    ],
+    [
+      "wet_travel_1070"
+    ],
+    [
+      "wet_travel_1080"
+    ],
+    [
+      "wet_travel_1090"
+    ],
+    [
+      "wet_travel_1100"
+    ],
+    [
+      "wet_travel_1110"
+    ],
+    [
+      "wet_travel_1120"
+    ],
+    [
+      "wet_travel_1130"
+    ],
+    [
+      "wet_travel_1140"
+    ],
+    [
+      "wet_travel_1150"
+    ],
+    [
+      "wet_travel_1160"
+    ],
+    [
+      "wet_travel_1170"
+    ],
+    [
+      "wet_travel_1180"
+    ],
+    [
+      "wet_travel_1190"
+    ],
+    [
+      "wet_travel_1200"
+    ],
+    [
+      "wet_travel_1210"
+    ],
+    [
+      "wet_travel_1220"
+    ],
+    [
+      "wet_travel_1230"
+    ],
+    [
+      "wet_travel_1240"
+    ],
+    [
+      "wet_travel_1250"
+    ],
+    [
+      "wet_travel_1260"
+    ],
+    [
+      "wet_travel_1270"
+    ],
+    [
+      "wet_travel_1280"
+    ],
+    [
+      "wet_travel_1290"
+    ],
+    [
+      "wet_travel_1300"
+    ],
+    [
+      "wet_travel_1310"
+    ],
+    [
+      "wet_travel_1320"
+    ],
+    [
+      "wet_travel_1330"
+    ],
+    [
+      "wet_travel_1340"
+    ],
+    [
+      "wet_travel_1350"
+    ],
+    [
+      "wet_travel_1360"
+    ],
+    [
+      "wet_travel_1370"
+    ],
+    [
+      "wet_travel_1380"
+    ],
+    [
+      "wet_travel_1390"
+    ],
+    [
+      "wet_travel_1400"
+    ],
+    [
+      "wet_travel_1410"
+    ],
+    [
+      "wet_travel_1420"
+    ],
+    [
+      "wet_travel_1430"
+    ],
+    [
+      "wet_travel_1440"
+    ],
+    [
+      "wet_travel_1450"
+    ],
+    [
+      "wet_travel_1460"
+    ],
+    [
+      "wet_travel_1470"
+    ],
+    [
+      "wet_travel_1480"
+    ],
+    [
+      "wet_travel_1490"
+    ],
+    [
+      "wet_travel_1500"
+    ],
+    [
+      "wet_travel_1510"
+    ],
+    [
+      "wet_travel_1520"
+    ],
+    [
+      "wet_travel_1530"
+    ],
+    [
+      "wet_travel_1540"
+    ],
+    [
+      "wet_travel_1550"
+    ],
+    [
+      "wet_travel_1560"
+    ],
+    [
+      "wet_travel_1570"
+    ],
+    [
+      "wet_travel_1580"
+    ],
+    [
+      "wet_travel_1590"
+    ],
+    [
+      "wet_travel_1600"
+    ],
+    [
+      "wet_travel_1610"
+    ],
+    [
+      "wet_travel_1620"
+    ],
+    [
+      "wet_travel_1630"
+    ],
+    [
+      "wet_travel_1640"
+    ],
+    [
+      "wet_travel_1650"
+    ],
+    [
+      "wet_travel_1660"
+    ],
+    [
+      "wet_travel_1670"
+    ],
+    [
+      "wet_travel_1680"
+    ],
+    [
+      "wet_travel_1690"
+    ],
+    [
+      "wet_travel_1700"
+    ],
+    [
+      "wet_travel_1710"
+    ],
+    [
+      "wet_travel_1720"
+    ],
+    [
+      "wet_travel_1730"
+    ],
+    [
+      "wet_travel_1740"
+    ],
+    [
+      "wet_travel_1750"
+    ],
+    [
+      "wet_travel_1760"
+    ],
+    [
+      "wet_travel_1770"
+    ],
+    [
+      "wet_travel_1780"
+    ],
+    [
+      "wet_travel_1790"
+    ],
+    [
+      "wet_travel_1800"
+    ],
+    [
+      "wet_travel_1810"
+    ],
+    [
+      "wet_travel_1820"
+    ],
+    [
+      "wet_travel_1830"
+    ],
+    [
+      "wet_travel_1840"
+    ],
+    [
+      "wet_travel_1850"
+    ],
+    [
+      "wet_travel_1860"
+    ],
+    [
+      "wet_travel_1870"
+    ],
+    [
+      "wet_travel_1880"
+    ],
+    [
+      "wet_travel_1890"
+    ],
+    [
+      "wet_travel_1900"
+    ],
+    [
+      "wet_travel_1910"
+    ],
+    [
+      "wet_travel_1920"
+    ],
+    [
+      "wet_travel_1930"
+    ],
+    [
+      "wet_travel_1940"
+    ],
+    [
+      "wet_travel_1950"
+    ],
+    [
+      "wet_travel_1960"
+    ],
+    [
+      "wet_travel_1970"
+    ],
+    [
+      "wet_travel_1980"
+    ],
+    [
+      "wet_travel_1990"
+    ],
+    [
+      "wet_travel_2000"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

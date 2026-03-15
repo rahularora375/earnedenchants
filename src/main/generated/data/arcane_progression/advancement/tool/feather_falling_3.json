@@ -1,0 +1,286 @@
+{
+  "parent": "arcane_progression:tool/feather_falling_2",
+  "criteria": {
+    "fall_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    },
+    "fall_dmg_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:fall_damage_taken"
+    }
+  },
+  "display": {
+    "description": "Take 300 fall damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:feather"
+    },
+    "title": "Feather Falling III"
+  },
+  "requirements": [
+    [
+      "fall_dmg_10"
+    ],
+    [
+      "fall_dmg_20"
+    ],
+    [
+      "fall_dmg_30"
+    ],
+    [
+      "fall_dmg_40"
+    ],
+    [
+      "fall_dmg_50"
+    ],
+    [
+      "fall_dmg_60"
+    ],
+    [
+      "fall_dmg_70"
+    ],
+    [
+      "fall_dmg_80"
+    ],
+    [
+      "fall_dmg_90"
+    ],
+    [
+      "fall_dmg_100"
+    ],
+    [
+      "fall_dmg_110"
+    ],
+    [
+      "fall_dmg_120"
+    ],
+    [
+      "fall_dmg_130"
+    ],
+    [
+      "fall_dmg_140"
+    ],
+    [
+      "fall_dmg_150"
+    ],
+    [
+      "fall_dmg_160"
+    ],
+    [
+      "fall_dmg_170"
+    ],
+    [
+      "fall_dmg_180"
+    ],
+    [
+      "fall_dmg_190"
+    ],
+    [
+      "fall_dmg_200"
+    ],
+    [
+      "fall_dmg_210"
+    ],
+    [
+      "fall_dmg_220"
+    ],
+    [
+      "fall_dmg_230"
+    ],
+    [
+      "fall_dmg_240"
+    ],
+    [
+      "fall_dmg_250"
+    ],
+    [
+      "fall_dmg_260"
+    ],
+    [
+      "fall_dmg_270"
+    ],
+    [
+      "fall_dmg_280"
+    ],
+    [
+      "fall_dmg_290"
+    ],
+    [
+      "fall_dmg_300"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

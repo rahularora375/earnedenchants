@@ -1,0 +1,1097 @@
+{
+  "parent": "arcane_progression:tool/lunge_2",
+  "criteria": {
+    "spear_kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "arcane_progression:spear_kills"
+    },
+    "spear_kill_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "arcane_progression:spear_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 120 mobs with a spear",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_spear"
+    },
+    "title": "Lunge III"
+  },
+  "requirements": [
+    [
+      "spear_kill_1"
+    ],
+    [
+      "spear_kill_2"
+    ],
+    [
+      "spear_kill_3"
+    ],
+    [
+      "spear_kill_4"
+    ],
+    [
+      "spear_kill_5"
+    ],
+    [
+      "spear_kill_6"
+    ],
+    [
+      "spear_kill_7"
+    ],
+    [
+      "spear_kill_8"
+    ],
+    [
+      "spear_kill_9"
+    ],
+    [
+      "spear_kill_10"
+    ],
+    [
+      "spear_kill_11"
+    ],
+    [
+      "spear_kill_12"
+    ],
+    [
+      "spear_kill_13"
+    ],
+    [
+      "spear_kill_14"
+    ],
+    [
+      "spear_kill_15"
+    ],
+    [
+      "spear_kill_16"
+    ],
+    [
+      "spear_kill_17"
+    ],
+    [
+      "spear_kill_18"
+    ],
+    [
+      "spear_kill_19"
+    ],
+    [
+      "spear_kill_20"
+    ],
+    [
+      "spear_kill_21"
+    ],
+    [
+      "spear_kill_22"
+    ],
+    [
+      "spear_kill_23"
+    ],
+    [
+      "spear_kill_24"
+    ],
+    [
+      "spear_kill_25"
+    ],
+    [
+      "spear_kill_26"
+    ],
+    [
+      "spear_kill_27"
+    ],
+    [
+      "spear_kill_28"
+    ],
+    [
+      "spear_kill_29"
+    ],
+    [
+      "spear_kill_30"
+    ],
+    [
+      "spear_kill_31"
+    ],
+    [
+      "spear_kill_32"
+    ],
+    [
+      "spear_kill_33"
+    ],
+    [
+      "spear_kill_34"
+    ],
+    [
+      "spear_kill_35"
+    ],
+    [
+      "spear_kill_36"
+    ],
+    [
+      "spear_kill_37"
+    ],
+    [
+      "spear_kill_38"
+    ],
+    [
+      "spear_kill_39"
+    ],
+    [
+      "spear_kill_40"
+    ],
+    [
+      "spear_kill_41"
+    ],
+    [
+      "spear_kill_42"
+    ],
+    [
+      "spear_kill_43"
+    ],
+    [
+      "spear_kill_44"
+    ],
+    [
+      "spear_kill_45"
+    ],
+    [
+      "spear_kill_46"
+    ],
+    [
+      "spear_kill_47"
+    ],
+    [
+      "spear_kill_48"
+    ],
+    [
+      "spear_kill_49"
+    ],
+    [
+      "spear_kill_50"
+    ],
+    [
+      "spear_kill_51"
+    ],
+    [
+      "spear_kill_52"
+    ],
+    [
+      "spear_kill_53"
+    ],
+    [
+      "spear_kill_54"
+    ],
+    [
+      "spear_kill_55"
+    ],
+    [
+      "spear_kill_56"
+    ],
+    [
+      "spear_kill_57"
+    ],
+    [
+      "spear_kill_58"
+    ],
+    [
+      "spear_kill_59"
+    ],
+    [
+      "spear_kill_60"
+    ],
+    [
+      "spear_kill_61"
+    ],
+    [
+      "spear_kill_62"
+    ],
+    [
+      "spear_kill_63"
+    ],
+    [
+      "spear_kill_64"
+    ],
+    [
+      "spear_kill_65"
+    ],
+    [
+      "spear_kill_66"
+    ],
+    [
+      "spear_kill_67"
+    ],
+    [
+      "spear_kill_68"
+    ],
+    [
+      "spear_kill_69"
+    ],
+    [
+      "spear_kill_70"
+    ],
+    [
+      "spear_kill_71"
+    ],
+    [
+      "spear_kill_72"
+    ],
+    [
+      "spear_kill_73"
+    ],
+    [
+      "spear_kill_74"
+    ],
+    [
+      "spear_kill_75"
+    ],
+    [
+      "spear_kill_76"
+    ],
+    [
+      "spear_kill_77"
+    ],
+    [
+      "spear_kill_78"
+    ],
+    [
+      "spear_kill_79"
+    ],
+    [
+      "spear_kill_80"
+    ],
+    [
+      "spear_kill_81"
+    ],
+    [
+      "spear_kill_82"
+    ],
+    [
+      "spear_kill_83"
+    ],
+    [
+      "spear_kill_84"
+    ],
+    [
+      "spear_kill_85"
+    ],
+    [
+      "spear_kill_86"
+    ],
+    [
+      "spear_kill_87"
+    ],
+    [
+      "spear_kill_88"
+    ],
+    [
+      "spear_kill_89"
+    ],
+    [
+      "spear_kill_90"
+    ],
+    [
+      "spear_kill_91"
+    ],
+    [
+      "spear_kill_92"
+    ],
+    [
+      "spear_kill_93"
+    ],
+    [
+      "spear_kill_94"
+    ],
+    [
+      "spear_kill_95"
+    ],
+    [
+      "spear_kill_96"
+    ],
+    [
+      "spear_kill_97"
+    ],
+    [
+      "spear_kill_98"
+    ],
+    [
+      "spear_kill_99"
+    ],
+    [
+      "spear_kill_100"
+    ],
+    [
+      "spear_kill_101"
+    ],
+    [
+      "spear_kill_102"
+    ],
+    [
+      "spear_kill_103"
+    ],
+    [
+      "spear_kill_104"
+    ],
+    [
+      "spear_kill_105"
+    ],
+    [
+      "spear_kill_106"
+    ],
+    [
+      "spear_kill_107"
+    ],
+    [
+      "spear_kill_108"
+    ],
+    [
+      "spear_kill_109"
+    ],
+    [
+      "spear_kill_110"
+    ],
+    [
+      "spear_kill_111"
+    ],
+    [
+      "spear_kill_112"
+    ],
+    [
+      "spear_kill_113"
+    ],
+    [
+      "spear_kill_114"
+    ],
+    [
+      "spear_kill_115"
+    ],
+    [
+      "spear_kill_116"
+    ],
+    [
+      "spear_kill_117"
+    ],
+    [
+      "spear_kill_118"
+    ],
+    [
+      "spear_kill_119"
+    ],
+    [
+      "spear_kill_120"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

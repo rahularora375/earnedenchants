@@ -1,0 +1,196 @@
+{
+  "parent": "arcane_progression:tool/armor_cat",
+  "criteria": {
+    "drown_dmg_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    },
+    "drown_dmg_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:drowning_damage"
+    }
+  },
+  "display": {
+    "description": "Take 20 drowning damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:pufferfish"
+    },
+    "title": "Respiration I"
+  },
+  "requirements": [
+    [
+      "drown_dmg_1"
+    ],
+    [
+      "drown_dmg_2"
+    ],
+    [
+      "drown_dmg_3"
+    ],
+    [
+      "drown_dmg_4"
+    ],
+    [
+      "drown_dmg_5"
+    ],
+    [
+      "drown_dmg_6"
+    ],
+    [
+      "drown_dmg_7"
+    ],
+    [
+      "drown_dmg_8"
+    ],
+    [
+      "drown_dmg_9"
+    ],
+    [
+      "drown_dmg_10"
+    ],
+    [
+      "drown_dmg_11"
+    ],
+    [
+      "drown_dmg_12"
+    ],
+    [
+      "drown_dmg_13"
+    ],
+    [
+      "drown_dmg_14"
+    ],
+    [
+      "drown_dmg_15"
+    ],
+    [
+      "drown_dmg_16"
+    ],
+    [
+      "drown_dmg_17"
+    ],
+    [
+      "drown_dmg_18"
+    ],
+    [
+      "drown_dmg_19"
+    ],
+    [
+      "drown_dmg_20"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

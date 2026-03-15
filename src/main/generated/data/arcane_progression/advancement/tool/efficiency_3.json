@@ -1,0 +1,286 @@
+{
+  "parent": "arcane_progression:tool/efficiency_2",
+  "criteria": {
+    "mine_1024": {
+      "conditions": {
+        "min_blocks": 1024
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1088": {
+      "conditions": {
+        "min_blocks": 1088
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1152": {
+      "conditions": {
+        "min_blocks": 1152
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1216": {
+      "conditions": {
+        "min_blocks": 1216
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_128": {
+      "conditions": {
+        "min_blocks": 128
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1280": {
+      "conditions": {
+        "min_blocks": 1280
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1344": {
+      "conditions": {
+        "min_blocks": 1344
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1408": {
+      "conditions": {
+        "min_blocks": 1408
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1472": {
+      "conditions": {
+        "min_blocks": 1472
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1536": {
+      "conditions": {
+        "min_blocks": 1536
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1600": {
+      "conditions": {
+        "min_blocks": 1600
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1664": {
+      "conditions": {
+        "min_blocks": 1664
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1728": {
+      "conditions": {
+        "min_blocks": 1728
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1792": {
+      "conditions": {
+        "min_blocks": 1792
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1856": {
+      "conditions": {
+        "min_blocks": 1856
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_192": {
+      "conditions": {
+        "min_blocks": 192
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_1920": {
+      "conditions": {
+        "min_blocks": 1920
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_256": {
+      "conditions": {
+        "min_blocks": 256
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_320": {
+      "conditions": {
+        "min_blocks": 320
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_384": {
+      "conditions": {
+        "min_blocks": 384
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_448": {
+      "conditions": {
+        "min_blocks": 448
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_512": {
+      "conditions": {
+        "min_blocks": 512
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_576": {
+      "conditions": {
+        "min_blocks": 576
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_64": {
+      "conditions": {
+        "min_blocks": 64
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_640": {
+      "conditions": {
+        "min_blocks": 640
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_704": {
+      "conditions": {
+        "min_blocks": 704
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_768": {
+      "conditions": {
+        "min_blocks": 768
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_832": {
+      "conditions": {
+        "min_blocks": 832
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_896": {
+      "conditions": {
+        "min_blocks": 896
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    },
+    "mine_960": {
+      "conditions": {
+        "min_blocks": 960
+      },
+      "trigger": "arcane_progression:blocks_mined"
+    }
+  },
+  "display": {
+    "description": "Mine 1,920 blocks",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_pickaxe"
+    },
+    "title": "Efficiency III"
+  },
+  "requirements": [
+    [
+      "mine_64"
+    ],
+    [
+      "mine_128"
+    ],
+    [
+      "mine_192"
+    ],
+    [
+      "mine_256"
+    ],
+    [
+      "mine_320"
+    ],
+    [
+      "mine_384"
+    ],
+    [
+      "mine_448"
+    ],
+    [
+      "mine_512"
+    ],
+    [
+      "mine_576"
+    ],
+    [
+      "mine_640"
+    ],
+    [
+      "mine_704"
+    ],
+    [
+      "mine_768"
+    ],
+    [
+      "mine_832"
+    ],
+    [
+      "mine_896"
+    ],
+    [
+      "mine_960"
+    ],
+    [
+      "mine_1024"
+    ],
+    [
+      "mine_1088"
+    ],
+    [
+      "mine_1152"
+    ],
+    [
+      "mine_1216"
+    ],
+    [
+      "mine_1280"
+    ],
+    [
+      "mine_1344"
+    ],
+    [
+      "mine_1408"
+    ],
+    [
+      "mine_1472"
+    ],
+    [
+      "mine_1536"
+    ],
+    [
+      "mine_1600"
+    ],
+    [
+      "mine_1664"
+    ],
+    [
+      "mine_1728"
+    ],
+    [
+      "mine_1792"
+    ],
+    [
+      "mine_1856"
+    ],
+    [
+      "mine_1920"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

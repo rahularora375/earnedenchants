@@ -1,0 +1,1817 @@
+{
+  "parent": "arcane_progression:tool/impaling_4",
+  "criteria": {
+    "aquatic_kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_151": {
+      "conditions": {
+        "min_count": 151
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_152": {
+      "conditions": {
+        "min_count": 152
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_153": {
+      "conditions": {
+        "min_count": 153
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_154": {
+      "conditions": {
+        "min_count": 154
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_155": {
+      "conditions": {
+        "min_count": 155
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_156": {
+      "conditions": {
+        "min_count": 156
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_157": {
+      "conditions": {
+        "min_count": 157
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_158": {
+      "conditions": {
+        "min_count": 158
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_159": {
+      "conditions": {
+        "min_count": 159
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_161": {
+      "conditions": {
+        "min_count": 161
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_162": {
+      "conditions": {
+        "min_count": 162
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_163": {
+      "conditions": {
+        "min_count": 163
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_164": {
+      "conditions": {
+        "min_count": 164
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_165": {
+      "conditions": {
+        "min_count": 165
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_166": {
+      "conditions": {
+        "min_count": 166
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_167": {
+      "conditions": {
+        "min_count": 167
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_168": {
+      "conditions": {
+        "min_count": 168
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_169": {
+      "conditions": {
+        "min_count": 169
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_171": {
+      "conditions": {
+        "min_count": 171
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_172": {
+      "conditions": {
+        "min_count": 172
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_173": {
+      "conditions": {
+        "min_count": 173
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_174": {
+      "conditions": {
+        "min_count": 174
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_175": {
+      "conditions": {
+        "min_count": 175
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_176": {
+      "conditions": {
+        "min_count": 176
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_177": {
+      "conditions": {
+        "min_count": 177
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_178": {
+      "conditions": {
+        "min_count": 178
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_179": {
+      "conditions": {
+        "min_count": 179
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_181": {
+      "conditions": {
+        "min_count": 181
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_182": {
+      "conditions": {
+        "min_count": 182
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_183": {
+      "conditions": {
+        "min_count": 183
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_184": {
+      "conditions": {
+        "min_count": 184
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_185": {
+      "conditions": {
+        "min_count": 185
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_186": {
+      "conditions": {
+        "min_count": 186
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_187": {
+      "conditions": {
+        "min_count": 187
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_188": {
+      "conditions": {
+        "min_count": 188
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_189": {
+      "conditions": {
+        "min_count": 189
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_191": {
+      "conditions": {
+        "min_count": 191
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_192": {
+      "conditions": {
+        "min_count": 192
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_193": {
+      "conditions": {
+        "min_count": 193
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_194": {
+      "conditions": {
+        "min_count": 194
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_195": {
+      "conditions": {
+        "min_count": 195
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_196": {
+      "conditions": {
+        "min_count": 196
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_197": {
+      "conditions": {
+        "min_count": 197
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_198": {
+      "conditions": {
+        "min_count": 198
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_199": {
+      "conditions": {
+        "min_count": 199
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    },
+    "aquatic_kill_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "arcane_progression:aquatic_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 200 aquatic mobs",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:salmon"
+    },
+    "title": "Impaling V"
+  },
+  "requirements": [
+    [
+      "aquatic_kill_1"
+    ],
+    [
+      "aquatic_kill_2"
+    ],
+    [
+      "aquatic_kill_3"
+    ],
+    [
+      "aquatic_kill_4"
+    ],
+    [
+      "aquatic_kill_5"
+    ],
+    [
+      "aquatic_kill_6"
+    ],
+    [
+      "aquatic_kill_7"
+    ],
+    [
+      "aquatic_kill_8"
+    ],
+    [
+      "aquatic_kill_9"
+    ],
+    [
+      "aquatic_kill_10"
+    ],
+    [
+      "aquatic_kill_11"
+    ],
+    [
+      "aquatic_kill_12"
+    ],
+    [
+      "aquatic_kill_13"
+    ],
+    [
+      "aquatic_kill_14"
+    ],
+    [
+      "aquatic_kill_15"
+    ],
+    [
+      "aquatic_kill_16"
+    ],
+    [
+      "aquatic_kill_17"
+    ],
+    [
+      "aquatic_kill_18"
+    ],
+    [
+      "aquatic_kill_19"
+    ],
+    [
+      "aquatic_kill_20"
+    ],
+    [
+      "aquatic_kill_21"
+    ],
+    [
+      "aquatic_kill_22"
+    ],
+    [
+      "aquatic_kill_23"
+    ],
+    [
+      "aquatic_kill_24"
+    ],
+    [
+      "aquatic_kill_25"
+    ],
+    [
+      "aquatic_kill_26"
+    ],
+    [
+      "aquatic_kill_27"
+    ],
+    [
+      "aquatic_kill_28"
+    ],
+    [
+      "aquatic_kill_29"
+    ],
+    [
+      "aquatic_kill_30"
+    ],
+    [
+      "aquatic_kill_31"
+    ],
+    [
+      "aquatic_kill_32"
+    ],
+    [
+      "aquatic_kill_33"
+    ],
+    [
+      "aquatic_kill_34"
+    ],
+    [
+      "aquatic_kill_35"
+    ],
+    [
+      "aquatic_kill_36"
+    ],
+    [
+      "aquatic_kill_37"
+    ],
+    [
+      "aquatic_kill_38"
+    ],
+    [
+      "aquatic_kill_39"
+    ],
+    [
+      "aquatic_kill_40"
+    ],
+    [
+      "aquatic_kill_41"
+    ],
+    [
+      "aquatic_kill_42"
+    ],
+    [
+      "aquatic_kill_43"
+    ],
+    [
+      "aquatic_kill_44"
+    ],
+    [
+      "aquatic_kill_45"
+    ],
+    [
+      "aquatic_kill_46"
+    ],
+    [
+      "aquatic_kill_47"
+    ],
+    [
+      "aquatic_kill_48"
+    ],
+    [
+      "aquatic_kill_49"
+    ],
+    [
+      "aquatic_kill_50"
+    ],
+    [
+      "aquatic_kill_51"
+    ],
+    [
+      "aquatic_kill_52"
+    ],
+    [
+      "aquatic_kill_53"
+    ],
+    [
+      "aquatic_kill_54"
+    ],
+    [
+      "aquatic_kill_55"
+    ],
+    [
+      "aquatic_kill_56"
+    ],
+    [
+      "aquatic_kill_57"
+    ],
+    [
+      "aquatic_kill_58"
+    ],
+    [
+      "aquatic_kill_59"
+    ],
+    [
+      "aquatic_kill_60"
+    ],
+    [
+      "aquatic_kill_61"
+    ],
+    [
+      "aquatic_kill_62"
+    ],
+    [
+      "aquatic_kill_63"
+    ],
+    [
+      "aquatic_kill_64"
+    ],
+    [
+      "aquatic_kill_65"
+    ],
+    [
+      "aquatic_kill_66"
+    ],
+    [
+      "aquatic_kill_67"
+    ],
+    [
+      "aquatic_kill_68"
+    ],
+    [
+      "aquatic_kill_69"
+    ],
+    [
+      "aquatic_kill_70"
+    ],
+    [
+      "aquatic_kill_71"
+    ],
+    [
+      "aquatic_kill_72"
+    ],
+    [
+      "aquatic_kill_73"
+    ],
+    [
+      "aquatic_kill_74"
+    ],
+    [
+      "aquatic_kill_75"
+    ],
+    [
+      "aquatic_kill_76"
+    ],
+    [
+      "aquatic_kill_77"
+    ],
+    [
+      "aquatic_kill_78"
+    ],
+    [
+      "aquatic_kill_79"
+    ],
+    [
+      "aquatic_kill_80"
+    ],
+    [
+      "aquatic_kill_81"
+    ],
+    [
+      "aquatic_kill_82"
+    ],
+    [
+      "aquatic_kill_83"
+    ],
+    [
+      "aquatic_kill_84"
+    ],
+    [
+      "aquatic_kill_85"
+    ],
+    [
+      "aquatic_kill_86"
+    ],
+    [
+      "aquatic_kill_87"
+    ],
+    [
+      "aquatic_kill_88"
+    ],
+    [
+      "aquatic_kill_89"
+    ],
+    [
+      "aquatic_kill_90"
+    ],
+    [
+      "aquatic_kill_91"
+    ],
+    [
+      "aquatic_kill_92"
+    ],
+    [
+      "aquatic_kill_93"
+    ],
+    [
+      "aquatic_kill_94"
+    ],
+    [
+      "aquatic_kill_95"
+    ],
+    [
+      "aquatic_kill_96"
+    ],
+    [
+      "aquatic_kill_97"
+    ],
+    [
+      "aquatic_kill_98"
+    ],
+    [
+      "aquatic_kill_99"
+    ],
+    [
+      "aquatic_kill_100"
+    ],
+    [
+      "aquatic_kill_101"
+    ],
+    [
+      "aquatic_kill_102"
+    ],
+    [
+      "aquatic_kill_103"
+    ],
+    [
+      "aquatic_kill_104"
+    ],
+    [
+      "aquatic_kill_105"
+    ],
+    [
+      "aquatic_kill_106"
+    ],
+    [
+      "aquatic_kill_107"
+    ],
+    [
+      "aquatic_kill_108"
+    ],
+    [
+      "aquatic_kill_109"
+    ],
+    [
+      "aquatic_kill_110"
+    ],
+    [
+      "aquatic_kill_111"
+    ],
+    [
+      "aquatic_kill_112"
+    ],
+    [
+      "aquatic_kill_113"
+    ],
+    [
+      "aquatic_kill_114"
+    ],
+    [
+      "aquatic_kill_115"
+    ],
+    [
+      "aquatic_kill_116"
+    ],
+    [
+      "aquatic_kill_117"
+    ],
+    [
+      "aquatic_kill_118"
+    ],
+    [
+      "aquatic_kill_119"
+    ],
+    [
+      "aquatic_kill_120"
+    ],
+    [
+      "aquatic_kill_121"
+    ],
+    [
+      "aquatic_kill_122"
+    ],
+    [
+      "aquatic_kill_123"
+    ],
+    [
+      "aquatic_kill_124"
+    ],
+    [
+      "aquatic_kill_125"
+    ],
+    [
+      "aquatic_kill_126"
+    ],
+    [
+      "aquatic_kill_127"
+    ],
+    [
+      "aquatic_kill_128"
+    ],
+    [
+      "aquatic_kill_129"
+    ],
+    [
+      "aquatic_kill_130"
+    ],
+    [
+      "aquatic_kill_131"
+    ],
+    [
+      "aquatic_kill_132"
+    ],
+    [
+      "aquatic_kill_133"
+    ],
+    [
+      "aquatic_kill_134"
+    ],
+    [
+      "aquatic_kill_135"
+    ],
+    [
+      "aquatic_kill_136"
+    ],
+    [
+      "aquatic_kill_137"
+    ],
+    [
+      "aquatic_kill_138"
+    ],
+    [
+      "aquatic_kill_139"
+    ],
+    [
+      "aquatic_kill_140"
+    ],
+    [
+      "aquatic_kill_141"
+    ],
+    [
+      "aquatic_kill_142"
+    ],
+    [
+      "aquatic_kill_143"
+    ],
+    [
+      "aquatic_kill_144"
+    ],
+    [
+      "aquatic_kill_145"
+    ],
+    [
+      "aquatic_kill_146"
+    ],
+    [
+      "aquatic_kill_147"
+    ],
+    [
+      "aquatic_kill_148"
+    ],
+    [
+      "aquatic_kill_149"
+    ],
+    [
+      "aquatic_kill_150"
+    ],
+    [
+      "aquatic_kill_151"
+    ],
+    [
+      "aquatic_kill_152"
+    ],
+    [
+      "aquatic_kill_153"
+    ],
+    [
+      "aquatic_kill_154"
+    ],
+    [
+      "aquatic_kill_155"
+    ],
+    [
+      "aquatic_kill_156"
+    ],
+    [
+      "aquatic_kill_157"
+    ],
+    [
+      "aquatic_kill_158"
+    ],
+    [
+      "aquatic_kill_159"
+    ],
+    [
+      "aquatic_kill_160"
+    ],
+    [
+      "aquatic_kill_161"
+    ],
+    [
+      "aquatic_kill_162"
+    ],
+    [
+      "aquatic_kill_163"
+    ],
+    [
+      "aquatic_kill_164"
+    ],
+    [
+      "aquatic_kill_165"
+    ],
+    [
+      "aquatic_kill_166"
+    ],
+    [
+      "aquatic_kill_167"
+    ],
+    [
+      "aquatic_kill_168"
+    ],
+    [
+      "aquatic_kill_169"
+    ],
+    [
+      "aquatic_kill_170"
+    ],
+    [
+      "aquatic_kill_171"
+    ],
+    [
+      "aquatic_kill_172"
+    ],
+    [
+      "aquatic_kill_173"
+    ],
+    [
+      "aquatic_kill_174"
+    ],
+    [
+      "aquatic_kill_175"
+    ],
+    [
+      "aquatic_kill_176"
+    ],
+    [
+      "aquatic_kill_177"
+    ],
+    [
+      "aquatic_kill_178"
+    ],
+    [
+      "aquatic_kill_179"
+    ],
+    [
+      "aquatic_kill_180"
+    ],
+    [
+      "aquatic_kill_181"
+    ],
+    [
+      "aquatic_kill_182"
+    ],
+    [
+      "aquatic_kill_183"
+    ],
+    [
+      "aquatic_kill_184"
+    ],
+    [
+      "aquatic_kill_185"
+    ],
+    [
+      "aquatic_kill_186"
+    ],
+    [
+      "aquatic_kill_187"
+    ],
+    [
+      "aquatic_kill_188"
+    ],
+    [
+      "aquatic_kill_189"
+    ],
+    [
+      "aquatic_kill_190"
+    ],
+    [
+      "aquatic_kill_191"
+    ],
+    [
+      "aquatic_kill_192"
+    ],
+    [
+      "aquatic_kill_193"
+    ],
+    [
+      "aquatic_kill_194"
+    ],
+    [
+      "aquatic_kill_195"
+    ],
+    [
+      "aquatic_kill_196"
+    ],
+    [
+      "aquatic_kill_197"
+    ],
+    [
+      "aquatic_kill_198"
+    ],
+    [
+      "aquatic_kill_199"
+    ],
+    [
+      "aquatic_kill_200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,31 @@
+{
+	"required": true,
+	"package": "com.rahularora.arcaneprogression.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"AdvancementVisibilityMixin",
+		"ItemBreakMixin",
+		"FishingMixin",
+		"KnockbackFallMixin",
+		"SweepAttackMixin",
+		"ProjectileHitMixin",
+		"BowFireMixin",
+		"CrossbowFireMixin",
+		"TridentPickupMixin",
+		"WetTravelMixin",
+		"MeleeHitMixin",
+		"DamageTakenMixin",
+		"AdvancementNodeAccessor",
+		"AdvancementSpacingMixin",
+		"WindChargeUseMixin",
+		"AdvancementAwardMixin",
+		"EnchantingTableMixin",
+		"EnchantmentHelperMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

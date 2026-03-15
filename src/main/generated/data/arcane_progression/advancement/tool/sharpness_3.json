@@ -1,0 +1,1366 @@
+{
+  "parent": "arcane_progression:tool/sharpness_2",
+  "criteria": {
+    "kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "arcane_progression:mob_kills"
+    },
+    "kill_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "arcane_progression:mob_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 150 mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_sword"
+    },
+    "title": "Sharpness III"
+  },
+  "requirements": [
+    [
+      "kill_1"
+    ],
+    [
+      "kill_2"
+    ],
+    [
+      "kill_3"
+    ],
+    [
+      "kill_4"
+    ],
+    [
+      "kill_5"
+    ],
+    [
+      "kill_6"
+    ],
+    [
+      "kill_7"
+    ],
+    [
+      "kill_8"
+    ],
+    [
+      "kill_9"
+    ],
+    [
+      "kill_10"
+    ],
+    [
+      "kill_11"
+    ],
+    [
+      "kill_12"
+    ],
+    [
+      "kill_13"
+    ],
+    [
+      "kill_14"
+    ],
+    [
+      "kill_15"
+    ],
+    [
+      "kill_16"
+    ],
+    [
+      "kill_17"
+    ],
+    [
+      "kill_18"
+    ],
+    [
+      "kill_19"
+    ],
+    [
+      "kill_20"
+    ],
+    [
+      "kill_21"
+    ],
+    [
+      "kill_22"
+    ],
+    [
+      "kill_23"
+    ],
+    [
+      "kill_24"
+    ],
+    [
+      "kill_25"
+    ],
+    [
+      "kill_26"
+    ],
+    [
+      "kill_27"
+    ],
+    [
+      "kill_28"
+    ],
+    [
+      "kill_29"
+    ],
+    [
+      "kill_30"
+    ],
+    [
+      "kill_31"
+    ],
+    [
+      "kill_32"
+    ],
+    [
+      "kill_33"
+    ],
+    [
+      "kill_34"
+    ],
+    [
+      "kill_35"
+    ],
+    [
+      "kill_36"
+    ],
+    [
+      "kill_37"
+    ],
+    [
+      "kill_38"
+    ],
+    [
+      "kill_39"
+    ],
+    [
+      "kill_40"
+    ],
+    [
+      "kill_41"
+    ],
+    [
+      "kill_42"
+    ],
+    [
+      "kill_43"
+    ],
+    [
+      "kill_44"
+    ],
+    [
+      "kill_45"
+    ],
+    [
+      "kill_46"
+    ],
+    [
+      "kill_47"
+    ],
+    [
+      "kill_48"
+    ],
+    [
+      "kill_49"
+    ],
+    [
+      "kill_50"
+    ],
+    [
+      "kill_51"
+    ],
+    [
+      "kill_52"
+    ],
+    [
+      "kill_53"
+    ],
+    [
+      "kill_54"
+    ],
+    [
+      "kill_55"
+    ],
+    [
+      "kill_56"
+    ],
+    [
+      "kill_57"
+    ],
+    [
+      "kill_58"
+    ],
+    [
+      "kill_59"
+    ],
+    [
+      "kill_60"
+    ],
+    [
+      "kill_61"
+    ],
+    [
+      "kill_62"
+    ],
+    [
+      "kill_63"
+    ],
+    [
+      "kill_64"
+    ],
+    [
+      "kill_65"
+    ],
+    [
+      "kill_66"
+    ],
+    [
+      "kill_67"
+    ],
+    [
+      "kill_68"
+    ],
+    [
+      "kill_69"
+    ],
+    [
+      "kill_70"
+    ],
+    [
+      "kill_71"
+    ],
+    [
+      "kill_72"
+    ],
+    [
+      "kill_73"
+    ],
+    [
+      "kill_74"
+    ],
+    [
+      "kill_75"
+    ],
+    [
+      "kill_76"
+    ],
+    [
+      "kill_77"
+    ],
+    [
+      "kill_78"
+    ],
+    [
+      "kill_79"
+    ],
+    [
+      "kill_80"
+    ],
+    [
+      "kill_81"
+    ],
+    [
+      "kill_82"
+    ],
+    [
+      "kill_83"
+    ],
+    [
+      "kill_84"
+    ],
+    [
+      "kill_85"
+    ],
+    [
+      "kill_86"
+    ],
+    [
+      "kill_87"
+    ],
+    [
+      "kill_88"
+    ],
+    [
+      "kill_89"
+    ],
+    [
+      "kill_90"
+    ],
+    [
+      "kill_91"
+    ],
+    [
+      "kill_92"
+    ],
+    [
+      "kill_93"
+    ],
+    [
+      "kill_94"
+    ],
+    [
+      "kill_95"
+    ],
+    [
+      "kill_96"
+    ],
+    [
+      "kill_97"
+    ],
+    [
+      "kill_98"
+    ],
+    [
+      "kill_99"
+    ],
+    [
+      "kill_100"
+    ],
+    [
+      "kill_101"
+    ],
+    [
+      "kill_102"
+    ],
+    [
+      "kill_103"
+    ],
+    [
+      "kill_104"
+    ],
+    [
+      "kill_105"
+    ],
+    [
+      "kill_106"
+    ],
+    [
+      "kill_107"
+    ],
+    [
+      "kill_108"
+    ],
+    [
+      "kill_109"
+    ],
+    [
+      "kill_110"
+    ],
+    [
+      "kill_111"
+    ],
+    [
+      "kill_112"
+    ],
+    [
+      "kill_113"
+    ],
+    [
+      "kill_114"
+    ],
+    [
+      "kill_115"
+    ],
+    [
+      "kill_116"
+    ],
+    [
+      "kill_117"
+    ],
+    [
+      "kill_118"
+    ],
+    [
+      "kill_119"
+    ],
+    [
+      "kill_120"
+    ],
+    [
+      "kill_121"
+    ],
+    [
+      "kill_122"
+    ],
+    [
+      "kill_123"
+    ],
+    [
+      "kill_124"
+    ],
+    [
+      "kill_125"
+    ],
+    [
+      "kill_126"
+    ],
+    [
+      "kill_127"
+    ],
+    [
+      "kill_128"
+    ],
+    [
+      "kill_129"
+    ],
+    [
+      "kill_130"
+    ],
+    [
+      "kill_131"
+    ],
+    [
+      "kill_132"
+    ],
+    [
+      "kill_133"
+    ],
+    [
+      "kill_134"
+    ],
+    [
+      "kill_135"
+    ],
+    [
+      "kill_136"
+    ],
+    [
+      "kill_137"
+    ],
+    [
+      "kill_138"
+    ],
+    [
+      "kill_139"
+    ],
+    [
+      "kill_140"
+    ],
+    [
+      "kill_141"
+    ],
+    [
+      "kill_142"
+    ],
+    [
+      "kill_143"
+    ],
+    [
+      "kill_144"
+    ],
+    [
+      "kill_145"
+    ],
+    [
+      "kill_146"
+    ],
+    [
+      "kill_147"
+    ],
+    [
+      "kill_148"
+    ],
+    [
+      "kill_149"
+    ],
+    [
+      "kill_150"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

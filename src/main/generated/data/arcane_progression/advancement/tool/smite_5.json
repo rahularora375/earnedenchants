@@ -1,0 +1,1817 @@
+{
+  "parent": "arcane_progression:tool/smite_4",
+  "criteria": {
+    "undead_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_151": {
+      "conditions": {
+        "min_count": 151
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_152": {
+      "conditions": {
+        "min_count": 152
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_153": {
+      "conditions": {
+        "min_count": 153
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_154": {
+      "conditions": {
+        "min_count": 154
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_155": {
+      "conditions": {
+        "min_count": 155
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_156": {
+      "conditions": {
+        "min_count": 156
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_157": {
+      "conditions": {
+        "min_count": 157
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_158": {
+      "conditions": {
+        "min_count": 158
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_159": {
+      "conditions": {
+        "min_count": 159
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_161": {
+      "conditions": {
+        "min_count": 161
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_162": {
+      "conditions": {
+        "min_count": 162
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_163": {
+      "conditions": {
+        "min_count": 163
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_164": {
+      "conditions": {
+        "min_count": 164
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_165": {
+      "conditions": {
+        "min_count": 165
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_166": {
+      "conditions": {
+        "min_count": 166
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_167": {
+      "conditions": {
+        "min_count": 167
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_168": {
+      "conditions": {
+        "min_count": 168
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_169": {
+      "conditions": {
+        "min_count": 169
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_171": {
+      "conditions": {
+        "min_count": 171
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_172": {
+      "conditions": {
+        "min_count": 172
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_173": {
+      "conditions": {
+        "min_count": 173
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_174": {
+      "conditions": {
+        "min_count": 174
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_175": {
+      "conditions": {
+        "min_count": 175
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_176": {
+      "conditions": {
+        "min_count": 176
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_177": {
+      "conditions": {
+        "min_count": 177
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_178": {
+      "conditions": {
+        "min_count": 178
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_179": {
+      "conditions": {
+        "min_count": 179
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_181": {
+      "conditions": {
+        "min_count": 181
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_182": {
+      "conditions": {
+        "min_count": 182
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_183": {
+      "conditions": {
+        "min_count": 183
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_184": {
+      "conditions": {
+        "min_count": 184
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_185": {
+      "conditions": {
+        "min_count": 185
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_186": {
+      "conditions": {
+        "min_count": 186
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_187": {
+      "conditions": {
+        "min_count": 187
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_188": {
+      "conditions": {
+        "min_count": 188
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_189": {
+      "conditions": {
+        "min_count": 189
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_191": {
+      "conditions": {
+        "min_count": 191
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_192": {
+      "conditions": {
+        "min_count": 192
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_193": {
+      "conditions": {
+        "min_count": 193
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_194": {
+      "conditions": {
+        "min_count": 194
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_195": {
+      "conditions": {
+        "min_count": 195
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_196": {
+      "conditions": {
+        "min_count": 196
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_197": {
+      "conditions": {
+        "min_count": 197
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_198": {
+      "conditions": {
+        "min_count": 198
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_199": {
+      "conditions": {
+        "min_count": 199
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "arcane_progression:undead_kills"
+    },
+    "undead_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "arcane_progression:undead_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 200 undead mobs",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:rotten_flesh"
+    },
+    "title": "Smite V"
+  },
+  "requirements": [
+    [
+      "undead_1"
+    ],
+    [
+      "undead_2"
+    ],
+    [
+      "undead_3"
+    ],
+    [
+      "undead_4"
+    ],
+    [
+      "undead_5"
+    ],
+    [
+      "undead_6"
+    ],
+    [
+      "undead_7"
+    ],
+    [
+      "undead_8"
+    ],
+    [
+      "undead_9"
+    ],
+    [
+      "undead_10"
+    ],
+    [
+      "undead_11"
+    ],
+    [
+      "undead_12"
+    ],
+    [
+      "undead_13"
+    ],
+    [
+      "undead_14"
+    ],
+    [
+      "undead_15"
+    ],
+    [
+      "undead_16"
+    ],
+    [
+      "undead_17"
+    ],
+    [
+      "undead_18"
+    ],
+    [
+      "undead_19"
+    ],
+    [
+      "undead_20"
+    ],
+    [
+      "undead_21"
+    ],
+    [
+      "undead_22"
+    ],
+    [
+      "undead_23"
+    ],
+    [
+      "undead_24"
+    ],
+    [
+      "undead_25"
+    ],
+    [
+      "undead_26"
+    ],
+    [
+      "undead_27"
+    ],
+    [
+      "undead_28"
+    ],
+    [
+      "undead_29"
+    ],
+    [
+      "undead_30"
+    ],
+    [
+      "undead_31"
+    ],
+    [
+      "undead_32"
+    ],
+    [
+      "undead_33"
+    ],
+    [
+      "undead_34"
+    ],
+    [
+      "undead_35"
+    ],
+    [
+      "undead_36"
+    ],
+    [
+      "undead_37"
+    ],
+    [
+      "undead_38"
+    ],
+    [
+      "undead_39"
+    ],
+    [
+      "undead_40"
+    ],
+    [
+      "undead_41"
+    ],
+    [
+      "undead_42"
+    ],
+    [
+      "undead_43"
+    ],
+    [
+      "undead_44"
+    ],
+    [
+      "undead_45"
+    ],
+    [
+      "undead_46"
+    ],
+    [
+      "undead_47"
+    ],
+    [
+      "undead_48"
+    ],
+    [
+      "undead_49"
+    ],
+    [
+      "undead_50"
+    ],
+    [
+      "undead_51"
+    ],
+    [
+      "undead_52"
+    ],
+    [
+      "undead_53"
+    ],
+    [
+      "undead_54"
+    ],
+    [
+      "undead_55"
+    ],
+    [
+      "undead_56"
+    ],
+    [
+      "undead_57"
+    ],
+    [
+      "undead_58"
+    ],
+    [
+      "undead_59"
+    ],
+    [
+      "undead_60"
+    ],
+    [
+      "undead_61"
+    ],
+    [
+      "undead_62"
+    ],
+    [
+      "undead_63"
+    ],
+    [
+      "undead_64"
+    ],
+    [
+      "undead_65"
+    ],
+    [
+      "undead_66"
+    ],
+    [
+      "undead_67"
+    ],
+    [
+      "undead_68"
+    ],
+    [
+      "undead_69"
+    ],
+    [
+      "undead_70"
+    ],
+    [
+      "undead_71"
+    ],
+    [
+      "undead_72"
+    ],
+    [
+      "undead_73"
+    ],
+    [
+      "undead_74"
+    ],
+    [
+      "undead_75"
+    ],
+    [
+      "undead_76"
+    ],
+    [
+      "undead_77"
+    ],
+    [
+      "undead_78"
+    ],
+    [
+      "undead_79"
+    ],
+    [
+      "undead_80"
+    ],
+    [
+      "undead_81"
+    ],
+    [
+      "undead_82"
+    ],
+    [
+      "undead_83"
+    ],
+    [
+      "undead_84"
+    ],
+    [
+      "undead_85"
+    ],
+    [
+      "undead_86"
+    ],
+    [
+      "undead_87"
+    ],
+    [
+      "undead_88"
+    ],
+    [
+      "undead_89"
+    ],
+    [
+      "undead_90"
+    ],
+    [
+      "undead_91"
+    ],
+    [
+      "undead_92"
+    ],
+    [
+      "undead_93"
+    ],
+    [
+      "undead_94"
+    ],
+    [
+      "undead_95"
+    ],
+    [
+      "undead_96"
+    ],
+    [
+      "undead_97"
+    ],
+    [
+      "undead_98"
+    ],
+    [
+      "undead_99"
+    ],
+    [
+      "undead_100"
+    ],
+    [
+      "undead_101"
+    ],
+    [
+      "undead_102"
+    ],
+    [
+      "undead_103"
+    ],
+    [
+      "undead_104"
+    ],
+    [
+      "undead_105"
+    ],
+    [
+      "undead_106"
+    ],
+    [
+      "undead_107"
+    ],
+    [
+      "undead_108"
+    ],
+    [
+      "undead_109"
+    ],
+    [
+      "undead_110"
+    ],
+    [
+      "undead_111"
+    ],
+    [
+      "undead_112"
+    ],
+    [
+      "undead_113"
+    ],
+    [
+      "undead_114"
+    ],
+    [
+      "undead_115"
+    ],
+    [
+      "undead_116"
+    ],
+    [
+      "undead_117"
+    ],
+    [
+      "undead_118"
+    ],
+    [
+      "undead_119"
+    ],
+    [
+      "undead_120"
+    ],
+    [
+      "undead_121"
+    ],
+    [
+      "undead_122"
+    ],
+    [
+      "undead_123"
+    ],
+    [
+      "undead_124"
+    ],
+    [
+      "undead_125"
+    ],
+    [
+      "undead_126"
+    ],
+    [
+      "undead_127"
+    ],
+    [
+      "undead_128"
+    ],
+    [
+      "undead_129"
+    ],
+    [
+      "undead_130"
+    ],
+    [
+      "undead_131"
+    ],
+    [
+      "undead_132"
+    ],
+    [
+      "undead_133"
+    ],
+    [
+      "undead_134"
+    ],
+    [
+      "undead_135"
+    ],
+    [
+      "undead_136"
+    ],
+    [
+      "undead_137"
+    ],
+    [
+      "undead_138"
+    ],
+    [
+      "undead_139"
+    ],
+    [
+      "undead_140"
+    ],
+    [
+      "undead_141"
+    ],
+    [
+      "undead_142"
+    ],
+    [
+      "undead_143"
+    ],
+    [
+      "undead_144"
+    ],
+    [
+      "undead_145"
+    ],
+    [
+      "undead_146"
+    ],
+    [
+      "undead_147"
+    ],
+    [
+      "undead_148"
+    ],
+    [
+      "undead_149"
+    ],
+    [
+      "undead_150"
+    ],
+    [
+      "undead_151"
+    ],
+    [
+      "undead_152"
+    ],
+    [
+      "undead_153"
+    ],
+    [
+      "undead_154"
+    ],
+    [
+      "undead_155"
+    ],
+    [
+      "undead_156"
+    ],
+    [
+      "undead_157"
+    ],
+    [
+      "undead_158"
+    ],
+    [
+      "undead_159"
+    ],
+    [
+      "undead_160"
+    ],
+    [
+      "undead_161"
+    ],
+    [
+      "undead_162"
+    ],
+    [
+      "undead_163"
+    ],
+    [
+      "undead_164"
+    ],
+    [
+      "undead_165"
+    ],
+    [
+      "undead_166"
+    ],
+    [
+      "undead_167"
+    ],
+    [
+      "undead_168"
+    ],
+    [
+      "undead_169"
+    ],
+    [
+      "undead_170"
+    ],
+    [
+      "undead_171"
+    ],
+    [
+      "undead_172"
+    ],
+    [
+      "undead_173"
+    ],
+    [
+      "undead_174"
+    ],
+    [
+      "undead_175"
+    ],
+    [
+      "undead_176"
+    ],
+    [
+      "undead_177"
+    ],
+    [
+      "undead_178"
+    ],
+    [
+      "undead_179"
+    ],
+    [
+      "undead_180"
+    ],
+    [
+      "undead_181"
+    ],
+    [
+      "undead_182"
+    ],
+    [
+      "undead_183"
+    ],
+    [
+      "undead_184"
+    ],
+    [
+      "undead_185"
+    ],
+    [
+      "undead_186"
+    ],
+    [
+      "undead_187"
+    ],
+    [
+      "undead_188"
+    ],
+    [
+      "undead_189"
+    ],
+    [
+      "undead_190"
+    ],
+    [
+      "undead_191"
+    ],
+    [
+      "undead_192"
+    ],
+    [
+      "undead_193"
+    ],
+    [
+      "undead_194"
+    ],
+    [
+      "undead_195"
+    ],
+    [
+      "undead_196"
+    ],
+    [
+      "undead_197"
+    ],
+    [
+      "undead_198"
+    ],
+    [
+      "undead_199"
+    ],
+    [
+      "undead_200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

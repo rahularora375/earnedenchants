@@ -1,0 +1,1816 @@
+{
+  "parent": "arcane_progression:tool/projectile_protection_2",
+  "criteria": {
+    "proj_hit_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_151": {
+      "conditions": {
+        "min_count": 151
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_152": {
+      "conditions": {
+        "min_count": 152
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_153": {
+      "conditions": {
+        "min_count": 153
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_154": {
+      "conditions": {
+        "min_count": 154
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_155": {
+      "conditions": {
+        "min_count": 155
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_156": {
+      "conditions": {
+        "min_count": 156
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_157": {
+      "conditions": {
+        "min_count": 157
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_158": {
+      "conditions": {
+        "min_count": 158
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_159": {
+      "conditions": {
+        "min_count": 159
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_161": {
+      "conditions": {
+        "min_count": 161
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_162": {
+      "conditions": {
+        "min_count": 162
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_163": {
+      "conditions": {
+        "min_count": 163
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_164": {
+      "conditions": {
+        "min_count": 164
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_165": {
+      "conditions": {
+        "min_count": 165
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_166": {
+      "conditions": {
+        "min_count": 166
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_167": {
+      "conditions": {
+        "min_count": 167
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_168": {
+      "conditions": {
+        "min_count": 168
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_169": {
+      "conditions": {
+        "min_count": 169
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_171": {
+      "conditions": {
+        "min_count": 171
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_172": {
+      "conditions": {
+        "min_count": 172
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_173": {
+      "conditions": {
+        "min_count": 173
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_174": {
+      "conditions": {
+        "min_count": 174
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_175": {
+      "conditions": {
+        "min_count": 175
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_176": {
+      "conditions": {
+        "min_count": 176
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_177": {
+      "conditions": {
+        "min_count": 177
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_178": {
+      "conditions": {
+        "min_count": 178
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_179": {
+      "conditions": {
+        "min_count": 179
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_181": {
+      "conditions": {
+        "min_count": 181
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_182": {
+      "conditions": {
+        "min_count": 182
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_183": {
+      "conditions": {
+        "min_count": 183
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_184": {
+      "conditions": {
+        "min_count": 184
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_185": {
+      "conditions": {
+        "min_count": 185
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_186": {
+      "conditions": {
+        "min_count": 186
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_187": {
+      "conditions": {
+        "min_count": 187
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_188": {
+      "conditions": {
+        "min_count": 188
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_189": {
+      "conditions": {
+        "min_count": 189
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_191": {
+      "conditions": {
+        "min_count": 191
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_192": {
+      "conditions": {
+        "min_count": 192
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_193": {
+      "conditions": {
+        "min_count": 193
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_194": {
+      "conditions": {
+        "min_count": 194
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_195": {
+      "conditions": {
+        "min_count": 195
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_196": {
+      "conditions": {
+        "min_count": 196
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_197": {
+      "conditions": {
+        "min_count": 197
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_198": {
+      "conditions": {
+        "min_count": 198
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_199": {
+      "conditions": {
+        "min_count": 199
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    }
+  },
+  "display": {
+    "description": "Get hit by projectiles 200 times",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:shield"
+    },
+    "title": "Projectile Protection III"
+  },
+  "requirements": [
+    [
+      "proj_hit_1"
+    ],
+    [
+      "proj_hit_2"
+    ],
+    [
+      "proj_hit_3"
+    ],
+    [
+      "proj_hit_4"
+    ],
+    [
+      "proj_hit_5"
+    ],
+    [
+      "proj_hit_6"
+    ],
+    [
+      "proj_hit_7"
+    ],
+    [
+      "proj_hit_8"
+    ],
+    [
+      "proj_hit_9"
+    ],
+    [
+      "proj_hit_10"
+    ],
+    [
+      "proj_hit_11"
+    ],
+    [
+      "proj_hit_12"
+    ],
+    [
+      "proj_hit_13"
+    ],
+    [
+      "proj_hit_14"
+    ],
+    [
+      "proj_hit_15"
+    ],
+    [
+      "proj_hit_16"
+    ],
+    [
+      "proj_hit_17"
+    ],
+    [
+      "proj_hit_18"
+    ],
+    [
+      "proj_hit_19"
+    ],
+    [
+      "proj_hit_20"
+    ],
+    [
+      "proj_hit_21"
+    ],
+    [
+      "proj_hit_22"
+    ],
+    [
+      "proj_hit_23"
+    ],
+    [
+      "proj_hit_24"
+    ],
+    [
+      "proj_hit_25"
+    ],
+    [
+      "proj_hit_26"
+    ],
+    [
+      "proj_hit_27"
+    ],
+    [
+      "proj_hit_28"
+    ],
+    [
+      "proj_hit_29"
+    ],
+    [
+      "proj_hit_30"
+    ],
+    [
+      "proj_hit_31"
+    ],
+    [
+      "proj_hit_32"
+    ],
+    [
+      "proj_hit_33"
+    ],
+    [
+      "proj_hit_34"
+    ],
+    [
+      "proj_hit_35"
+    ],
+    [
+      "proj_hit_36"
+    ],
+    [
+      "proj_hit_37"
+    ],
+    [
+      "proj_hit_38"
+    ],
+    [
+      "proj_hit_39"
+    ],
+    [
+      "proj_hit_40"
+    ],
+    [
+      "proj_hit_41"
+    ],
+    [
+      "proj_hit_42"
+    ],
+    [
+      "proj_hit_43"
+    ],
+    [
+      "proj_hit_44"
+    ],
+    [
+      "proj_hit_45"
+    ],
+    [
+      "proj_hit_46"
+    ],
+    [
+      "proj_hit_47"
+    ],
+    [
+      "proj_hit_48"
+    ],
+    [
+      "proj_hit_49"
+    ],
+    [
+      "proj_hit_50"
+    ],
+    [
+      "proj_hit_51"
+    ],
+    [
+      "proj_hit_52"
+    ],
+    [
+      "proj_hit_53"
+    ],
+    [
+      "proj_hit_54"
+    ],
+    [
+      "proj_hit_55"
+    ],
+    [
+      "proj_hit_56"
+    ],
+    [
+      "proj_hit_57"
+    ],
+    [
+      "proj_hit_58"
+    ],
+    [
+      "proj_hit_59"
+    ],
+    [
+      "proj_hit_60"
+    ],
+    [
+      "proj_hit_61"
+    ],
+    [
+      "proj_hit_62"
+    ],
+    [
+      "proj_hit_63"
+    ],
+    [
+      "proj_hit_64"
+    ],
+    [
+      "proj_hit_65"
+    ],
+    [
+      "proj_hit_66"
+    ],
+    [
+      "proj_hit_67"
+    ],
+    [
+      "proj_hit_68"
+    ],
+    [
+      "proj_hit_69"
+    ],
+    [
+      "proj_hit_70"
+    ],
+    [
+      "proj_hit_71"
+    ],
+    [
+      "proj_hit_72"
+    ],
+    [
+      "proj_hit_73"
+    ],
+    [
+      "proj_hit_74"
+    ],
+    [
+      "proj_hit_75"
+    ],
+    [
+      "proj_hit_76"
+    ],
+    [
+      "proj_hit_77"
+    ],
+    [
+      "proj_hit_78"
+    ],
+    [
+      "proj_hit_79"
+    ],
+    [
+      "proj_hit_80"
+    ],
+    [
+      "proj_hit_81"
+    ],
+    [
+      "proj_hit_82"
+    ],
+    [
+      "proj_hit_83"
+    ],
+    [
+      "proj_hit_84"
+    ],
+    [
+      "proj_hit_85"
+    ],
+    [
+      "proj_hit_86"
+    ],
+    [
+      "proj_hit_87"
+    ],
+    [
+      "proj_hit_88"
+    ],
+    [
+      "proj_hit_89"
+    ],
+    [
+      "proj_hit_90"
+    ],
+    [
+      "proj_hit_91"
+    ],
+    [
+      "proj_hit_92"
+    ],
+    [
+      "proj_hit_93"
+    ],
+    [
+      "proj_hit_94"
+    ],
+    [
+      "proj_hit_95"
+    ],
+    [
+      "proj_hit_96"
+    ],
+    [
+      "proj_hit_97"
+    ],
+    [
+      "proj_hit_98"
+    ],
+    [
+      "proj_hit_99"
+    ],
+    [
+      "proj_hit_100"
+    ],
+    [
+      "proj_hit_101"
+    ],
+    [
+      "proj_hit_102"
+    ],
+    [
+      "proj_hit_103"
+    ],
+    [
+      "proj_hit_104"
+    ],
+    [
+      "proj_hit_105"
+    ],
+    [
+      "proj_hit_106"
+    ],
+    [
+      "proj_hit_107"
+    ],
+    [
+      "proj_hit_108"
+    ],
+    [
+      "proj_hit_109"
+    ],
+    [
+      "proj_hit_110"
+    ],
+    [
+      "proj_hit_111"
+    ],
+    [
+      "proj_hit_112"
+    ],
+    [
+      "proj_hit_113"
+    ],
+    [
+      "proj_hit_114"
+    ],
+    [
+      "proj_hit_115"
+    ],
+    [
+      "proj_hit_116"
+    ],
+    [
+      "proj_hit_117"
+    ],
+    [
+      "proj_hit_118"
+    ],
+    [
+      "proj_hit_119"
+    ],
+    [
+      "proj_hit_120"
+    ],
+    [
+      "proj_hit_121"
+    ],
+    [
+      "proj_hit_122"
+    ],
+    [
+      "proj_hit_123"
+    ],
+    [
+      "proj_hit_124"
+    ],
+    [
+      "proj_hit_125"
+    ],
+    [
+      "proj_hit_126"
+    ],
+    [
+      "proj_hit_127"
+    ],
+    [
+      "proj_hit_128"
+    ],
+    [
+      "proj_hit_129"
+    ],
+    [
+      "proj_hit_130"
+    ],
+    [
+      "proj_hit_131"
+    ],
+    [
+      "proj_hit_132"
+    ],
+    [
+      "proj_hit_133"
+    ],
+    [
+      "proj_hit_134"
+    ],
+    [
+      "proj_hit_135"
+    ],
+    [
+      "proj_hit_136"
+    ],
+    [
+      "proj_hit_137"
+    ],
+    [
+      "proj_hit_138"
+    ],
+    [
+      "proj_hit_139"
+    ],
+    [
+      "proj_hit_140"
+    ],
+    [
+      "proj_hit_141"
+    ],
+    [
+      "proj_hit_142"
+    ],
+    [
+      "proj_hit_143"
+    ],
+    [
+      "proj_hit_144"
+    ],
+    [
+      "proj_hit_145"
+    ],
+    [
+      "proj_hit_146"
+    ],
+    [
+      "proj_hit_147"
+    ],
+    [
+      "proj_hit_148"
+    ],
+    [
+      "proj_hit_149"
+    ],
+    [
+      "proj_hit_150"
+    ],
+    [
+      "proj_hit_151"
+    ],
+    [
+      "proj_hit_152"
+    ],
+    [
+      "proj_hit_153"
+    ],
+    [
+      "proj_hit_154"
+    ],
+    [
+      "proj_hit_155"
+    ],
+    [
+      "proj_hit_156"
+    ],
+    [
+      "proj_hit_157"
+    ],
+    [
+      "proj_hit_158"
+    ],
+    [
+      "proj_hit_159"
+    ],
+    [
+      "proj_hit_160"
+    ],
+    [
+      "proj_hit_161"
+    ],
+    [
+      "proj_hit_162"
+    ],
+    [
+      "proj_hit_163"
+    ],
+    [
+      "proj_hit_164"
+    ],
+    [
+      "proj_hit_165"
+    ],
+    [
+      "proj_hit_166"
+    ],
+    [
+      "proj_hit_167"
+    ],
+    [
+      "proj_hit_168"
+    ],
+    [
+      "proj_hit_169"
+    ],
+    [
+      "proj_hit_170"
+    ],
+    [
+      "proj_hit_171"
+    ],
+    [
+      "proj_hit_172"
+    ],
+    [
+      "proj_hit_173"
+    ],
+    [
+      "proj_hit_174"
+    ],
+    [
+      "proj_hit_175"
+    ],
+    [
+      "proj_hit_176"
+    ],
+    [
+      "proj_hit_177"
+    ],
+    [
+      "proj_hit_178"
+    ],
+    [
+      "proj_hit_179"
+    ],
+    [
+      "proj_hit_180"
+    ],
+    [
+      "proj_hit_181"
+    ],
+    [
+      "proj_hit_182"
+    ],
+    [
+      "proj_hit_183"
+    ],
+    [
+      "proj_hit_184"
+    ],
+    [
+      "proj_hit_185"
+    ],
+    [
+      "proj_hit_186"
+    ],
+    [
+      "proj_hit_187"
+    ],
+    [
+      "proj_hit_188"
+    ],
+    [
+      "proj_hit_189"
+    ],
+    [
+      "proj_hit_190"
+    ],
+    [
+      "proj_hit_191"
+    ],
+    [
+      "proj_hit_192"
+    ],
+    [
+      "proj_hit_193"
+    ],
+    [
+      "proj_hit_194"
+    ],
+    [
+      "proj_hit_195"
+    ],
+    [
+      "proj_hit_196"
+    ],
+    [
+      "proj_hit_197"
+    ],
+    [
+      "proj_hit_198"
+    ],
+    [
+      "proj_hit_199"
+    ],
+    [
+      "proj_hit_200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

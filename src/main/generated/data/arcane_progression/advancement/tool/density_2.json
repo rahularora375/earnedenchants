@@ -1,0 +1,151 @@
+{
+  "parent": "arcane_progression:tool/density_1",
+  "criteria": {
+    "smash_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    },
+    "smash_dmg_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:mace_smash_damage"
+    }
+  },
+  "display": {
+    "description": "Deal 150 mace smash damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mace"
+    },
+    "title": "Density II"
+  },
+  "requirements": [
+    [
+      "smash_dmg_10"
+    ],
+    [
+      "smash_dmg_20"
+    ],
+    [
+      "smash_dmg_30"
+    ],
+    [
+      "smash_dmg_40"
+    ],
+    [
+      "smash_dmg_50"
+    ],
+    [
+      "smash_dmg_60"
+    ],
+    [
+      "smash_dmg_70"
+    ],
+    [
+      "smash_dmg_80"
+    ],
+    [
+      "smash_dmg_90"
+    ],
+    [
+      "smash_dmg_100"
+    ],
+    [
+      "smash_dmg_110"
+    ],
+    [
+      "smash_dmg_120"
+    ],
+    [
+      "smash_dmg_130"
+    ],
+    [
+      "smash_dmg_140"
+    ],
+    [
+      "smash_dmg_150"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

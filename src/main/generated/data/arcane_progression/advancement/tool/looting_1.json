@@ -1,0 +1,106 @@
+{
+  "parent": "arcane_progression:tool/melee_cat",
+  "criteria": {
+    "species_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    }
+  },
+  "display": {
+    "description": "Kill 10 unique mob species",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:golden_sword"
+    },
+    "title": "Looting I"
+  },
+  "requirements": [
+    [
+      "species_1"
+    ],
+    [
+      "species_2"
+    ],
+    [
+      "species_3"
+    ],
+    [
+      "species_4"
+    ],
+    [
+      "species_5"
+    ],
+    [
+      "species_6"
+    ],
+    [
+      "species_7"
+    ],
+    [
+      "species_8"
+    ],
+    [
+      "species_9"
+    ],
+    [
+      "species_10"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

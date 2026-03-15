@@ -1,0 +1,1366 @@
+{
+  "parent": "arcane_progression:tool/piercing_2",
+  "criteria": {
+    "xbow_kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    },
+    "xbow_kill_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "arcane_progression:crossbow_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 150 mobs with a crossbow",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:arrow"
+    },
+    "title": "Piercing III"
+  },
+  "requirements": [
+    [
+      "xbow_kill_1"
+    ],
+    [
+      "xbow_kill_2"
+    ],
+    [
+      "xbow_kill_3"
+    ],
+    [
+      "xbow_kill_4"
+    ],
+    [
+      "xbow_kill_5"
+    ],
+    [
+      "xbow_kill_6"
+    ],
+    [
+      "xbow_kill_7"
+    ],
+    [
+      "xbow_kill_8"
+    ],
+    [
+      "xbow_kill_9"
+    ],
+    [
+      "xbow_kill_10"
+    ],
+    [
+      "xbow_kill_11"
+    ],
+    [
+      "xbow_kill_12"
+    ],
+    [
+      "xbow_kill_13"
+    ],
+    [
+      "xbow_kill_14"
+    ],
+    [
+      "xbow_kill_15"
+    ],
+    [
+      "xbow_kill_16"
+    ],
+    [
+      "xbow_kill_17"
+    ],
+    [
+      "xbow_kill_18"
+    ],
+    [
+      "xbow_kill_19"
+    ],
+    [
+      "xbow_kill_20"
+    ],
+    [
+      "xbow_kill_21"
+    ],
+    [
+      "xbow_kill_22"
+    ],
+    [
+      "xbow_kill_23"
+    ],
+    [
+      "xbow_kill_24"
+    ],
+    [
+      "xbow_kill_25"
+    ],
+    [
+      "xbow_kill_26"
+    ],
+    [
+      "xbow_kill_27"
+    ],
+    [
+      "xbow_kill_28"
+    ],
+    [
+      "xbow_kill_29"
+    ],
+    [
+      "xbow_kill_30"
+    ],
+    [
+      "xbow_kill_31"
+    ],
+    [
+      "xbow_kill_32"
+    ],
+    [
+      "xbow_kill_33"
+    ],
+    [
+      "xbow_kill_34"
+    ],
+    [
+      "xbow_kill_35"
+    ],
+    [
+      "xbow_kill_36"
+    ],
+    [
+      "xbow_kill_37"
+    ],
+    [
+      "xbow_kill_38"
+    ],
+    [
+      "xbow_kill_39"
+    ],
+    [
+      "xbow_kill_40"
+    ],
+    [
+      "xbow_kill_41"
+    ],
+    [
+      "xbow_kill_42"
+    ],
+    [
+      "xbow_kill_43"
+    ],
+    [
+      "xbow_kill_44"
+    ],
+    [
+      "xbow_kill_45"
+    ],
+    [
+      "xbow_kill_46"
+    ],
+    [
+      "xbow_kill_47"
+    ],
+    [
+      "xbow_kill_48"
+    ],
+    [
+      "xbow_kill_49"
+    ],
+    [
+      "xbow_kill_50"
+    ],
+    [
+      "xbow_kill_51"
+    ],
+    [
+      "xbow_kill_52"
+    ],
+    [
+      "xbow_kill_53"
+    ],
+    [
+      "xbow_kill_54"
+    ],
+    [
+      "xbow_kill_55"
+    ],
+    [
+      "xbow_kill_56"
+    ],
+    [
+      "xbow_kill_57"
+    ],
+    [
+      "xbow_kill_58"
+    ],
+    [
+      "xbow_kill_59"
+    ],
+    [
+      "xbow_kill_60"
+    ],
+    [
+      "xbow_kill_61"
+    ],
+    [
+      "xbow_kill_62"
+    ],
+    [
+      "xbow_kill_63"
+    ],
+    [
+      "xbow_kill_64"
+    ],
+    [
+      "xbow_kill_65"
+    ],
+    [
+      "xbow_kill_66"
+    ],
+    [
+      "xbow_kill_67"
+    ],
+    [
+      "xbow_kill_68"
+    ],
+    [
+      "xbow_kill_69"
+    ],
+    [
+      "xbow_kill_70"
+    ],
+    [
+      "xbow_kill_71"
+    ],
+    [
+      "xbow_kill_72"
+    ],
+    [
+      "xbow_kill_73"
+    ],
+    [
+      "xbow_kill_74"
+    ],
+    [
+      "xbow_kill_75"
+    ],
+    [
+      "xbow_kill_76"
+    ],
+    [
+      "xbow_kill_77"
+    ],
+    [
+      "xbow_kill_78"
+    ],
+    [
+      "xbow_kill_79"
+    ],
+    [
+      "xbow_kill_80"
+    ],
+    [
+      "xbow_kill_81"
+    ],
+    [
+      "xbow_kill_82"
+    ],
+    [
+      "xbow_kill_83"
+    ],
+    [
+      "xbow_kill_84"
+    ],
+    [
+      "xbow_kill_85"
+    ],
+    [
+      "xbow_kill_86"
+    ],
+    [
+      "xbow_kill_87"
+    ],
+    [
+      "xbow_kill_88"
+    ],
+    [
+      "xbow_kill_89"
+    ],
+    [
+      "xbow_kill_90"
+    ],
+    [
+      "xbow_kill_91"
+    ],
+    [
+      "xbow_kill_92"
+    ],
+    [
+      "xbow_kill_93"
+    ],
+    [
+      "xbow_kill_94"
+    ],
+    [
+      "xbow_kill_95"
+    ],
+    [
+      "xbow_kill_96"
+    ],
+    [
+      "xbow_kill_97"
+    ],
+    [
+      "xbow_kill_98"
+    ],
+    [
+      "xbow_kill_99"
+    ],
+    [
+      "xbow_kill_100"
+    ],
+    [
+      "xbow_kill_101"
+    ],
+    [
+      "xbow_kill_102"
+    ],
+    [
+      "xbow_kill_103"
+    ],
+    [
+      "xbow_kill_104"
+    ],
+    [
+      "xbow_kill_105"
+    ],
+    [
+      "xbow_kill_106"
+    ],
+    [
+      "xbow_kill_107"
+    ],
+    [
+      "xbow_kill_108"
+    ],
+    [
+      "xbow_kill_109"
+    ],
+    [
+      "xbow_kill_110"
+    ],
+    [
+      "xbow_kill_111"
+    ],
+    [
+      "xbow_kill_112"
+    ],
+    [
+      "xbow_kill_113"
+    ],
+    [
+      "xbow_kill_114"
+    ],
+    [
+      "xbow_kill_115"
+    ],
+    [
+      "xbow_kill_116"
+    ],
+    [
+      "xbow_kill_117"
+    ],
+    [
+      "xbow_kill_118"
+    ],
+    [
+      "xbow_kill_119"
+    ],
+    [
+      "xbow_kill_120"
+    ],
+    [
+      "xbow_kill_121"
+    ],
+    [
+      "xbow_kill_122"
+    ],
+    [
+      "xbow_kill_123"
+    ],
+    [
+      "xbow_kill_124"
+    ],
+    [
+      "xbow_kill_125"
+    ],
+    [
+      "xbow_kill_126"
+    ],
+    [
+      "xbow_kill_127"
+    ],
+    [
+      "xbow_kill_128"
+    ],
+    [
+      "xbow_kill_129"
+    ],
+    [
+      "xbow_kill_130"
+    ],
+    [
+      "xbow_kill_131"
+    ],
+    [
+      "xbow_kill_132"
+    ],
+    [
+      "xbow_kill_133"
+    ],
+    [
+      "xbow_kill_134"
+    ],
+    [
+      "xbow_kill_135"
+    ],
+    [
+      "xbow_kill_136"
+    ],
+    [
+      "xbow_kill_137"
+    ],
+    [
+      "xbow_kill_138"
+    ],
+    [
+      "xbow_kill_139"
+    ],
+    [
+      "xbow_kill_140"
+    ],
+    [
+      "xbow_kill_141"
+    ],
+    [
+      "xbow_kill_142"
+    ],
+    [
+      "xbow_kill_143"
+    ],
+    [
+      "xbow_kill_144"
+    ],
+    [
+      "xbow_kill_145"
+    ],
+    [
+      "xbow_kill_146"
+    ],
+    [
+      "xbow_kill_147"
+    ],
+    [
+      "xbow_kill_148"
+    ],
+    [
+      "xbow_kill_149"
+    ],
+    [
+      "xbow_kill_150"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

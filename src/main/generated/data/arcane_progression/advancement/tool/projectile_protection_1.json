@@ -1,0 +1,286 @@
+{
+  "parent": "arcane_progression:tool/armor_cat",
+  "criteria": {
+    "proj_hit_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    },
+    "proj_hit_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:projectile_hits_taken"
+    }
+  },
+  "display": {
+    "description": "Get hit by projectiles 30 times",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:shield"
+    },
+    "title": "Projectile Protection I"
+  },
+  "requirements": [
+    [
+      "proj_hit_1"
+    ],
+    [
+      "proj_hit_2"
+    ],
+    [
+      "proj_hit_3"
+    ],
+    [
+      "proj_hit_4"
+    ],
+    [
+      "proj_hit_5"
+    ],
+    [
+      "proj_hit_6"
+    ],
+    [
+      "proj_hit_7"
+    ],
+    [
+      "proj_hit_8"
+    ],
+    [
+      "proj_hit_9"
+    ],
+    [
+      "proj_hit_10"
+    ],
+    [
+      "proj_hit_11"
+    ],
+    [
+      "proj_hit_12"
+    ],
+    [
+      "proj_hit_13"
+    ],
+    [
+      "proj_hit_14"
+    ],
+    [
+      "proj_hit_15"
+    ],
+    [
+      "proj_hit_16"
+    ],
+    [
+      "proj_hit_17"
+    ],
+    [
+      "proj_hit_18"
+    ],
+    [
+      "proj_hit_19"
+    ],
+    [
+      "proj_hit_20"
+    ],
+    [
+      "proj_hit_21"
+    ],
+    [
+      "proj_hit_22"
+    ],
+    [
+      "proj_hit_23"
+    ],
+    [
+      "proj_hit_24"
+    ],
+    [
+      "proj_hit_25"
+    ],
+    [
+      "proj_hit_26"
+    ],
+    [
+      "proj_hit_27"
+    ],
+    [
+      "proj_hit_28"
+    ],
+    [
+      "proj_hit_29"
+    ],
+    [
+      "proj_hit_30"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

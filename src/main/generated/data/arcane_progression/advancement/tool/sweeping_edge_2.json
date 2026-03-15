@@ -1,0 +1,691 @@
+{
+  "parent": "arcane_progression:tool/sweeping_edge_1",
+  "criteria": {
+    "sweep_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    },
+    "sweep_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:sweep_multi_hit"
+    }
+  },
+  "display": {
+    "description": "Hit 3+ mobs in a single sweep 75 times",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:diamond_sword"
+    },
+    "title": "Sweeping Edge II"
+  },
+  "requirements": [
+    [
+      "sweep_1"
+    ],
+    [
+      "sweep_2"
+    ],
+    [
+      "sweep_3"
+    ],
+    [
+      "sweep_4"
+    ],
+    [
+      "sweep_5"
+    ],
+    [
+      "sweep_6"
+    ],
+    [
+      "sweep_7"
+    ],
+    [
+      "sweep_8"
+    ],
+    [
+      "sweep_9"
+    ],
+    [
+      "sweep_10"
+    ],
+    [
+      "sweep_11"
+    ],
+    [
+      "sweep_12"
+    ],
+    [
+      "sweep_13"
+    ],
+    [
+      "sweep_14"
+    ],
+    [
+      "sweep_15"
+    ],
+    [
+      "sweep_16"
+    ],
+    [
+      "sweep_17"
+    ],
+    [
+      "sweep_18"
+    ],
+    [
+      "sweep_19"
+    ],
+    [
+      "sweep_20"
+    ],
+    [
+      "sweep_21"
+    ],
+    [
+      "sweep_22"
+    ],
+    [
+      "sweep_23"
+    ],
+    [
+      "sweep_24"
+    ],
+    [
+      "sweep_25"
+    ],
+    [
+      "sweep_26"
+    ],
+    [
+      "sweep_27"
+    ],
+    [
+      "sweep_28"
+    ],
+    [
+      "sweep_29"
+    ],
+    [
+      "sweep_30"
+    ],
+    [
+      "sweep_31"
+    ],
+    [
+      "sweep_32"
+    ],
+    [
+      "sweep_33"
+    ],
+    [
+      "sweep_34"
+    ],
+    [
+      "sweep_35"
+    ],
+    [
+      "sweep_36"
+    ],
+    [
+      "sweep_37"
+    ],
+    [
+      "sweep_38"
+    ],
+    [
+      "sweep_39"
+    ],
+    [
+      "sweep_40"
+    ],
+    [
+      "sweep_41"
+    ],
+    [
+      "sweep_42"
+    ],
+    [
+      "sweep_43"
+    ],
+    [
+      "sweep_44"
+    ],
+    [
+      "sweep_45"
+    ],
+    [
+      "sweep_46"
+    ],
+    [
+      "sweep_47"
+    ],
+    [
+      "sweep_48"
+    ],
+    [
+      "sweep_49"
+    ],
+    [
+      "sweep_50"
+    ],
+    [
+      "sweep_51"
+    ],
+    [
+      "sweep_52"
+    ],
+    [
+      "sweep_53"
+    ],
+    [
+      "sweep_54"
+    ],
+    [
+      "sweep_55"
+    ],
+    [
+      "sweep_56"
+    ],
+    [
+      "sweep_57"
+    ],
+    [
+      "sweep_58"
+    ],
+    [
+      "sweep_59"
+    ],
+    [
+      "sweep_60"
+    ],
+    [
+      "sweep_61"
+    ],
+    [
+      "sweep_62"
+    ],
+    [
+      "sweep_63"
+    ],
+    [
+      "sweep_64"
+    ],
+    [
+      "sweep_65"
+    ],
+    [
+      "sweep_66"
+    ],
+    [
+      "sweep_67"
+    ],
+    [
+      "sweep_68"
+    ],
+    [
+      "sweep_69"
+    ],
+    [
+      "sweep_70"
+    ],
+    [
+      "sweep_71"
+    ],
+    [
+      "sweep_72"
+    ],
+    [
+      "sweep_73"
+    ],
+    [
+      "sweep_74"
+    ],
+    [
+      "sweep_75"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

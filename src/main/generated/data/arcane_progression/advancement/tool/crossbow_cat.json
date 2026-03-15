@@ -1,0 +1,24 @@
+{
+  "parent": "arcane_progression:tool/root",
+  "criteria": {
+    "auto": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crossbow"
+    },
+    "show_toast": false,
+    "title": "Crossbow"
+  },
+  "requirements": [
+    [
+      "auto"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

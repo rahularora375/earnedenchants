@@ -1,0 +1,287 @@
+{
+  "parent": "arcane_progression:tool/looting_2",
+  "criteria": {
+    "species_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    },
+    "species_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:unique_mobs_killed"
+    }
+  },
+  "display": {
+    "description": "Kill 30 unique mob species",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:golden_sword"
+    },
+    "title": "Looting III"
+  },
+  "requirements": [
+    [
+      "species_1"
+    ],
+    [
+      "species_2"
+    ],
+    [
+      "species_3"
+    ],
+    [
+      "species_4"
+    ],
+    [
+      "species_5"
+    ],
+    [
+      "species_6"
+    ],
+    [
+      "species_7"
+    ],
+    [
+      "species_8"
+    ],
+    [
+      "species_9"
+    ],
+    [
+      "species_10"
+    ],
+    [
+      "species_11"
+    ],
+    [
+      "species_12"
+    ],
+    [
+      "species_13"
+    ],
+    [
+      "species_14"
+    ],
+    [
+      "species_15"
+    ],
+    [
+      "species_16"
+    ],
+    [
+      "species_17"
+    ],
+    [
+      "species_18"
+    ],
+    [
+      "species_19"
+    ],
+    [
+      "species_20"
+    ],
+    [
+      "species_21"
+    ],
+    [
+      "species_22"
+    ],
+    [
+      "species_23"
+    ],
+    [
+      "species_24"
+    ],
+    [
+      "species_25"
+    ],
+    [
+      "species_26"
+    ],
+    [
+      "species_27"
+    ],
+    [
+      "species_28"
+    ],
+    [
+      "species_29"
+    ],
+    [
+      "species_30"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

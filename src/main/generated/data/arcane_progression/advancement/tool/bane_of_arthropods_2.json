@@ -1,0 +1,286 @@
+{
+  "parent": "arcane_progression:tool/bane_of_arthropods_1",
+  "criteria": {
+    "arthropod_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    },
+    "arthropod_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:arthropod_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 30 arthropod mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:spider_eye"
+    },
+    "title": "Bane of Arthropods II"
+  },
+  "requirements": [
+    [
+      "arthropod_1"
+    ],
+    [
+      "arthropod_2"
+    ],
+    [
+      "arthropod_3"
+    ],
+    [
+      "arthropod_4"
+    ],
+    [
+      "arthropod_5"
+    ],
+    [
+      "arthropod_6"
+    ],
+    [
+      "arthropod_7"
+    ],
+    [
+      "arthropod_8"
+    ],
+    [
+      "arthropod_9"
+    ],
+    [
+      "arthropod_10"
+    ],
+    [
+      "arthropod_11"
+    ],
+    [
+      "arthropod_12"
+    ],
+    [
+      "arthropod_13"
+    ],
+    [
+      "arthropod_14"
+    ],
+    [
+      "arthropod_15"
+    ],
+    [
+      "arthropod_16"
+    ],
+    [
+      "arthropod_17"
+    ],
+    [
+      "arthropod_18"
+    ],
+    [
+      "arthropod_19"
+    ],
+    [
+      "arthropod_20"
+    ],
+    [
+      "arthropod_21"
+    ],
+    [
+      "arthropod_22"
+    ],
+    [
+      "arthropod_23"
+    ],
+    [
+      "arthropod_24"
+    ],
+    [
+      "arthropod_25"
+    ],
+    [
+      "arthropod_26"
+    ],
+    [
+      "arthropod_27"
+    ],
+    [
+      "arthropod_28"
+    ],
+    [
+      "arthropod_29"
+    ],
+    [
+      "arthropod_30"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

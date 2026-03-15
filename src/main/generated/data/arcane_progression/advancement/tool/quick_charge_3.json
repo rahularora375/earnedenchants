@@ -1,0 +1,557 @@
+{
+  "parent": "arcane_progression:tool/quick_charge_2",
+  "criteria": {
+    "xbow_fire_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_510": {
+      "conditions": {
+        "min_count": 510
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_530": {
+      "conditions": {
+        "min_count": 530
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_550": {
+      "conditions": {
+        "min_count": 550
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_570": {
+      "conditions": {
+        "min_count": 570
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_590": {
+      "conditions": {
+        "min_count": 590
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    },
+    "xbow_fire_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:crossbow_fired"
+    }
+  },
+  "display": {
+    "description": "Fire crossbow 600 times",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crossbow"
+    },
+    "title": "Quick Charge III"
+  },
+  "requirements": [
+    [
+      "xbow_fire_10"
+    ],
+    [
+      "xbow_fire_20"
+    ],
+    [
+      "xbow_fire_30"
+    ],
+    [
+      "xbow_fire_40"
+    ],
+    [
+      "xbow_fire_50"
+    ],
+    [
+      "xbow_fire_60"
+    ],
+    [
+      "xbow_fire_70"
+    ],
+    [
+      "xbow_fire_80"
+    ],
+    [
+      "xbow_fire_90"
+    ],
+    [
+      "xbow_fire_100"
+    ],
+    [
+      "xbow_fire_110"
+    ],
+    [
+      "xbow_fire_120"
+    ],
+    [
+      "xbow_fire_130"
+    ],
+    [
+      "xbow_fire_140"
+    ],
+    [
+      "xbow_fire_150"
+    ],
+    [
+      "xbow_fire_160"
+    ],
+    [
+      "xbow_fire_170"
+    ],
+    [
+      "xbow_fire_180"
+    ],
+    [
+      "xbow_fire_190"
+    ],
+    [
+      "xbow_fire_200"
+    ],
+    [
+      "xbow_fire_210"
+    ],
+    [
+      "xbow_fire_220"
+    ],
+    [
+      "xbow_fire_230"
+    ],
+    [
+      "xbow_fire_240"
+    ],
+    [
+      "xbow_fire_250"
+    ],
+    [
+      "xbow_fire_260"
+    ],
+    [
+      "xbow_fire_270"
+    ],
+    [
+      "xbow_fire_280"
+    ],
+    [
+      "xbow_fire_290"
+    ],
+    [
+      "xbow_fire_300"
+    ],
+    [
+      "xbow_fire_310"
+    ],
+    [
+      "xbow_fire_320"
+    ],
+    [
+      "xbow_fire_330"
+    ],
+    [
+      "xbow_fire_340"
+    ],
+    [
+      "xbow_fire_350"
+    ],
+    [
+      "xbow_fire_360"
+    ],
+    [
+      "xbow_fire_370"
+    ],
+    [
+      "xbow_fire_380"
+    ],
+    [
+      "xbow_fire_390"
+    ],
+    [
+      "xbow_fire_400"
+    ],
+    [
+      "xbow_fire_410"
+    ],
+    [
+      "xbow_fire_420"
+    ],
+    [
+      "xbow_fire_430"
+    ],
+    [
+      "xbow_fire_440"
+    ],
+    [
+      "xbow_fire_450"
+    ],
+    [
+      "xbow_fire_460"
+    ],
+    [
+      "xbow_fire_470"
+    ],
+    [
+      "xbow_fire_480"
+    ],
+    [
+      "xbow_fire_490"
+    ],
+    [
+      "xbow_fire_500"
+    ],
+    [
+      "xbow_fire_510"
+    ],
+    [
+      "xbow_fire_520"
+    ],
+    [
+      "xbow_fire_530"
+    ],
+    [
+      "xbow_fire_540"
+    ],
+    [
+      "xbow_fire_550"
+    ],
+    [
+      "xbow_fire_560"
+    ],
+    [
+      "xbow_fire_570"
+    ],
+    [
+      "xbow_fire_580"
+    ],
+    [
+      "xbow_fire_590"
+    ],
+    [
+      "xbow_fire_600"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

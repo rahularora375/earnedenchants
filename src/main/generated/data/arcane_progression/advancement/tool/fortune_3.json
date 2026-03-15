@@ -1,0 +1,593 @@
+{
+  "parent": "arcane_progression:tool/fortune_2",
+  "criteria": {
+    "diamond_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    },
+    "diamond_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:diamonds_mined"
+    }
+  },
+  "display": {
+    "description": "Mine 64 diamonds",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:diamond"
+    },
+    "title": "Fortune III"
+  },
+  "requirements": [
+    [
+      "diamond_1"
+    ],
+    [
+      "diamond_2"
+    ],
+    [
+      "diamond_3"
+    ],
+    [
+      "diamond_4"
+    ],
+    [
+      "diamond_5"
+    ],
+    [
+      "diamond_6"
+    ],
+    [
+      "diamond_7"
+    ],
+    [
+      "diamond_8"
+    ],
+    [
+      "diamond_9"
+    ],
+    [
+      "diamond_10"
+    ],
+    [
+      "diamond_11"
+    ],
+    [
+      "diamond_12"
+    ],
+    [
+      "diamond_13"
+    ],
+    [
+      "diamond_14"
+    ],
+    [
+      "diamond_15"
+    ],
+    [
+      "diamond_16"
+    ],
+    [
+      "diamond_17"
+    ],
+    [
+      "diamond_18"
+    ],
+    [
+      "diamond_19"
+    ],
+    [
+      "diamond_20"
+    ],
+    [
+      "diamond_21"
+    ],
+    [
+      "diamond_22"
+    ],
+    [
+      "diamond_23"
+    ],
+    [
+      "diamond_24"
+    ],
+    [
+      "diamond_25"
+    ],
+    [
+      "diamond_26"
+    ],
+    [
+      "diamond_27"
+    ],
+    [
+      "diamond_28"
+    ],
+    [
+      "diamond_29"
+    ],
+    [
+      "diamond_30"
+    ],
+    [
+      "diamond_31"
+    ],
+    [
+      "diamond_32"
+    ],
+    [
+      "diamond_33"
+    ],
+    [
+      "diamond_34"
+    ],
+    [
+      "diamond_35"
+    ],
+    [
+      "diamond_36"
+    ],
+    [
+      "diamond_37"
+    ],
+    [
+      "diamond_38"
+    ],
+    [
+      "diamond_39"
+    ],
+    [
+      "diamond_40"
+    ],
+    [
+      "diamond_41"
+    ],
+    [
+      "diamond_42"
+    ],
+    [
+      "diamond_43"
+    ],
+    [
+      "diamond_44"
+    ],
+    [
+      "diamond_45"
+    ],
+    [
+      "diamond_46"
+    ],
+    [
+      "diamond_47"
+    ],
+    [
+      "diamond_48"
+    ],
+    [
+      "diamond_49"
+    ],
+    [
+      "diamond_50"
+    ],
+    [
+      "diamond_51"
+    ],
+    [
+      "diamond_52"
+    ],
+    [
+      "diamond_53"
+    ],
+    [
+      "diamond_54"
+    ],
+    [
+      "diamond_55"
+    ],
+    [
+      "diamond_56"
+    ],
+    [
+      "diamond_57"
+    ],
+    [
+      "diamond_58"
+    ],
+    [
+      "diamond_59"
+    ],
+    [
+      "diamond_60"
+    ],
+    [
+      "diamond_61"
+    ],
+    [
+      "diamond_62"
+    ],
+    [
+      "diamond_63"
+    ],
+    [
+      "diamond_64"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

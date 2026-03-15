@@ -1,0 +1,197 @@
+{
+  "parent": "arcane_progression:tool/armor_cat",
+  "criteria": {
+    "uw_mine_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    },
+    "uw_mine_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "arcane_progression:underwater_blocks_mined"
+    }
+  },
+  "display": {
+    "description": "Mine 200 blocks underwater",
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:conduit"
+    },
+    "title": "Aqua Affinity"
+  },
+  "requirements": [
+    [
+      "uw_mine_10"
+    ],
+    [
+      "uw_mine_20"
+    ],
+    [
+      "uw_mine_30"
+    ],
+    [
+      "uw_mine_40"
+    ],
+    [
+      "uw_mine_50"
+    ],
+    [
+      "uw_mine_60"
+    ],
+    [
+      "uw_mine_70"
+    ],
+    [
+      "uw_mine_80"
+    ],
+    [
+      "uw_mine_90"
+    ],
+    [
+      "uw_mine_100"
+    ],
+    [
+      "uw_mine_110"
+    ],
+    [
+      "uw_mine_120"
+    ],
+    [
+      "uw_mine_130"
+    ],
+    [
+      "uw_mine_140"
+    ],
+    [
+      "uw_mine_150"
+    ],
+    [
+      "uw_mine_160"
+    ],
+    [
+      "uw_mine_170"
+    ],
+    [
+      "uw_mine_180"
+    ],
+    [
+      "uw_mine_190"
+    ],
+    [
+      "uw_mine_200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

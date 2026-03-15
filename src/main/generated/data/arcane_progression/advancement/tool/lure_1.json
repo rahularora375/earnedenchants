@@ -1,0 +1,241 @@
+{
+  "parent": "arcane_progression:tool/fishing_cat",
+  "criteria": {
+    "catch_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:fish_caught"
+    },
+    "catch_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:fish_caught"
+    }
+  },
+  "display": {
+    "description": "Catch 25 fish",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fishing_rod"
+    },
+    "title": "Lure I"
+  },
+  "requirements": [
+    [
+      "catch_1"
+    ],
+    [
+      "catch_2"
+    ],
+    [
+      "catch_3"
+    ],
+    [
+      "catch_4"
+    ],
+    [
+      "catch_5"
+    ],
+    [
+      "catch_6"
+    ],
+    [
+      "catch_7"
+    ],
+    [
+      "catch_8"
+    ],
+    [
+      "catch_9"
+    ],
+    [
+      "catch_10"
+    ],
+    [
+      "catch_11"
+    ],
+    [
+      "catch_12"
+    ],
+    [
+      "catch_13"
+    ],
+    [
+      "catch_14"
+    ],
+    [
+      "catch_15"
+    ],
+    [
+      "catch_16"
+    ],
+    [
+      "catch_17"
+    ],
+    [
+      "catch_18"
+    ],
+    [
+      "catch_19"
+    ],
+    [
+      "catch_20"
+    ],
+    [
+      "catch_21"
+    ],
+    [
+      "catch_22"
+    ],
+    [
+      "catch_23"
+    ],
+    [
+      "catch_24"
+    ],
+    [
+      "catch_25"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

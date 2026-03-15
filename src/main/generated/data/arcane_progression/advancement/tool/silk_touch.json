@@ -1,0 +1,377 @@
+{
+  "parent": "arcane_progression:tool/tool_cat",
+  "criteria": {
+    "unique_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    },
+    "unique_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "arcane_progression:unique_blocks_mined"
+    }
+  },
+  "display": {
+    "description": "Mine 40 unique block types",
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:grass_block"
+    },
+    "title": "Silk Touch"
+  },
+  "requirements": [
+    [
+      "unique_1"
+    ],
+    [
+      "unique_2"
+    ],
+    [
+      "unique_3"
+    ],
+    [
+      "unique_4"
+    ],
+    [
+      "unique_5"
+    ],
+    [
+      "unique_6"
+    ],
+    [
+      "unique_7"
+    ],
+    [
+      "unique_8"
+    ],
+    [
+      "unique_9"
+    ],
+    [
+      "unique_10"
+    ],
+    [
+      "unique_11"
+    ],
+    [
+      "unique_12"
+    ],
+    [
+      "unique_13"
+    ],
+    [
+      "unique_14"
+    ],
+    [
+      "unique_15"
+    ],
+    [
+      "unique_16"
+    ],
+    [
+      "unique_17"
+    ],
+    [
+      "unique_18"
+    ],
+    [
+      "unique_19"
+    ],
+    [
+      "unique_20"
+    ],
+    [
+      "unique_21"
+    ],
+    [
+      "unique_22"
+    ],
+    [
+      "unique_23"
+    ],
+    [
+      "unique_24"
+    ],
+    [
+      "unique_25"
+    ],
+    [
+      "unique_26"
+    ],
+    [
+      "unique_27"
+    ],
+    [
+      "unique_28"
+    ],
+    [
+      "unique_29"
+    ],
+    [
+      "unique_30"
+    ],
+    [
+      "unique_31"
+    ],
+    [
+      "unique_32"
+    ],
+    [
+      "unique_33"
+    ],
+    [
+      "unique_34"
+    ],
+    [
+      "unique_35"
+    ],
+    [
+      "unique_36"
+    ],
+    [
+      "unique_37"
+    ],
+    [
+      "unique_38"
+    ],
+    [
+      "unique_39"
+    ],
+    [
+      "unique_40"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
