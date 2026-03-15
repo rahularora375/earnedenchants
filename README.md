@@ -1,4 +1,4 @@
-# Arcane Progression
+# Earned Enchants
 
 A Fabric mod for Minecraft 1.21.11 that adds an enchantment unlock progression system. Enchantments are no longer available by default — players must complete in-game challenges to unlock them tier by tier through an advancement tree.
 
@@ -7,7 +7,7 @@ A Fabric mod for Minecraft 1.21.11 that adds an enchantment unlock progression s
 Every enchantment in the game is locked behind advancements. To unlock Sharpness, kill mobs. To unlock Power, deal ranged damage. To unlock Mending, complete nearly every other enchantment advancement first.
 
 - **41 enchantment chains** spanning 9 categories: Tool, Fishing, Melee, Bow, Crossbow, Trident, Mace, Armor, and Treasure
-- **136 advancements** organized in a single "Arcane Progression" tab
+- **136 advancements** organized in a single "Earned Enchants" tab
 - **Per-tier unlocking** — unlock Sharpness I before II before III, etc.
 - **Enchanting table integration** — only unlocked enchantments appear at the table, with proper vanilla cost-range validation
 - **Treasure enchantments at the table** — Frost Walker, Soul Speed, Swift Sneak, Wind Burst, and Mending become available from the enchanting table once unlocked (normally treasure-only)
@@ -36,7 +36,7 @@ Every enchantment in the game is locked behind advancements. To unlock Sharpness
 ## Recommended
 
 - [Better Advancements](https://modrinth.com/mod/better-advancements) — Enhanced advancement UI that shows progress bars (e.g., "47/500 mobs killed"). The mod works without it, but the vanilla advancement screen is harder to navigate.
-- [Easy Magic](https://modrinth.com/mod/easy-magic) — Shows all enchantment options and allows rerolling. Fully compatible with Arcane Progression's locking system.
+- [Easy Magic](https://modrinth.com/mod/easy-magic) — Shows all enchantment options and allows rerolling. Fully compatible with Earned Enchants's locking system.
 
 ## Installation
 

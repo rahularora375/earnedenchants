@@ -1,0 +1,1367 @@
+{
+  "parent": "earnedenchants:tool/density_4",
+  "criteria": {
+    "smash_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1000": {
+      "conditions": {
+        "min_count": 1000
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1010": {
+      "conditions": {
+        "min_count": 1010
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1020": {
+      "conditions": {
+        "min_count": 1020
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1030": {
+      "conditions": {
+        "min_count": 1030
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1040": {
+      "conditions": {
+        "min_count": 1040
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1050": {
+      "conditions": {
+        "min_count": 1050
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1060": {
+      "conditions": {
+        "min_count": 1060
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1070": {
+      "conditions": {
+        "min_count": 1070
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1080": {
+      "conditions": {
+        "min_count": 1080
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1090": {
+      "conditions": {
+        "min_count": 1090
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1100": {
+      "conditions": {
+        "min_count": 1100
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1110": {
+      "conditions": {
+        "min_count": 1110
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1120": {
+      "conditions": {
+        "min_count": 1120
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1130": {
+      "conditions": {
+        "min_count": 1130
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1140": {
+      "conditions": {
+        "min_count": 1140
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1150": {
+      "conditions": {
+        "min_count": 1150
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1160": {
+      "conditions": {
+        "min_count": 1160
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1170": {
+      "conditions": {
+        "min_count": 1170
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1180": {
+      "conditions": {
+        "min_count": 1180
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1190": {
+      "conditions": {
+        "min_count": 1190
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1200": {
+      "conditions": {
+        "min_count": 1200
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1210": {
+      "conditions": {
+        "min_count": 1210
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1220": {
+      "conditions": {
+        "min_count": 1220
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1230": {
+      "conditions": {
+        "min_count": 1230
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1240": {
+      "conditions": {
+        "min_count": 1240
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1250": {
+      "conditions": {
+        "min_count": 1250
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1260": {
+      "conditions": {
+        "min_count": 1260
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1270": {
+      "conditions": {
+        "min_count": 1270
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1280": {
+      "conditions": {
+        "min_count": 1280
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1290": {
+      "conditions": {
+        "min_count": 1290
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1300": {
+      "conditions": {
+        "min_count": 1300
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1310": {
+      "conditions": {
+        "min_count": 1310
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1320": {
+      "conditions": {
+        "min_count": 1320
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1330": {
+      "conditions": {
+        "min_count": 1330
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1340": {
+      "conditions": {
+        "min_count": 1340
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1350": {
+      "conditions": {
+        "min_count": 1350
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1360": {
+      "conditions": {
+        "min_count": 1360
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1370": {
+      "conditions": {
+        "min_count": 1370
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1380": {
+      "conditions": {
+        "min_count": 1380
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1390": {
+      "conditions": {
+        "min_count": 1390
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1400": {
+      "conditions": {
+        "min_count": 1400
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1410": {
+      "conditions": {
+        "min_count": 1410
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1420": {
+      "conditions": {
+        "min_count": 1420
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1430": {
+      "conditions": {
+        "min_count": 1430
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1440": {
+      "conditions": {
+        "min_count": 1440
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1450": {
+      "conditions": {
+        "min_count": 1450
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1460": {
+      "conditions": {
+        "min_count": 1460
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1470": {
+      "conditions": {
+        "min_count": 1470
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1480": {
+      "conditions": {
+        "min_count": 1480
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1490": {
+      "conditions": {
+        "min_count": 1490
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_1500": {
+      "conditions": {
+        "min_count": 1500
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_510": {
+      "conditions": {
+        "min_count": 510
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_530": {
+      "conditions": {
+        "min_count": 530
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_550": {
+      "conditions": {
+        "min_count": 550
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_570": {
+      "conditions": {
+        "min_count": 570
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_590": {
+      "conditions": {
+        "min_count": 590
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_610": {
+      "conditions": {
+        "min_count": 610
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_630": {
+      "conditions": {
+        "min_count": 630
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_650": {
+      "conditions": {
+        "min_count": 650
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_670": {
+      "conditions": {
+        "min_count": 670
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_690": {
+      "conditions": {
+        "min_count": 690
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_710": {
+      "conditions": {
+        "min_count": 710
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_720": {
+      "conditions": {
+        "min_count": 720
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_730": {
+      "conditions": {
+        "min_count": 730
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_740": {
+      "conditions": {
+        "min_count": 740
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_750": {
+      "conditions": {
+        "min_count": 750
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_760": {
+      "conditions": {
+        "min_count": 760
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_770": {
+      "conditions": {
+        "min_count": 770
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_780": {
+      "conditions": {
+        "min_count": 780
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_790": {
+      "conditions": {
+        "min_count": 790
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_800": {
+      "conditions": {
+        "min_count": 800
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_810": {
+      "conditions": {
+        "min_count": 810
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_820": {
+      "conditions": {
+        "min_count": 820
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_830": {
+      "conditions": {
+        "min_count": 830
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_840": {
+      "conditions": {
+        "min_count": 840
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_850": {
+      "conditions": {
+        "min_count": 850
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_860": {
+      "conditions": {
+        "min_count": 860
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_870": {
+      "conditions": {
+        "min_count": 870
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_880": {
+      "conditions": {
+        "min_count": 880
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_890": {
+      "conditions": {
+        "min_count": 890
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_900": {
+      "conditions": {
+        "min_count": 900
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_910": {
+      "conditions": {
+        "min_count": 910
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_920": {
+      "conditions": {
+        "min_count": 920
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_930": {
+      "conditions": {
+        "min_count": 930
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_940": {
+      "conditions": {
+        "min_count": 940
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_950": {
+      "conditions": {
+        "min_count": 950
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_960": {
+      "conditions": {
+        "min_count": 960
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_970": {
+      "conditions": {
+        "min_count": 970
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_980": {
+      "conditions": {
+        "min_count": 980
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_990": {
+      "conditions": {
+        "min_count": 990
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    }
+  },
+  "display": {
+    "description": "Deal 1,500 mace smash damage",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mace"
+    },
+    "title": "Density V"
+  },
+  "requirements": [
+    [
+      "smash_dmg_10"
+    ],
+    [
+      "smash_dmg_20"
+    ],
+    [
+      "smash_dmg_30"
+    ],
+    [
+      "smash_dmg_40"
+    ],
+    [
+      "smash_dmg_50"
+    ],
+    [
+      "smash_dmg_60"
+    ],
+    [
+      "smash_dmg_70"
+    ],
+    [
+      "smash_dmg_80"
+    ],
+    [
+      "smash_dmg_90"
+    ],
+    [
+      "smash_dmg_100"
+    ],
+    [
+      "smash_dmg_110"
+    ],
+    [
+      "smash_dmg_120"
+    ],
+    [
+      "smash_dmg_130"
+    ],
+    [
+      "smash_dmg_140"
+    ],
+    [
+      "smash_dmg_150"
+    ],
+    [
+      "smash_dmg_160"
+    ],
+    [
+      "smash_dmg_170"
+    ],
+    [
+      "smash_dmg_180"
+    ],
+    [
+      "smash_dmg_190"
+    ],
+    [
+      "smash_dmg_200"
+    ],
+    [
+      "smash_dmg_210"
+    ],
+    [
+      "smash_dmg_220"
+    ],
+    [
+      "smash_dmg_230"
+    ],
+    [
+      "smash_dmg_240"
+    ],
+    [
+      "smash_dmg_250"
+    ],
+    [
+      "smash_dmg_260"
+    ],
+    [
+      "smash_dmg_270"
+    ],
+    [
+      "smash_dmg_280"
+    ],
+    [
+      "smash_dmg_290"
+    ],
+    [
+      "smash_dmg_300"
+    ],
+    [
+      "smash_dmg_310"
+    ],
+    [
+      "smash_dmg_320"
+    ],
+    [
+      "smash_dmg_330"
+    ],
+    [
+      "smash_dmg_340"
+    ],
+    [
+      "smash_dmg_350"
+    ],
+    [
+      "smash_dmg_360"
+    ],
+    [
+      "smash_dmg_370"
+    ],
+    [
+      "smash_dmg_380"
+    ],
+    [
+      "smash_dmg_390"
+    ],
+    [
+      "smash_dmg_400"
+    ],
+    [
+      "smash_dmg_410"
+    ],
+    [
+      "smash_dmg_420"
+    ],
+    [
+      "smash_dmg_430"
+    ],
+    [
+      "smash_dmg_440"
+    ],
+    [
+      "smash_dmg_450"
+    ],
+    [
+      "smash_dmg_460"
+    ],
+    [
+      "smash_dmg_470"
+    ],
+    [
+      "smash_dmg_480"
+    ],
+    [
+      "smash_dmg_490"
+    ],
+    [
+      "smash_dmg_500"
+    ],
+    [
+      "smash_dmg_510"
+    ],
+    [
+      "smash_dmg_520"
+    ],
+    [
+      "smash_dmg_530"
+    ],
+    [
+      "smash_dmg_540"
+    ],
+    [
+      "smash_dmg_550"
+    ],
+    [
+      "smash_dmg_560"
+    ],
+    [
+      "smash_dmg_570"
+    ],
+    [
+      "smash_dmg_580"
+    ],
+    [
+      "smash_dmg_590"
+    ],
+    [
+      "smash_dmg_600"
+    ],
+    [
+      "smash_dmg_610"
+    ],
+    [
+      "smash_dmg_620"
+    ],
+    [
+      "smash_dmg_630"
+    ],
+    [
+      "smash_dmg_640"
+    ],
+    [
+      "smash_dmg_650"
+    ],
+    [
+      "smash_dmg_660"
+    ],
+    [
+      "smash_dmg_670"
+    ],
+    [
+      "smash_dmg_680"
+    ],
+    [
+      "smash_dmg_690"
+    ],
+    [
+      "smash_dmg_700"
+    ],
+    [
+      "smash_dmg_710"
+    ],
+    [
+      "smash_dmg_720"
+    ],
+    [
+      "smash_dmg_730"
+    ],
+    [
+      "smash_dmg_740"
+    ],
+    [
+      "smash_dmg_750"
+    ],
+    [
+      "smash_dmg_760"
+    ],
+    [
+      "smash_dmg_770"
+    ],
+    [
+      "smash_dmg_780"
+    ],
+    [
+      "smash_dmg_790"
+    ],
+    [
+      "smash_dmg_800"
+    ],
+    [
+      "smash_dmg_810"
+    ],
+    [
+      "smash_dmg_820"
+    ],
+    [
+      "smash_dmg_830"
+    ],
+    [
+      "smash_dmg_840"
+    ],
+    [
+      "smash_dmg_850"
+    ],
+    [
+      "smash_dmg_860"
+    ],
+    [
+      "smash_dmg_870"
+    ],
+    [
+      "smash_dmg_880"
+    ],
+    [
+      "smash_dmg_890"
+    ],
+    [
+      "smash_dmg_900"
+    ],
+    [
+      "smash_dmg_910"
+    ],
+    [
+      "smash_dmg_920"
+    ],
+    [
+      "smash_dmg_930"
+    ],
+    [
+      "smash_dmg_940"
+    ],
+    [
+      "smash_dmg_950"
+    ],
+    [
+      "smash_dmg_960"
+    ],
+    [
+      "smash_dmg_970"
+    ],
+    [
+      "smash_dmg_980"
+    ],
+    [
+      "smash_dmg_990"
+    ],
+    [
+      "smash_dmg_1000"
+    ],
+    [
+      "smash_dmg_1010"
+    ],
+    [
+      "smash_dmg_1020"
+    ],
+    [
+      "smash_dmg_1030"
+    ],
+    [
+      "smash_dmg_1040"
+    ],
+    [
+      "smash_dmg_1050"
+    ],
+    [
+      "smash_dmg_1060"
+    ],
+    [
+      "smash_dmg_1070"
+    ],
+    [
+      "smash_dmg_1080"
+    ],
+    [
+      "smash_dmg_1090"
+    ],
+    [
+      "smash_dmg_1100"
+    ],
+    [
+      "smash_dmg_1110"
+    ],
+    [
+      "smash_dmg_1120"
+    ],
+    [
+      "smash_dmg_1130"
+    ],
+    [
+      "smash_dmg_1140"
+    ],
+    [
+      "smash_dmg_1150"
+    ],
+    [
+      "smash_dmg_1160"
+    ],
+    [
+      "smash_dmg_1170"
+    ],
+    [
+      "smash_dmg_1180"
+    ],
+    [
+      "smash_dmg_1190"
+    ],
+    [
+      "smash_dmg_1200"
+    ],
+    [
+      "smash_dmg_1210"
+    ],
+    [
+      "smash_dmg_1220"
+    ],
+    [
+      "smash_dmg_1230"
+    ],
+    [
+      "smash_dmg_1240"
+    ],
+    [
+      "smash_dmg_1250"
+    ],
+    [
+      "smash_dmg_1260"
+    ],
+    [
+      "smash_dmg_1270"
+    ],
+    [
+      "smash_dmg_1280"
+    ],
+    [
+      "smash_dmg_1290"
+    ],
+    [
+      "smash_dmg_1300"
+    ],
+    [
+      "smash_dmg_1310"
+    ],
+    [
+      "smash_dmg_1320"
+    ],
+    [
+      "smash_dmg_1330"
+    ],
+    [
+      "smash_dmg_1340"
+    ],
+    [
+      "smash_dmg_1350"
+    ],
+    [
+      "smash_dmg_1360"
+    ],
+    [
+      "smash_dmg_1370"
+    ],
+    [
+      "smash_dmg_1380"
+    ],
+    [
+      "smash_dmg_1390"
+    ],
+    [
+      "smash_dmg_1400"
+    ],
+    [
+      "smash_dmg_1410"
+    ],
+    [
+      "smash_dmg_1420"
+    ],
+    [
+      "smash_dmg_1430"
+    ],
+    [
+      "smash_dmg_1440"
+    ],
+    [
+      "smash_dmg_1450"
+    ],
+    [
+      "smash_dmg_1460"
+    ],
+    [
+      "smash_dmg_1470"
+    ],
+    [
+      "smash_dmg_1480"
+    ],
+    [
+      "smash_dmg_1490"
+    ],
+    [
+      "smash_dmg_1500"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

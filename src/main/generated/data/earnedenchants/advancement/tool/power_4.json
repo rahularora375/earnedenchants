@@ -1,0 +1,556 @@
+{
+  "parent": "earnedenchants:tool/power_3",
+  "criteria": {
+    "ranged_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1000": {
+      "conditions": {
+        "min_count": 1000
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1020": {
+      "conditions": {
+        "min_count": 1020
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1040": {
+      "conditions": {
+        "min_count": 1040
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1060": {
+      "conditions": {
+        "min_count": 1060
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1080": {
+      "conditions": {
+        "min_count": 1080
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1100": {
+      "conditions": {
+        "min_count": 1100
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1120": {
+      "conditions": {
+        "min_count": 1120
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1140": {
+      "conditions": {
+        "min_count": 1140
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1160": {
+      "conditions": {
+        "min_count": 1160
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1180": {
+      "conditions": {
+        "min_count": 1180
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_1200": {
+      "conditions": {
+        "min_count": 1200
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_720": {
+      "conditions": {
+        "min_count": 720
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_740": {
+      "conditions": {
+        "min_count": 740
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_760": {
+      "conditions": {
+        "min_count": 760
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_780": {
+      "conditions": {
+        "min_count": 780
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_800": {
+      "conditions": {
+        "min_count": 800
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_820": {
+      "conditions": {
+        "min_count": 820
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_840": {
+      "conditions": {
+        "min_count": 840
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_860": {
+      "conditions": {
+        "min_count": 860
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_880": {
+      "conditions": {
+        "min_count": 880
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_900": {
+      "conditions": {
+        "min_count": 900
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_920": {
+      "conditions": {
+        "min_count": 920
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_940": {
+      "conditions": {
+        "min_count": 940
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_960": {
+      "conditions": {
+        "min_count": 960
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_980": {
+      "conditions": {
+        "min_count": 980
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    }
+  },
+  "display": {
+    "description": "Deal 1,200 ranged damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bow"
+    },
+    "title": "Power IV"
+  },
+  "requirements": [
+    [
+      "ranged_dmg_20"
+    ],
+    [
+      "ranged_dmg_40"
+    ],
+    [
+      "ranged_dmg_60"
+    ],
+    [
+      "ranged_dmg_80"
+    ],
+    [
+      "ranged_dmg_100"
+    ],
+    [
+      "ranged_dmg_120"
+    ],
+    [
+      "ranged_dmg_140"
+    ],
+    [
+      "ranged_dmg_160"
+    ],
+    [
+      "ranged_dmg_180"
+    ],
+    [
+      "ranged_dmg_200"
+    ],
+    [
+      "ranged_dmg_220"
+    ],
+    [
+      "ranged_dmg_240"
+    ],
+    [
+      "ranged_dmg_260"
+    ],
+    [
+      "ranged_dmg_280"
+    ],
+    [
+      "ranged_dmg_300"
+    ],
+    [
+      "ranged_dmg_320"
+    ],
+    [
+      "ranged_dmg_340"
+    ],
+    [
+      "ranged_dmg_360"
+    ],
+    [
+      "ranged_dmg_380"
+    ],
+    [
+      "ranged_dmg_400"
+    ],
+    [
+      "ranged_dmg_420"
+    ],
+    [
+      "ranged_dmg_440"
+    ],
+    [
+      "ranged_dmg_460"
+    ],
+    [
+      "ranged_dmg_480"
+    ],
+    [
+      "ranged_dmg_500"
+    ],
+    [
+      "ranged_dmg_520"
+    ],
+    [
+      "ranged_dmg_540"
+    ],
+    [
+      "ranged_dmg_560"
+    ],
+    [
+      "ranged_dmg_580"
+    ],
+    [
+      "ranged_dmg_600"
+    ],
+    [
+      "ranged_dmg_620"
+    ],
+    [
+      "ranged_dmg_640"
+    ],
+    [
+      "ranged_dmg_660"
+    ],
+    [
+      "ranged_dmg_680"
+    ],
+    [
+      "ranged_dmg_700"
+    ],
+    [
+      "ranged_dmg_720"
+    ],
+    [
+      "ranged_dmg_740"
+    ],
+    [
+      "ranged_dmg_760"
+    ],
+    [
+      "ranged_dmg_780"
+    ],
+    [
+      "ranged_dmg_800"
+    ],
+    [
+      "ranged_dmg_820"
+    ],
+    [
+      "ranged_dmg_840"
+    ],
+    [
+      "ranged_dmg_860"
+    ],
+    [
+      "ranged_dmg_880"
+    ],
+    [
+      "ranged_dmg_900"
+    ],
+    [
+      "ranged_dmg_920"
+    ],
+    [
+      "ranged_dmg_940"
+    ],
+    [
+      "ranged_dmg_960"
+    ],
+    [
+      "ranged_dmg_980"
+    ],
+    [
+      "ranged_dmg_1000"
+    ],
+    [
+      "ranged_dmg_1020"
+    ],
+    [
+      "ranged_dmg_1040"
+    ],
+    [
+      "ranged_dmg_1060"
+    ],
+    [
+      "ranged_dmg_1080"
+    ],
+    [
+      "ranged_dmg_1100"
+    ],
+    [
+      "ranged_dmg_1120"
+    ],
+    [
+      "ranged_dmg_1140"
+    ],
+    [
+      "ranged_dmg_1160"
+    ],
+    [
+      "ranged_dmg_1180"
+    ],
+    [
+      "ranged_dmg_1200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

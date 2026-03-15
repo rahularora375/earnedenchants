@@ -1,0 +1,151 @@
+{
+  "parent": "earnedenchants:tool/power_1",
+  "criteria": {
+    "ranged_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    }
+  },
+  "display": {
+    "description": "Deal 300 ranged damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bow"
+    },
+    "title": "Power II"
+  },
+  "requirements": [
+    [
+      "ranged_dmg_20"
+    ],
+    [
+      "ranged_dmg_40"
+    ],
+    [
+      "ranged_dmg_60"
+    ],
+    [
+      "ranged_dmg_80"
+    ],
+    [
+      "ranged_dmg_100"
+    ],
+    [
+      "ranged_dmg_120"
+    ],
+    [
+      "ranged_dmg_140"
+    ],
+    [
+      "ranged_dmg_160"
+    ],
+    [
+      "ranged_dmg_180"
+    ],
+    [
+      "ranged_dmg_200"
+    ],
+    [
+      "ranged_dmg_220"
+    ],
+    [
+      "ranged_dmg_240"
+    ],
+    [
+      "ranged_dmg_260"
+    ],
+    [
+      "ranged_dmg_280"
+    ],
+    [
+      "ranged_dmg_300"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

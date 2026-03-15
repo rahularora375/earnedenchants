@@ -1,0 +1,151 @@
+{
+  "parent": "earnedenchants:tool/fire_protection_1",
+  "criteria": {
+    "fire_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    }
+  },
+  "display": {
+    "description": "Take 150 fire damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:magma_block"
+    },
+    "title": "Fire Protection II"
+  },
+  "requirements": [
+    [
+      "fire_dmg_10"
+    ],
+    [
+      "fire_dmg_20"
+    ],
+    [
+      "fire_dmg_30"
+    ],
+    [
+      "fire_dmg_40"
+    ],
+    [
+      "fire_dmg_50"
+    ],
+    [
+      "fire_dmg_60"
+    ],
+    [
+      "fire_dmg_70"
+    ],
+    [
+      "fire_dmg_80"
+    ],
+    [
+      "fire_dmg_90"
+    ],
+    [
+      "fire_dmg_100"
+    ],
+    [
+      "fire_dmg_110"
+    ],
+    [
+      "fire_dmg_120"
+    ],
+    [
+      "fire_dmg_130"
+    ],
+    [
+      "fire_dmg_140"
+    ],
+    [
+      "fire_dmg_150"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

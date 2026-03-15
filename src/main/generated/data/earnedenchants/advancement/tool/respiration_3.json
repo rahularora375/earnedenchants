@@ -1,0 +1,1367 @@
+{
+  "parent": "earnedenchants:tool/respiration_2",
+  "criteria": {
+    "drown_dmg_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    },
+    "drown_dmg_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "earnedenchants:drowning_damage"
+    }
+  },
+  "display": {
+    "description": "Take 150 drowning damage",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:pufferfish"
+    },
+    "title": "Respiration III"
+  },
+  "requirements": [
+    [
+      "drown_dmg_1"
+    ],
+    [
+      "drown_dmg_2"
+    ],
+    [
+      "drown_dmg_3"
+    ],
+    [
+      "drown_dmg_4"
+    ],
+    [
+      "drown_dmg_5"
+    ],
+    [
+      "drown_dmg_6"
+    ],
+    [
+      "drown_dmg_7"
+    ],
+    [
+      "drown_dmg_8"
+    ],
+    [
+      "drown_dmg_9"
+    ],
+    [
+      "drown_dmg_10"
+    ],
+    [
+      "drown_dmg_11"
+    ],
+    [
+      "drown_dmg_12"
+    ],
+    [
+      "drown_dmg_13"
+    ],
+    [
+      "drown_dmg_14"
+    ],
+    [
+      "drown_dmg_15"
+    ],
+    [
+      "drown_dmg_16"
+    ],
+    [
+      "drown_dmg_17"
+    ],
+    [
+      "drown_dmg_18"
+    ],
+    [
+      "drown_dmg_19"
+    ],
+    [
+      "drown_dmg_20"
+    ],
+    [
+      "drown_dmg_21"
+    ],
+    [
+      "drown_dmg_22"
+    ],
+    [
+      "drown_dmg_23"
+    ],
+    [
+      "drown_dmg_24"
+    ],
+    [
+      "drown_dmg_25"
+    ],
+    [
+      "drown_dmg_26"
+    ],
+    [
+      "drown_dmg_27"
+    ],
+    [
+      "drown_dmg_28"
+    ],
+    [
+      "drown_dmg_29"
+    ],
+    [
+      "drown_dmg_30"
+    ],
+    [
+      "drown_dmg_31"
+    ],
+    [
+      "drown_dmg_32"
+    ],
+    [
+      "drown_dmg_33"
+    ],
+    [
+      "drown_dmg_34"
+    ],
+    [
+      "drown_dmg_35"
+    ],
+    [
+      "drown_dmg_36"
+    ],
+    [
+      "drown_dmg_37"
+    ],
+    [
+      "drown_dmg_38"
+    ],
+    [
+      "drown_dmg_39"
+    ],
+    [
+      "drown_dmg_40"
+    ],
+    [
+      "drown_dmg_41"
+    ],
+    [
+      "drown_dmg_42"
+    ],
+    [
+      "drown_dmg_43"
+    ],
+    [
+      "drown_dmg_44"
+    ],
+    [
+      "drown_dmg_45"
+    ],
+    [
+      "drown_dmg_46"
+    ],
+    [
+      "drown_dmg_47"
+    ],
+    [
+      "drown_dmg_48"
+    ],
+    [
+      "drown_dmg_49"
+    ],
+    [
+      "drown_dmg_50"
+    ],
+    [
+      "drown_dmg_51"
+    ],
+    [
+      "drown_dmg_52"
+    ],
+    [
+      "drown_dmg_53"
+    ],
+    [
+      "drown_dmg_54"
+    ],
+    [
+      "drown_dmg_55"
+    ],
+    [
+      "drown_dmg_56"
+    ],
+    [
+      "drown_dmg_57"
+    ],
+    [
+      "drown_dmg_58"
+    ],
+    [
+      "drown_dmg_59"
+    ],
+    [
+      "drown_dmg_60"
+    ],
+    [
+      "drown_dmg_61"
+    ],
+    [
+      "drown_dmg_62"
+    ],
+    [
+      "drown_dmg_63"
+    ],
+    [
+      "drown_dmg_64"
+    ],
+    [
+      "drown_dmg_65"
+    ],
+    [
+      "drown_dmg_66"
+    ],
+    [
+      "drown_dmg_67"
+    ],
+    [
+      "drown_dmg_68"
+    ],
+    [
+      "drown_dmg_69"
+    ],
+    [
+      "drown_dmg_70"
+    ],
+    [
+      "drown_dmg_71"
+    ],
+    [
+      "drown_dmg_72"
+    ],
+    [
+      "drown_dmg_73"
+    ],
+    [
+      "drown_dmg_74"
+    ],
+    [
+      "drown_dmg_75"
+    ],
+    [
+      "drown_dmg_76"
+    ],
+    [
+      "drown_dmg_77"
+    ],
+    [
+      "drown_dmg_78"
+    ],
+    [
+      "drown_dmg_79"
+    ],
+    [
+      "drown_dmg_80"
+    ],
+    [
+      "drown_dmg_81"
+    ],
+    [
+      "drown_dmg_82"
+    ],
+    [
+      "drown_dmg_83"
+    ],
+    [
+      "drown_dmg_84"
+    ],
+    [
+      "drown_dmg_85"
+    ],
+    [
+      "drown_dmg_86"
+    ],
+    [
+      "drown_dmg_87"
+    ],
+    [
+      "drown_dmg_88"
+    ],
+    [
+      "drown_dmg_89"
+    ],
+    [
+      "drown_dmg_90"
+    ],
+    [
+      "drown_dmg_91"
+    ],
+    [
+      "drown_dmg_92"
+    ],
+    [
+      "drown_dmg_93"
+    ],
+    [
+      "drown_dmg_94"
+    ],
+    [
+      "drown_dmg_95"
+    ],
+    [
+      "drown_dmg_96"
+    ],
+    [
+      "drown_dmg_97"
+    ],
+    [
+      "drown_dmg_98"
+    ],
+    [
+      "drown_dmg_99"
+    ],
+    [
+      "drown_dmg_100"
+    ],
+    [
+      "drown_dmg_101"
+    ],
+    [
+      "drown_dmg_102"
+    ],
+    [
+      "drown_dmg_103"
+    ],
+    [
+      "drown_dmg_104"
+    ],
+    [
+      "drown_dmg_105"
+    ],
+    [
+      "drown_dmg_106"
+    ],
+    [
+      "drown_dmg_107"
+    ],
+    [
+      "drown_dmg_108"
+    ],
+    [
+      "drown_dmg_109"
+    ],
+    [
+      "drown_dmg_110"
+    ],
+    [
+      "drown_dmg_111"
+    ],
+    [
+      "drown_dmg_112"
+    ],
+    [
+      "drown_dmg_113"
+    ],
+    [
+      "drown_dmg_114"
+    ],
+    [
+      "drown_dmg_115"
+    ],
+    [
+      "drown_dmg_116"
+    ],
+    [
+      "drown_dmg_117"
+    ],
+    [
+      "drown_dmg_118"
+    ],
+    [
+      "drown_dmg_119"
+    ],
+    [
+      "drown_dmg_120"
+    ],
+    [
+      "drown_dmg_121"
+    ],
+    [
+      "drown_dmg_122"
+    ],
+    [
+      "drown_dmg_123"
+    ],
+    [
+      "drown_dmg_124"
+    ],
+    [
+      "drown_dmg_125"
+    ],
+    [
+      "drown_dmg_126"
+    ],
+    [
+      "drown_dmg_127"
+    ],
+    [
+      "drown_dmg_128"
+    ],
+    [
+      "drown_dmg_129"
+    ],
+    [
+      "drown_dmg_130"
+    ],
+    [
+      "drown_dmg_131"
+    ],
+    [
+      "drown_dmg_132"
+    ],
+    [
+      "drown_dmg_133"
+    ],
+    [
+      "drown_dmg_134"
+    ],
+    [
+      "drown_dmg_135"
+    ],
+    [
+      "drown_dmg_136"
+    ],
+    [
+      "drown_dmg_137"
+    ],
+    [
+      "drown_dmg_138"
+    ],
+    [
+      "drown_dmg_139"
+    ],
+    [
+      "drown_dmg_140"
+    ],
+    [
+      "drown_dmg_141"
+    ],
+    [
+      "drown_dmg_142"
+    ],
+    [
+      "drown_dmg_143"
+    ],
+    [
+      "drown_dmg_144"
+    ],
+    [
+      "drown_dmg_145"
+    ],
+    [
+      "drown_dmg_146"
+    ],
+    [
+      "drown_dmg_147"
+    ],
+    [
+      "drown_dmg_148"
+    ],
+    [
+      "drown_dmg_149"
+    ],
+    [
+      "drown_dmg_150"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

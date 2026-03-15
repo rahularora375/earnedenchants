@@ -1,0 +1,2716 @@
+{
+  "parent": "earnedenchants:tool/swift_sneak_1",
+  "criteria": {
+    "sneak_travel_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1000": {
+      "conditions": {
+        "min_count": 1000
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1010": {
+      "conditions": {
+        "min_count": 1010
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1020": {
+      "conditions": {
+        "min_count": 1020
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1030": {
+      "conditions": {
+        "min_count": 1030
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1040": {
+      "conditions": {
+        "min_count": 1040
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1050": {
+      "conditions": {
+        "min_count": 1050
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1060": {
+      "conditions": {
+        "min_count": 1060
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1070": {
+      "conditions": {
+        "min_count": 1070
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1080": {
+      "conditions": {
+        "min_count": 1080
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1090": {
+      "conditions": {
+        "min_count": 1090
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1100": {
+      "conditions": {
+        "min_count": 1100
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1110": {
+      "conditions": {
+        "min_count": 1110
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1120": {
+      "conditions": {
+        "min_count": 1120
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1130": {
+      "conditions": {
+        "min_count": 1130
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1140": {
+      "conditions": {
+        "min_count": 1140
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1150": {
+      "conditions": {
+        "min_count": 1150
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1160": {
+      "conditions": {
+        "min_count": 1160
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1170": {
+      "conditions": {
+        "min_count": 1170
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1180": {
+      "conditions": {
+        "min_count": 1180
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1190": {
+      "conditions": {
+        "min_count": 1190
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1200": {
+      "conditions": {
+        "min_count": 1200
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1210": {
+      "conditions": {
+        "min_count": 1210
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1220": {
+      "conditions": {
+        "min_count": 1220
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1230": {
+      "conditions": {
+        "min_count": 1230
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1240": {
+      "conditions": {
+        "min_count": 1240
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1250": {
+      "conditions": {
+        "min_count": 1250
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1260": {
+      "conditions": {
+        "min_count": 1260
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1270": {
+      "conditions": {
+        "min_count": 1270
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1280": {
+      "conditions": {
+        "min_count": 1280
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1290": {
+      "conditions": {
+        "min_count": 1290
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1300": {
+      "conditions": {
+        "min_count": 1300
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1310": {
+      "conditions": {
+        "min_count": 1310
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1320": {
+      "conditions": {
+        "min_count": 1320
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1330": {
+      "conditions": {
+        "min_count": 1330
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1340": {
+      "conditions": {
+        "min_count": 1340
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1350": {
+      "conditions": {
+        "min_count": 1350
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1360": {
+      "conditions": {
+        "min_count": 1360
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1370": {
+      "conditions": {
+        "min_count": 1370
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1380": {
+      "conditions": {
+        "min_count": 1380
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1390": {
+      "conditions": {
+        "min_count": 1390
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1400": {
+      "conditions": {
+        "min_count": 1400
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1410": {
+      "conditions": {
+        "min_count": 1410
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1420": {
+      "conditions": {
+        "min_count": 1420
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1430": {
+      "conditions": {
+        "min_count": 1430
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1440": {
+      "conditions": {
+        "min_count": 1440
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1450": {
+      "conditions": {
+        "min_count": 1450
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1460": {
+      "conditions": {
+        "min_count": 1460
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1470": {
+      "conditions": {
+        "min_count": 1470
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1480": {
+      "conditions": {
+        "min_count": 1480
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1490": {
+      "conditions": {
+        "min_count": 1490
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1500": {
+      "conditions": {
+        "min_count": 1500
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1510": {
+      "conditions": {
+        "min_count": 1510
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1520": {
+      "conditions": {
+        "min_count": 1520
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1530": {
+      "conditions": {
+        "min_count": 1530
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1540": {
+      "conditions": {
+        "min_count": 1540
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1550": {
+      "conditions": {
+        "min_count": 1550
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1560": {
+      "conditions": {
+        "min_count": 1560
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1570": {
+      "conditions": {
+        "min_count": 1570
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1580": {
+      "conditions": {
+        "min_count": 1580
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1590": {
+      "conditions": {
+        "min_count": 1590
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1600": {
+      "conditions": {
+        "min_count": 1600
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1610": {
+      "conditions": {
+        "min_count": 1610
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1620": {
+      "conditions": {
+        "min_count": 1620
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1630": {
+      "conditions": {
+        "min_count": 1630
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1640": {
+      "conditions": {
+        "min_count": 1640
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1650": {
+      "conditions": {
+        "min_count": 1650
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1660": {
+      "conditions": {
+        "min_count": 1660
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1670": {
+      "conditions": {
+        "min_count": 1670
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1680": {
+      "conditions": {
+        "min_count": 1680
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1690": {
+      "conditions": {
+        "min_count": 1690
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1700": {
+      "conditions": {
+        "min_count": 1700
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1710": {
+      "conditions": {
+        "min_count": 1710
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1720": {
+      "conditions": {
+        "min_count": 1720
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1730": {
+      "conditions": {
+        "min_count": 1730
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1740": {
+      "conditions": {
+        "min_count": 1740
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1750": {
+      "conditions": {
+        "min_count": 1750
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1760": {
+      "conditions": {
+        "min_count": 1760
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1770": {
+      "conditions": {
+        "min_count": 1770
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1780": {
+      "conditions": {
+        "min_count": 1780
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1790": {
+      "conditions": {
+        "min_count": 1790
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1800": {
+      "conditions": {
+        "min_count": 1800
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1810": {
+      "conditions": {
+        "min_count": 1810
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1820": {
+      "conditions": {
+        "min_count": 1820
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1830": {
+      "conditions": {
+        "min_count": 1830
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1840": {
+      "conditions": {
+        "min_count": 1840
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1850": {
+      "conditions": {
+        "min_count": 1850
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1860": {
+      "conditions": {
+        "min_count": 1860
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1870": {
+      "conditions": {
+        "min_count": 1870
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1880": {
+      "conditions": {
+        "min_count": 1880
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1890": {
+      "conditions": {
+        "min_count": 1890
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1900": {
+      "conditions": {
+        "min_count": 1900
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1910": {
+      "conditions": {
+        "min_count": 1910
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1920": {
+      "conditions": {
+        "min_count": 1920
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1930": {
+      "conditions": {
+        "min_count": 1930
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1940": {
+      "conditions": {
+        "min_count": 1940
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1950": {
+      "conditions": {
+        "min_count": 1950
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1960": {
+      "conditions": {
+        "min_count": 1960
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1970": {
+      "conditions": {
+        "min_count": 1970
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1980": {
+      "conditions": {
+        "min_count": 1980
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_1990": {
+      "conditions": {
+        "min_count": 1990
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2000": {
+      "conditions": {
+        "min_count": 2000
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2010": {
+      "conditions": {
+        "min_count": 2010
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2020": {
+      "conditions": {
+        "min_count": 2020
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2030": {
+      "conditions": {
+        "min_count": 2030
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2040": {
+      "conditions": {
+        "min_count": 2040
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2050": {
+      "conditions": {
+        "min_count": 2050
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2060": {
+      "conditions": {
+        "min_count": 2060
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2070": {
+      "conditions": {
+        "min_count": 2070
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2080": {
+      "conditions": {
+        "min_count": 2080
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2090": {
+      "conditions": {
+        "min_count": 2090
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2100": {
+      "conditions": {
+        "min_count": 2100
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2110": {
+      "conditions": {
+        "min_count": 2110
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2120": {
+      "conditions": {
+        "min_count": 2120
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2130": {
+      "conditions": {
+        "min_count": 2130
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2140": {
+      "conditions": {
+        "min_count": 2140
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2150": {
+      "conditions": {
+        "min_count": 2150
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2160": {
+      "conditions": {
+        "min_count": 2160
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2170": {
+      "conditions": {
+        "min_count": 2170
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2180": {
+      "conditions": {
+        "min_count": 2180
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2190": {
+      "conditions": {
+        "min_count": 2190
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2200": {
+      "conditions": {
+        "min_count": 2200
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2210": {
+      "conditions": {
+        "min_count": 2210
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2220": {
+      "conditions": {
+        "min_count": 2220
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2230": {
+      "conditions": {
+        "min_count": 2230
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2240": {
+      "conditions": {
+        "min_count": 2240
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2250": {
+      "conditions": {
+        "min_count": 2250
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2260": {
+      "conditions": {
+        "min_count": 2260
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2270": {
+      "conditions": {
+        "min_count": 2270
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2280": {
+      "conditions": {
+        "min_count": 2280
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2290": {
+      "conditions": {
+        "min_count": 2290
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2300": {
+      "conditions": {
+        "min_count": 2300
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2310": {
+      "conditions": {
+        "min_count": 2310
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2320": {
+      "conditions": {
+        "min_count": 2320
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2330": {
+      "conditions": {
+        "min_count": 2330
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2340": {
+      "conditions": {
+        "min_count": 2340
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2350": {
+      "conditions": {
+        "min_count": 2350
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2360": {
+      "conditions": {
+        "min_count": 2360
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2370": {
+      "conditions": {
+        "min_count": 2370
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2380": {
+      "conditions": {
+        "min_count": 2380
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2390": {
+      "conditions": {
+        "min_count": 2390
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2400": {
+      "conditions": {
+        "min_count": 2400
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2410": {
+      "conditions": {
+        "min_count": 2410
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2420": {
+      "conditions": {
+        "min_count": 2420
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2430": {
+      "conditions": {
+        "min_count": 2430
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2440": {
+      "conditions": {
+        "min_count": 2440
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2450": {
+      "conditions": {
+        "min_count": 2450
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2460": {
+      "conditions": {
+        "min_count": 2460
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2470": {
+      "conditions": {
+        "min_count": 2470
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2480": {
+      "conditions": {
+        "min_count": 2480
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2490": {
+      "conditions": {
+        "min_count": 2490
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2500": {
+      "conditions": {
+        "min_count": 2500
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2510": {
+      "conditions": {
+        "min_count": 2510
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2520": {
+      "conditions": {
+        "min_count": 2520
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2530": {
+      "conditions": {
+        "min_count": 2530
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2540": {
+      "conditions": {
+        "min_count": 2540
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2550": {
+      "conditions": {
+        "min_count": 2550
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2560": {
+      "conditions": {
+        "min_count": 2560
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2570": {
+      "conditions": {
+        "min_count": 2570
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2580": {
+      "conditions": {
+        "min_count": 2580
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2590": {
+      "conditions": {
+        "min_count": 2590
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2600": {
+      "conditions": {
+        "min_count": 2600
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2610": {
+      "conditions": {
+        "min_count": 2610
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2620": {
+      "conditions": {
+        "min_count": 2620
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2630": {
+      "conditions": {
+        "min_count": 2630
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2640": {
+      "conditions": {
+        "min_count": 2640
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2650": {
+      "conditions": {
+        "min_count": 2650
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2660": {
+      "conditions": {
+        "min_count": 2660
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2670": {
+      "conditions": {
+        "min_count": 2670
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2680": {
+      "conditions": {
+        "min_count": 2680
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2690": {
+      "conditions": {
+        "min_count": 2690
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2700": {
+      "conditions": {
+        "min_count": 2700
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2710": {
+      "conditions": {
+        "min_count": 2710
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2720": {
+      "conditions": {
+        "min_count": 2720
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2730": {
+      "conditions": {
+        "min_count": 2730
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2740": {
+      "conditions": {
+        "min_count": 2740
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2750": {
+      "conditions": {
+        "min_count": 2750
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2760": {
+      "conditions": {
+        "min_count": 2760
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2770": {
+      "conditions": {
+        "min_count": 2770
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2780": {
+      "conditions": {
+        "min_count": 2780
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2790": {
+      "conditions": {
+        "min_count": 2790
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2800": {
+      "conditions": {
+        "min_count": 2800
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2810": {
+      "conditions": {
+        "min_count": 2810
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2820": {
+      "conditions": {
+        "min_count": 2820
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2830": {
+      "conditions": {
+        "min_count": 2830
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2840": {
+      "conditions": {
+        "min_count": 2840
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2850": {
+      "conditions": {
+        "min_count": 2850
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2860": {
+      "conditions": {
+        "min_count": 2860
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2870": {
+      "conditions": {
+        "min_count": 2870
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2880": {
+      "conditions": {
+        "min_count": 2880
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2890": {
+      "conditions": {
+        "min_count": 2890
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2900": {
+      "conditions": {
+        "min_count": 2900
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2910": {
+      "conditions": {
+        "min_count": 2910
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2920": {
+      "conditions": {
+        "min_count": 2920
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2930": {
+      "conditions": {
+        "min_count": 2930
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2940": {
+      "conditions": {
+        "min_count": 2940
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2950": {
+      "conditions": {
+        "min_count": 2950
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2960": {
+      "conditions": {
+        "min_count": 2960
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2970": {
+      "conditions": {
+        "min_count": 2970
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2980": {
+      "conditions": {
+        "min_count": 2980
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_2990": {
+      "conditions": {
+        "min_count": 2990
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_3000": {
+      "conditions": {
+        "min_count": 3000
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_510": {
+      "conditions": {
+        "min_count": 510
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_530": {
+      "conditions": {
+        "min_count": 530
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_550": {
+      "conditions": {
+        "min_count": 550
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_570": {
+      "conditions": {
+        "min_count": 570
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_590": {
+      "conditions": {
+        "min_count": 590
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_610": {
+      "conditions": {
+        "min_count": 610
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_630": {
+      "conditions": {
+        "min_count": 630
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_650": {
+      "conditions": {
+        "min_count": 650
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_670": {
+      "conditions": {
+        "min_count": 670
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_690": {
+      "conditions": {
+        "min_count": 690
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_710": {
+      "conditions": {
+        "min_count": 710
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_720": {
+      "conditions": {
+        "min_count": 720
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_730": {
+      "conditions": {
+        "min_count": 730
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_740": {
+      "conditions": {
+        "min_count": 740
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_750": {
+      "conditions": {
+        "min_count": 750
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_760": {
+      "conditions": {
+        "min_count": 760
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_770": {
+      "conditions": {
+        "min_count": 770
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_780": {
+      "conditions": {
+        "min_count": 780
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_790": {
+      "conditions": {
+        "min_count": 790
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_800": {
+      "conditions": {
+        "min_count": 800
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_810": {
+      "conditions": {
+        "min_count": 810
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_820": {
+      "conditions": {
+        "min_count": 820
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_830": {
+      "conditions": {
+        "min_count": 830
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_840": {
+      "conditions": {
+        "min_count": 840
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_850": {
+      "conditions": {
+        "min_count": 850
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_860": {
+      "conditions": {
+        "min_count": 860
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_870": {
+      "conditions": {
+        "min_count": 870
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_880": {
+      "conditions": {
+        "min_count": 880
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_890": {
+      "conditions": {
+        "min_count": 890
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_900": {
+      "conditions": {
+        "min_count": 900
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_910": {
+      "conditions": {
+        "min_count": 910
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_920": {
+      "conditions": {
+        "min_count": 920
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_930": {
+      "conditions": {
+        "min_count": 930
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_940": {
+      "conditions": {
+        "min_count": 940
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_950": {
+      "conditions": {
+        "min_count": 950
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_960": {
+      "conditions": {
+        "min_count": 960
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_970": {
+      "conditions": {
+        "min_count": 970
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_980": {
+      "conditions": {
+        "min_count": 980
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    },
+    "sneak_travel_990": {
+      "conditions": {
+        "min_count": 990
+      },
+      "trigger": "earnedenchants:sneak_travel"
+    }
+  },
+  "display": {
+    "description": "Travel 3,000 blocks while sneaking",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:sculk_shrieker"
+    },
+    "title": "Swift Sneak II"
+  },
+  "requirements": [
+    [
+      "sneak_travel_10"
+    ],
+    [
+      "sneak_travel_20"
+    ],
+    [
+      "sneak_travel_30"
+    ],
+    [
+      "sneak_travel_40"
+    ],
+    [
+      "sneak_travel_50"
+    ],
+    [
+      "sneak_travel_60"
+    ],
+    [
+      "sneak_travel_70"
+    ],
+    [
+      "sneak_travel_80"
+    ],
+    [
+      "sneak_travel_90"
+    ],
+    [
+      "sneak_travel_100"
+    ],
+    [
+      "sneak_travel_110"
+    ],
+    [
+      "sneak_travel_120"
+    ],
+    [
+      "sneak_travel_130"
+    ],
+    [
+      "sneak_travel_140"
+    ],
+    [
+      "sneak_travel_150"
+    ],
+    [
+      "sneak_travel_160"
+    ],
+    [
+      "sneak_travel_170"
+    ],
+    [
+      "sneak_travel_180"
+    ],
+    [
+      "sneak_travel_190"
+    ],
+    [
+      "sneak_travel_200"
+    ],
+    [
+      "sneak_travel_210"
+    ],
+    [
+      "sneak_travel_220"
+    ],
+    [
+      "sneak_travel_230"
+    ],
+    [
+      "sneak_travel_240"
+    ],
+    [
+      "sneak_travel_250"
+    ],
+    [
+      "sneak_travel_260"
+    ],
+    [
+      "sneak_travel_270"
+    ],
+    [
+      "sneak_travel_280"
+    ],
+    [
+      "sneak_travel_290"
+    ],
+    [
+      "sneak_travel_300"
+    ],
+    [
+      "sneak_travel_310"
+    ],
+    [
+      "sneak_travel_320"
+    ],
+    [
+      "sneak_travel_330"
+    ],
+    [
+      "sneak_travel_340"
+    ],
+    [
+      "sneak_travel_350"
+    ],
+    [
+      "sneak_travel_360"
+    ],
+    [
+      "sneak_travel_370"
+    ],
+    [
+      "sneak_travel_380"
+    ],
+    [
+      "sneak_travel_390"
+    ],
+    [
+      "sneak_travel_400"
+    ],
+    [
+      "sneak_travel_410"
+    ],
+    [
+      "sneak_travel_420"
+    ],
+    [
+      "sneak_travel_430"
+    ],
+    [
+      "sneak_travel_440"
+    ],
+    [
+      "sneak_travel_450"
+    ],
+    [
+      "sneak_travel_460"
+    ],
+    [
+      "sneak_travel_470"
+    ],
+    [
+      "sneak_travel_480"
+    ],
+    [
+      "sneak_travel_490"
+    ],
+    [
+      "sneak_travel_500"
+    ],
+    [
+      "sneak_travel_510"
+    ],
+    [
+      "sneak_travel_520"
+    ],
+    [
+      "sneak_travel_530"
+    ],
+    [
+      "sneak_travel_540"
+    ],
+    [
+      "sneak_travel_550"
+    ],
+    [
+      "sneak_travel_560"
+    ],
+    [
+      "sneak_travel_570"
+    ],
+    [
+      "sneak_travel_580"
+    ],
+    [
+      "sneak_travel_590"
+    ],
+    [
+      "sneak_travel_600"
+    ],
+    [
+      "sneak_travel_610"
+    ],
+    [
+      "sneak_travel_620"
+    ],
+    [
+      "sneak_travel_630"
+    ],
+    [
+      "sneak_travel_640"
+    ],
+    [
+      "sneak_travel_650"
+    ],
+    [
+      "sneak_travel_660"
+    ],
+    [
+      "sneak_travel_670"
+    ],
+    [
+      "sneak_travel_680"
+    ],
+    [
+      "sneak_travel_690"
+    ],
+    [
+      "sneak_travel_700"
+    ],
+    [
+      "sneak_travel_710"
+    ],
+    [
+      "sneak_travel_720"
+    ],
+    [
+      "sneak_travel_730"
+    ],
+    [
+      "sneak_travel_740"
+    ],
+    [
+      "sneak_travel_750"
+    ],
+    [
+      "sneak_travel_760"
+    ],
+    [
+      "sneak_travel_770"
+    ],
+    [
+      "sneak_travel_780"
+    ],
+    [
+      "sneak_travel_790"
+    ],
+    [
+      "sneak_travel_800"
+    ],
+    [
+      "sneak_travel_810"
+    ],
+    [
+      "sneak_travel_820"
+    ],
+    [
+      "sneak_travel_830"
+    ],
+    [
+      "sneak_travel_840"
+    ],
+    [
+      "sneak_travel_850"
+    ],
+    [
+      "sneak_travel_860"
+    ],
+    [
+      "sneak_travel_870"
+    ],
+    [
+      "sneak_travel_880"
+    ],
+    [
+      "sneak_travel_890"
+    ],
+    [
+      "sneak_travel_900"
+    ],
+    [
+      "sneak_travel_910"
+    ],
+    [
+      "sneak_travel_920"
+    ],
+    [
+      "sneak_travel_930"
+    ],
+    [
+      "sneak_travel_940"
+    ],
+    [
+      "sneak_travel_950"
+    ],
+    [
+      "sneak_travel_960"
+    ],
+    [
+      "sneak_travel_970"
+    ],
+    [
+      "sneak_travel_980"
+    ],
+    [
+      "sneak_travel_990"
+    ],
+    [
+      "sneak_travel_1000"
+    ],
+    [
+      "sneak_travel_1010"
+    ],
+    [
+      "sneak_travel_1020"
+    ],
+    [
+      "sneak_travel_1030"
+    ],
+    [
+      "sneak_travel_1040"
+    ],
+    [
+      "sneak_travel_1050"
+    ],
+    [
+      "sneak_travel_1060"
+    ],
+    [
+      "sneak_travel_1070"
+    ],
+    [
+      "sneak_travel_1080"
+    ],
+    [
+      "sneak_travel_1090"
+    ],
+    [
+      "sneak_travel_1100"
+    ],
+    [
+      "sneak_travel_1110"
+    ],
+    [
+      "sneak_travel_1120"
+    ],
+    [
+      "sneak_travel_1130"
+    ],
+    [
+      "sneak_travel_1140"
+    ],
+    [
+      "sneak_travel_1150"
+    ],
+    [
+      "sneak_travel_1160"
+    ],
+    [
+      "sneak_travel_1170"
+    ],
+    [
+      "sneak_travel_1180"
+    ],
+    [
+      "sneak_travel_1190"
+    ],
+    [
+      "sneak_travel_1200"
+    ],
+    [
+      "sneak_travel_1210"
+    ],
+    [
+      "sneak_travel_1220"
+    ],
+    [
+      "sneak_travel_1230"
+    ],
+    [
+      "sneak_travel_1240"
+    ],
+    [
+      "sneak_travel_1250"
+    ],
+    [
+      "sneak_travel_1260"
+    ],
+    [
+      "sneak_travel_1270"
+    ],
+    [
+      "sneak_travel_1280"
+    ],
+    [
+      "sneak_travel_1290"
+    ],
+    [
+      "sneak_travel_1300"
+    ],
+    [
+      "sneak_travel_1310"
+    ],
+    [
+      "sneak_travel_1320"
+    ],
+    [
+      "sneak_travel_1330"
+    ],
+    [
+      "sneak_travel_1340"
+    ],
+    [
+      "sneak_travel_1350"
+    ],
+    [
+      "sneak_travel_1360"
+    ],
+    [
+      "sneak_travel_1370"
+    ],
+    [
+      "sneak_travel_1380"
+    ],
+    [
+      "sneak_travel_1390"
+    ],
+    [
+      "sneak_travel_1400"
+    ],
+    [
+      "sneak_travel_1410"
+    ],
+    [
+      "sneak_travel_1420"
+    ],
+    [
+      "sneak_travel_1430"
+    ],
+    [
+      "sneak_travel_1440"
+    ],
+    [
+      "sneak_travel_1450"
+    ],
+    [
+      "sneak_travel_1460"
+    ],
+    [
+      "sneak_travel_1470"
+    ],
+    [
+      "sneak_travel_1480"
+    ],
+    [
+      "sneak_travel_1490"
+    ],
+    [
+      "sneak_travel_1500"
+    ],
+    [
+      "sneak_travel_1510"
+    ],
+    [
+      "sneak_travel_1520"
+    ],
+    [
+      "sneak_travel_1530"
+    ],
+    [
+      "sneak_travel_1540"
+    ],
+    [
+      "sneak_travel_1550"
+    ],
+    [
+      "sneak_travel_1560"
+    ],
+    [
+      "sneak_travel_1570"
+    ],
+    [
+      "sneak_travel_1580"
+    ],
+    [
+      "sneak_travel_1590"
+    ],
+    [
+      "sneak_travel_1600"
+    ],
+    [
+      "sneak_travel_1610"
+    ],
+    [
+      "sneak_travel_1620"
+    ],
+    [
+      "sneak_travel_1630"
+    ],
+    [
+      "sneak_travel_1640"
+    ],
+    [
+      "sneak_travel_1650"
+    ],
+    [
+      "sneak_travel_1660"
+    ],
+    [
+      "sneak_travel_1670"
+    ],
+    [
+      "sneak_travel_1680"
+    ],
+    [
+      "sneak_travel_1690"
+    ],
+    [
+      "sneak_travel_1700"
+    ],
+    [
+      "sneak_travel_1710"
+    ],
+    [
+      "sneak_travel_1720"
+    ],
+    [
+      "sneak_travel_1730"
+    ],
+    [
+      "sneak_travel_1740"
+    ],
+    [
+      "sneak_travel_1750"
+    ],
+    [
+      "sneak_travel_1760"
+    ],
+    [
+      "sneak_travel_1770"
+    ],
+    [
+      "sneak_travel_1780"
+    ],
+    [
+      "sneak_travel_1790"
+    ],
+    [
+      "sneak_travel_1800"
+    ],
+    [
+      "sneak_travel_1810"
+    ],
+    [
+      "sneak_travel_1820"
+    ],
+    [
+      "sneak_travel_1830"
+    ],
+    [
+      "sneak_travel_1840"
+    ],
+    [
+      "sneak_travel_1850"
+    ],
+    [
+      "sneak_travel_1860"
+    ],
+    [
+      "sneak_travel_1870"
+    ],
+    [
+      "sneak_travel_1880"
+    ],
+    [
+      "sneak_travel_1890"
+    ],
+    [
+      "sneak_travel_1900"
+    ],
+    [
+      "sneak_travel_1910"
+    ],
+    [
+      "sneak_travel_1920"
+    ],
+    [
+      "sneak_travel_1930"
+    ],
+    [
+      "sneak_travel_1940"
+    ],
+    [
+      "sneak_travel_1950"
+    ],
+    [
+      "sneak_travel_1960"
+    ],
+    [
+      "sneak_travel_1970"
+    ],
+    [
+      "sneak_travel_1980"
+    ],
+    [
+      "sneak_travel_1990"
+    ],
+    [
+      "sneak_travel_2000"
+    ],
+    [
+      "sneak_travel_2010"
+    ],
+    [
+      "sneak_travel_2020"
+    ],
+    [
+      "sneak_travel_2030"
+    ],
+    [
+      "sneak_travel_2040"
+    ],
+    [
+      "sneak_travel_2050"
+    ],
+    [
+      "sneak_travel_2060"
+    ],
+    [
+      "sneak_travel_2070"
+    ],
+    [
+      "sneak_travel_2080"
+    ],
+    [
+      "sneak_travel_2090"
+    ],
+    [
+      "sneak_travel_2100"
+    ],
+    [
+      "sneak_travel_2110"
+    ],
+    [
+      "sneak_travel_2120"
+    ],
+    [
+      "sneak_travel_2130"
+    ],
+    [
+      "sneak_travel_2140"
+    ],
+    [
+      "sneak_travel_2150"
+    ],
+    [
+      "sneak_travel_2160"
+    ],
+    [
+      "sneak_travel_2170"
+    ],
+    [
+      "sneak_travel_2180"
+    ],
+    [
+      "sneak_travel_2190"
+    ],
+    [
+      "sneak_travel_2200"
+    ],
+    [
+      "sneak_travel_2210"
+    ],
+    [
+      "sneak_travel_2220"
+    ],
+    [
+      "sneak_travel_2230"
+    ],
+    [
+      "sneak_travel_2240"
+    ],
+    [
+      "sneak_travel_2250"
+    ],
+    [
+      "sneak_travel_2260"
+    ],
+    [
+      "sneak_travel_2270"
+    ],
+    [
+      "sneak_travel_2280"
+    ],
+    [
+      "sneak_travel_2290"
+    ],
+    [
+      "sneak_travel_2300"
+    ],
+    [
+      "sneak_travel_2310"
+    ],
+    [
+      "sneak_travel_2320"
+    ],
+    [
+      "sneak_travel_2330"
+    ],
+    [
+      "sneak_travel_2340"
+    ],
+    [
+      "sneak_travel_2350"
+    ],
+    [
+      "sneak_travel_2360"
+    ],
+    [
+      "sneak_travel_2370"
+    ],
+    [
+      "sneak_travel_2380"
+    ],
+    [
+      "sneak_travel_2390"
+    ],
+    [
+      "sneak_travel_2400"
+    ],
+    [
+      "sneak_travel_2410"
+    ],
+    [
+      "sneak_travel_2420"
+    ],
+    [
+      "sneak_travel_2430"
+    ],
+    [
+      "sneak_travel_2440"
+    ],
+    [
+      "sneak_travel_2450"
+    ],
+    [
+      "sneak_travel_2460"
+    ],
+    [
+      "sneak_travel_2470"
+    ],
+    [
+      "sneak_travel_2480"
+    ],
+    [
+      "sneak_travel_2490"
+    ],
+    [
+      "sneak_travel_2500"
+    ],
+    [
+      "sneak_travel_2510"
+    ],
+    [
+      "sneak_travel_2520"
+    ],
+    [
+      "sneak_travel_2530"
+    ],
+    [
+      "sneak_travel_2540"
+    ],
+    [
+      "sneak_travel_2550"
+    ],
+    [
+      "sneak_travel_2560"
+    ],
+    [
+      "sneak_travel_2570"
+    ],
+    [
+      "sneak_travel_2580"
+    ],
+    [
+      "sneak_travel_2590"
+    ],
+    [
+      "sneak_travel_2600"
+    ],
+    [
+      "sneak_travel_2610"
+    ],
+    [
+      "sneak_travel_2620"
+    ],
+    [
+      "sneak_travel_2630"
+    ],
+    [
+      "sneak_travel_2640"
+    ],
+    [
+      "sneak_travel_2650"
+    ],
+    [
+      "sneak_travel_2660"
+    ],
+    [
+      "sneak_travel_2670"
+    ],
+    [
+      "sneak_travel_2680"
+    ],
+    [
+      "sneak_travel_2690"
+    ],
+    [
+      "sneak_travel_2700"
+    ],
+    [
+      "sneak_travel_2710"
+    ],
+    [
+      "sneak_travel_2720"
+    ],
+    [
+      "sneak_travel_2730"
+    ],
+    [
+      "sneak_travel_2740"
+    ],
+    [
+      "sneak_travel_2750"
+    ],
+    [
+      "sneak_travel_2760"
+    ],
+    [
+      "sneak_travel_2770"
+    ],
+    [
+      "sneak_travel_2780"
+    ],
+    [
+      "sneak_travel_2790"
+    ],
+    [
+      "sneak_travel_2800"
+    ],
+    [
+      "sneak_travel_2810"
+    ],
+    [
+      "sneak_travel_2820"
+    ],
+    [
+      "sneak_travel_2830"
+    ],
+    [
+      "sneak_travel_2840"
+    ],
+    [
+      "sneak_travel_2850"
+    ],
+    [
+      "sneak_travel_2860"
+    ],
+    [
+      "sneak_travel_2870"
+    ],
+    [
+      "sneak_travel_2880"
+    ],
+    [
+      "sneak_travel_2890"
+    ],
+    [
+      "sneak_travel_2900"
+    ],
+    [
+      "sneak_travel_2910"
+    ],
+    [
+      "sneak_travel_2920"
+    ],
+    [
+      "sneak_travel_2930"
+    ],
+    [
+      "sneak_travel_2940"
+    ],
+    [
+      "sneak_travel_2950"
+    ],
+    [
+      "sneak_travel_2960"
+    ],
+    [
+      "sneak_travel_2970"
+    ],
+    [
+      "sneak_travel_2980"
+    ],
+    [
+      "sneak_travel_2990"
+    ],
+    [
+      "sneak_travel_3000"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

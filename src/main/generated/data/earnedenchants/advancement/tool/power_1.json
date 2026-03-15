@@ -1,0 +1,61 @@
+{
+  "parent": "earnedenchants:tool/bow_cat",
+  "criteria": {
+    "ranged_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    },
+    "ranged_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:ranged_damage"
+    }
+  },
+  "display": {
+    "description": "Deal 100 ranged damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bow"
+    },
+    "title": "Power I"
+  },
+  "requirements": [
+    [
+      "ranged_dmg_20"
+    ],
+    [
+      "ranged_dmg_40"
+    ],
+    [
+      "ranged_dmg_60"
+    ],
+    [
+      "ranged_dmg_80"
+    ],
+    [
+      "ranged_dmg_100"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

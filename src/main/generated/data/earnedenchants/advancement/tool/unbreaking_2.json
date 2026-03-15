@@ -1,0 +1,43 @@
+{
+  "parent": "earnedenchants:tool/unbreaking_1",
+  "criteria": {
+    "break_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:tools_broken"
+    },
+    "break_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:tools_broken"
+    },
+    "break_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:tools_broken"
+    }
+  },
+  "display": {
+    "description": "Break 3 items through use",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:anvil"
+    },
+    "title": "Unbreaking II"
+  },
+  "requirements": [
+    [
+      "break_1"
+    ],
+    [
+      "break_2"
+    ],
+    [
+      "break_3"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

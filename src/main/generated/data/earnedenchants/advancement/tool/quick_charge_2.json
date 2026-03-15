@@ -1,0 +1,286 @@
+{
+  "parent": "earnedenchants:tool/quick_charge_1",
+  "criteria": {
+    "xbow_fire_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    }
+  },
+  "display": {
+    "description": "Fire crossbow 300 times",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crossbow"
+    },
+    "title": "Quick Charge II"
+  },
+  "requirements": [
+    [
+      "xbow_fire_10"
+    ],
+    [
+      "xbow_fire_20"
+    ],
+    [
+      "xbow_fire_30"
+    ],
+    [
+      "xbow_fire_40"
+    ],
+    [
+      "xbow_fire_50"
+    ],
+    [
+      "xbow_fire_60"
+    ],
+    [
+      "xbow_fire_70"
+    ],
+    [
+      "xbow_fire_80"
+    ],
+    [
+      "xbow_fire_90"
+    ],
+    [
+      "xbow_fire_100"
+    ],
+    [
+      "xbow_fire_110"
+    ],
+    [
+      "xbow_fire_120"
+    ],
+    [
+      "xbow_fire_130"
+    ],
+    [
+      "xbow_fire_140"
+    ],
+    [
+      "xbow_fire_150"
+    ],
+    [
+      "xbow_fire_160"
+    ],
+    [
+      "xbow_fire_170"
+    ],
+    [
+      "xbow_fire_180"
+    ],
+    [
+      "xbow_fire_190"
+    ],
+    [
+      "xbow_fire_200"
+    ],
+    [
+      "xbow_fire_210"
+    ],
+    [
+      "xbow_fire_220"
+    ],
+    [
+      "xbow_fire_230"
+    ],
+    [
+      "xbow_fire_240"
+    ],
+    [
+      "xbow_fire_250"
+    ],
+    [
+      "xbow_fire_260"
+    ],
+    [
+      "xbow_fire_270"
+    ],
+    [
+      "xbow_fire_280"
+    ],
+    [
+      "xbow_fire_290"
+    ],
+    [
+      "xbow_fire_300"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

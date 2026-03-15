@@ -1,0 +1,61 @@
+{
+  "parent": "earnedenchants:tool/mace_cat",
+  "criteria": {
+    "smash_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    },
+    "smash_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:mace_smash_damage"
+    }
+  },
+  "display": {
+    "description": "Deal 50 mace smash damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mace"
+    },
+    "title": "Density I"
+  },
+  "requirements": [
+    [
+      "smash_dmg_10"
+    ],
+    [
+      "smash_dmg_20"
+    ],
+    [
+      "smash_dmg_30"
+    ],
+    [
+      "smash_dmg_40"
+    ],
+    [
+      "smash_dmg_50"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

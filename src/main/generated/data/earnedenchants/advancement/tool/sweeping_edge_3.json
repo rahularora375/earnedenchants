@@ -1,0 +1,1817 @@
+{
+  "parent": "earnedenchants:tool/sweeping_edge_2",
+  "criteria": {
+    "sweep_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_101": {
+      "conditions": {
+        "min_count": 101
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_102": {
+      "conditions": {
+        "min_count": 102
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_103": {
+      "conditions": {
+        "min_count": 103
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_104": {
+      "conditions": {
+        "min_count": 104
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_105": {
+      "conditions": {
+        "min_count": 105
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_106": {
+      "conditions": {
+        "min_count": 106
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_107": {
+      "conditions": {
+        "min_count": 107
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_108": {
+      "conditions": {
+        "min_count": 108
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_109": {
+      "conditions": {
+        "min_count": 109
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_111": {
+      "conditions": {
+        "min_count": 111
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_112": {
+      "conditions": {
+        "min_count": 112
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_113": {
+      "conditions": {
+        "min_count": 113
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_114": {
+      "conditions": {
+        "min_count": 114
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_115": {
+      "conditions": {
+        "min_count": 115
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_116": {
+      "conditions": {
+        "min_count": 116
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_117": {
+      "conditions": {
+        "min_count": 117
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_118": {
+      "conditions": {
+        "min_count": 118
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_119": {
+      "conditions": {
+        "min_count": 119
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_121": {
+      "conditions": {
+        "min_count": 121
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_122": {
+      "conditions": {
+        "min_count": 122
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_123": {
+      "conditions": {
+        "min_count": 123
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_124": {
+      "conditions": {
+        "min_count": 124
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_125": {
+      "conditions": {
+        "min_count": 125
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_126": {
+      "conditions": {
+        "min_count": 126
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_127": {
+      "conditions": {
+        "min_count": 127
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_128": {
+      "conditions": {
+        "min_count": 128
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_129": {
+      "conditions": {
+        "min_count": 129
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_131": {
+      "conditions": {
+        "min_count": 131
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_132": {
+      "conditions": {
+        "min_count": 132
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_133": {
+      "conditions": {
+        "min_count": 133
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_134": {
+      "conditions": {
+        "min_count": 134
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_135": {
+      "conditions": {
+        "min_count": 135
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_136": {
+      "conditions": {
+        "min_count": 136
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_137": {
+      "conditions": {
+        "min_count": 137
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_138": {
+      "conditions": {
+        "min_count": 138
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_139": {
+      "conditions": {
+        "min_count": 139
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_141": {
+      "conditions": {
+        "min_count": 141
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_142": {
+      "conditions": {
+        "min_count": 142
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_143": {
+      "conditions": {
+        "min_count": 143
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_144": {
+      "conditions": {
+        "min_count": 144
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_145": {
+      "conditions": {
+        "min_count": 145
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_146": {
+      "conditions": {
+        "min_count": 146
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_147": {
+      "conditions": {
+        "min_count": 147
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_148": {
+      "conditions": {
+        "min_count": 148
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_149": {
+      "conditions": {
+        "min_count": 149
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_151": {
+      "conditions": {
+        "min_count": 151
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_152": {
+      "conditions": {
+        "min_count": 152
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_153": {
+      "conditions": {
+        "min_count": 153
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_154": {
+      "conditions": {
+        "min_count": 154
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_155": {
+      "conditions": {
+        "min_count": 155
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_156": {
+      "conditions": {
+        "min_count": 156
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_157": {
+      "conditions": {
+        "min_count": 157
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_158": {
+      "conditions": {
+        "min_count": 158
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_159": {
+      "conditions": {
+        "min_count": 159
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_161": {
+      "conditions": {
+        "min_count": 161
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_162": {
+      "conditions": {
+        "min_count": 162
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_163": {
+      "conditions": {
+        "min_count": 163
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_164": {
+      "conditions": {
+        "min_count": 164
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_165": {
+      "conditions": {
+        "min_count": 165
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_166": {
+      "conditions": {
+        "min_count": 166
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_167": {
+      "conditions": {
+        "min_count": 167
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_168": {
+      "conditions": {
+        "min_count": 168
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_169": {
+      "conditions": {
+        "min_count": 169
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_171": {
+      "conditions": {
+        "min_count": 171
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_172": {
+      "conditions": {
+        "min_count": 172
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_173": {
+      "conditions": {
+        "min_count": 173
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_174": {
+      "conditions": {
+        "min_count": 174
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_175": {
+      "conditions": {
+        "min_count": 175
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_176": {
+      "conditions": {
+        "min_count": 176
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_177": {
+      "conditions": {
+        "min_count": 177
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_178": {
+      "conditions": {
+        "min_count": 178
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_179": {
+      "conditions": {
+        "min_count": 179
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_181": {
+      "conditions": {
+        "min_count": 181
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_182": {
+      "conditions": {
+        "min_count": 182
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_183": {
+      "conditions": {
+        "min_count": 183
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_184": {
+      "conditions": {
+        "min_count": 184
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_185": {
+      "conditions": {
+        "min_count": 185
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_186": {
+      "conditions": {
+        "min_count": 186
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_187": {
+      "conditions": {
+        "min_count": 187
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_188": {
+      "conditions": {
+        "min_count": 188
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_189": {
+      "conditions": {
+        "min_count": 189
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_191": {
+      "conditions": {
+        "min_count": 191
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_192": {
+      "conditions": {
+        "min_count": 192
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_193": {
+      "conditions": {
+        "min_count": 193
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_194": {
+      "conditions": {
+        "min_count": 194
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_195": {
+      "conditions": {
+        "min_count": 195
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_196": {
+      "conditions": {
+        "min_count": 196
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_197": {
+      "conditions": {
+        "min_count": 197
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_198": {
+      "conditions": {
+        "min_count": 198
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_199": {
+      "conditions": {
+        "min_count": 199
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_76": {
+      "conditions": {
+        "min_count": 76
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_77": {
+      "conditions": {
+        "min_count": 77
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_78": {
+      "conditions": {
+        "min_count": 78
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_79": {
+      "conditions": {
+        "min_count": 79
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_81": {
+      "conditions": {
+        "min_count": 81
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_82": {
+      "conditions": {
+        "min_count": 82
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_83": {
+      "conditions": {
+        "min_count": 83
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_84": {
+      "conditions": {
+        "min_count": 84
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_85": {
+      "conditions": {
+        "min_count": 85
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_86": {
+      "conditions": {
+        "min_count": 86
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_87": {
+      "conditions": {
+        "min_count": 87
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_88": {
+      "conditions": {
+        "min_count": 88
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_89": {
+      "conditions": {
+        "min_count": 89
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_91": {
+      "conditions": {
+        "min_count": 91
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_92": {
+      "conditions": {
+        "min_count": 92
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_93": {
+      "conditions": {
+        "min_count": 93
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_94": {
+      "conditions": {
+        "min_count": 94
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_95": {
+      "conditions": {
+        "min_count": 95
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_96": {
+      "conditions": {
+        "min_count": 96
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_97": {
+      "conditions": {
+        "min_count": 97
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_98": {
+      "conditions": {
+        "min_count": 98
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    },
+    "sweep_99": {
+      "conditions": {
+        "min_count": 99
+      },
+      "trigger": "earnedenchants:sweep_multi_hit"
+    }
+  },
+  "display": {
+    "description": "Hit 3+ mobs in a single sweep 200 times",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:diamond_sword"
+    },
+    "title": "Sweeping Edge III"
+  },
+  "requirements": [
+    [
+      "sweep_1"
+    ],
+    [
+      "sweep_2"
+    ],
+    [
+      "sweep_3"
+    ],
+    [
+      "sweep_4"
+    ],
+    [
+      "sweep_5"
+    ],
+    [
+      "sweep_6"
+    ],
+    [
+      "sweep_7"
+    ],
+    [
+      "sweep_8"
+    ],
+    [
+      "sweep_9"
+    ],
+    [
+      "sweep_10"
+    ],
+    [
+      "sweep_11"
+    ],
+    [
+      "sweep_12"
+    ],
+    [
+      "sweep_13"
+    ],
+    [
+      "sweep_14"
+    ],
+    [
+      "sweep_15"
+    ],
+    [
+      "sweep_16"
+    ],
+    [
+      "sweep_17"
+    ],
+    [
+      "sweep_18"
+    ],
+    [
+      "sweep_19"
+    ],
+    [
+      "sweep_20"
+    ],
+    [
+      "sweep_21"
+    ],
+    [
+      "sweep_22"
+    ],
+    [
+      "sweep_23"
+    ],
+    [
+      "sweep_24"
+    ],
+    [
+      "sweep_25"
+    ],
+    [
+      "sweep_26"
+    ],
+    [
+      "sweep_27"
+    ],
+    [
+      "sweep_28"
+    ],
+    [
+      "sweep_29"
+    ],
+    [
+      "sweep_30"
+    ],
+    [
+      "sweep_31"
+    ],
+    [
+      "sweep_32"
+    ],
+    [
+      "sweep_33"
+    ],
+    [
+      "sweep_34"
+    ],
+    [
+      "sweep_35"
+    ],
+    [
+      "sweep_36"
+    ],
+    [
+      "sweep_37"
+    ],
+    [
+      "sweep_38"
+    ],
+    [
+      "sweep_39"
+    ],
+    [
+      "sweep_40"
+    ],
+    [
+      "sweep_41"
+    ],
+    [
+      "sweep_42"
+    ],
+    [
+      "sweep_43"
+    ],
+    [
+      "sweep_44"
+    ],
+    [
+      "sweep_45"
+    ],
+    [
+      "sweep_46"
+    ],
+    [
+      "sweep_47"
+    ],
+    [
+      "sweep_48"
+    ],
+    [
+      "sweep_49"
+    ],
+    [
+      "sweep_50"
+    ],
+    [
+      "sweep_51"
+    ],
+    [
+      "sweep_52"
+    ],
+    [
+      "sweep_53"
+    ],
+    [
+      "sweep_54"
+    ],
+    [
+      "sweep_55"
+    ],
+    [
+      "sweep_56"
+    ],
+    [
+      "sweep_57"
+    ],
+    [
+      "sweep_58"
+    ],
+    [
+      "sweep_59"
+    ],
+    [
+      "sweep_60"
+    ],
+    [
+      "sweep_61"
+    ],
+    [
+      "sweep_62"
+    ],
+    [
+      "sweep_63"
+    ],
+    [
+      "sweep_64"
+    ],
+    [
+      "sweep_65"
+    ],
+    [
+      "sweep_66"
+    ],
+    [
+      "sweep_67"
+    ],
+    [
+      "sweep_68"
+    ],
+    [
+      "sweep_69"
+    ],
+    [
+      "sweep_70"
+    ],
+    [
+      "sweep_71"
+    ],
+    [
+      "sweep_72"
+    ],
+    [
+      "sweep_73"
+    ],
+    [
+      "sweep_74"
+    ],
+    [
+      "sweep_75"
+    ],
+    [
+      "sweep_76"
+    ],
+    [
+      "sweep_77"
+    ],
+    [
+      "sweep_78"
+    ],
+    [
+      "sweep_79"
+    ],
+    [
+      "sweep_80"
+    ],
+    [
+      "sweep_81"
+    ],
+    [
+      "sweep_82"
+    ],
+    [
+      "sweep_83"
+    ],
+    [
+      "sweep_84"
+    ],
+    [
+      "sweep_85"
+    ],
+    [
+      "sweep_86"
+    ],
+    [
+      "sweep_87"
+    ],
+    [
+      "sweep_88"
+    ],
+    [
+      "sweep_89"
+    ],
+    [
+      "sweep_90"
+    ],
+    [
+      "sweep_91"
+    ],
+    [
+      "sweep_92"
+    ],
+    [
+      "sweep_93"
+    ],
+    [
+      "sweep_94"
+    ],
+    [
+      "sweep_95"
+    ],
+    [
+      "sweep_96"
+    ],
+    [
+      "sweep_97"
+    ],
+    [
+      "sweep_98"
+    ],
+    [
+      "sweep_99"
+    ],
+    [
+      "sweep_100"
+    ],
+    [
+      "sweep_101"
+    ],
+    [
+      "sweep_102"
+    ],
+    [
+      "sweep_103"
+    ],
+    [
+      "sweep_104"
+    ],
+    [
+      "sweep_105"
+    ],
+    [
+      "sweep_106"
+    ],
+    [
+      "sweep_107"
+    ],
+    [
+      "sweep_108"
+    ],
+    [
+      "sweep_109"
+    ],
+    [
+      "sweep_110"
+    ],
+    [
+      "sweep_111"
+    ],
+    [
+      "sweep_112"
+    ],
+    [
+      "sweep_113"
+    ],
+    [
+      "sweep_114"
+    ],
+    [
+      "sweep_115"
+    ],
+    [
+      "sweep_116"
+    ],
+    [
+      "sweep_117"
+    ],
+    [
+      "sweep_118"
+    ],
+    [
+      "sweep_119"
+    ],
+    [
+      "sweep_120"
+    ],
+    [
+      "sweep_121"
+    ],
+    [
+      "sweep_122"
+    ],
+    [
+      "sweep_123"
+    ],
+    [
+      "sweep_124"
+    ],
+    [
+      "sweep_125"
+    ],
+    [
+      "sweep_126"
+    ],
+    [
+      "sweep_127"
+    ],
+    [
+      "sweep_128"
+    ],
+    [
+      "sweep_129"
+    ],
+    [
+      "sweep_130"
+    ],
+    [
+      "sweep_131"
+    ],
+    [
+      "sweep_132"
+    ],
+    [
+      "sweep_133"
+    ],
+    [
+      "sweep_134"
+    ],
+    [
+      "sweep_135"
+    ],
+    [
+      "sweep_136"
+    ],
+    [
+      "sweep_137"
+    ],
+    [
+      "sweep_138"
+    ],
+    [
+      "sweep_139"
+    ],
+    [
+      "sweep_140"
+    ],
+    [
+      "sweep_141"
+    ],
+    [
+      "sweep_142"
+    ],
+    [
+      "sweep_143"
+    ],
+    [
+      "sweep_144"
+    ],
+    [
+      "sweep_145"
+    ],
+    [
+      "sweep_146"
+    ],
+    [
+      "sweep_147"
+    ],
+    [
+      "sweep_148"
+    ],
+    [
+      "sweep_149"
+    ],
+    [
+      "sweep_150"
+    ],
+    [
+      "sweep_151"
+    ],
+    [
+      "sweep_152"
+    ],
+    [
+      "sweep_153"
+    ],
+    [
+      "sweep_154"
+    ],
+    [
+      "sweep_155"
+    ],
+    [
+      "sweep_156"
+    ],
+    [
+      "sweep_157"
+    ],
+    [
+      "sweep_158"
+    ],
+    [
+      "sweep_159"
+    ],
+    [
+      "sweep_160"
+    ],
+    [
+      "sweep_161"
+    ],
+    [
+      "sweep_162"
+    ],
+    [
+      "sweep_163"
+    ],
+    [
+      "sweep_164"
+    ],
+    [
+      "sweep_165"
+    ],
+    [
+      "sweep_166"
+    ],
+    [
+      "sweep_167"
+    ],
+    [
+      "sweep_168"
+    ],
+    [
+      "sweep_169"
+    ],
+    [
+      "sweep_170"
+    ],
+    [
+      "sweep_171"
+    ],
+    [
+      "sweep_172"
+    ],
+    [
+      "sweep_173"
+    ],
+    [
+      "sweep_174"
+    ],
+    [
+      "sweep_175"
+    ],
+    [
+      "sweep_176"
+    ],
+    [
+      "sweep_177"
+    ],
+    [
+      "sweep_178"
+    ],
+    [
+      "sweep_179"
+    ],
+    [
+      "sweep_180"
+    ],
+    [
+      "sweep_181"
+    ],
+    [
+      "sweep_182"
+    ],
+    [
+      "sweep_183"
+    ],
+    [
+      "sweep_184"
+    ],
+    [
+      "sweep_185"
+    ],
+    [
+      "sweep_186"
+    ],
+    [
+      "sweep_187"
+    ],
+    [
+      "sweep_188"
+    ],
+    [
+      "sweep_189"
+    ],
+    [
+      "sweep_190"
+    ],
+    [
+      "sweep_191"
+    ],
+    [
+      "sweep_192"
+    ],
+    [
+      "sweep_193"
+    ],
+    [
+      "sweep_194"
+    ],
+    [
+      "sweep_195"
+    ],
+    [
+      "sweep_196"
+    ],
+    [
+      "sweep_197"
+    ],
+    [
+      "sweep_198"
+    ],
+    [
+      "sweep_199"
+    ],
+    [
+      "sweep_200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

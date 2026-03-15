@@ -13,7 +13,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class ArcaneProgression implements ModInitializer {
-	public static final String MOD_ID = "arcane_progression";
+	public static final String MOD_ID = "earnedenchants";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	public static final BlocksMinedTrigger BLOCKS_MINED_TRIGGER = new BlocksMinedTrigger();

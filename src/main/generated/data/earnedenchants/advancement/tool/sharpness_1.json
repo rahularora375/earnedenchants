@@ -1,0 +1,241 @@
+{
+  "parent": "earnedenchants:tool/melee_cat",
+  "criteria": {
+    "kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:mob_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 25 mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_sword"
+    },
+    "title": "Sharpness I"
+  },
+  "requirements": [
+    [
+      "kill_1"
+    ],
+    [
+      "kill_2"
+    ],
+    [
+      "kill_3"
+    ],
+    [
+      "kill_4"
+    ],
+    [
+      "kill_5"
+    ],
+    [
+      "kill_6"
+    ],
+    [
+      "kill_7"
+    ],
+    [
+      "kill_8"
+    ],
+    [
+      "kill_9"
+    ],
+    [
+      "kill_10"
+    ],
+    [
+      "kill_11"
+    ],
+    [
+      "kill_12"
+    ],
+    [
+      "kill_13"
+    ],
+    [
+      "kill_14"
+    ],
+    [
+      "kill_15"
+    ],
+    [
+      "kill_16"
+    ],
+    [
+      "kill_17"
+    ],
+    [
+      "kill_18"
+    ],
+    [
+      "kill_19"
+    ],
+    [
+      "kill_20"
+    ],
+    [
+      "kill_21"
+    ],
+    [
+      "kill_22"
+    ],
+    [
+      "kill_23"
+    ],
+    [
+      "kill_24"
+    ],
+    [
+      "kill_25"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

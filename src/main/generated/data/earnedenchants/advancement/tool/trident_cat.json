@@ -1,0 +1,24 @@
+{
+  "parent": "earnedenchants:tool/root",
+  "criteria": {
+    "auto": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:trident"
+    },
+    "show_toast": false,
+    "title": "Trident"
+  },
+  "requirements": [
+    [
+      "auto"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,88 @@
+{
+  "parent": "earnedenchants:tool/armor_cat",
+  "criteria": {
+    "fall_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    },
+    "fall_dmg_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "earnedenchants:fall_damage_taken"
+    }
+  },
+  "display": {
+    "description": "Take 75 fall damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:feather"
+    },
+    "title": "Feather Falling I"
+  },
+  "requirements": [
+    [
+      "fall_dmg_10"
+    ],
+    [
+      "fall_dmg_20"
+    ],
+    [
+      "fall_dmg_30"
+    ],
+    [
+      "fall_dmg_40"
+    ],
+    [
+      "fall_dmg_50"
+    ],
+    [
+      "fall_dmg_60"
+    ],
+    [
+      "fall_dmg_70"
+    ],
+    [
+      "fall_dmg_75"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

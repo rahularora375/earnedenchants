@@ -1,0 +1,196 @@
+{
+  "parent": "earnedenchants:tool/melee_cat",
+  "criteria": {
+    "fire_kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:fire_kills"
+    },
+    "fire_kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:fire_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 20 burning mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:blaze_powder"
+    },
+    "title": "Fire Aspect I"
+  },
+  "requirements": [
+    [
+      "fire_kill_1"
+    ],
+    [
+      "fire_kill_2"
+    ],
+    [
+      "fire_kill_3"
+    ],
+    [
+      "fire_kill_4"
+    ],
+    [
+      "fire_kill_5"
+    ],
+    [
+      "fire_kill_6"
+    ],
+    [
+      "fire_kill_7"
+    ],
+    [
+      "fire_kill_8"
+    ],
+    [
+      "fire_kill_9"
+    ],
+    [
+      "fire_kill_10"
+    ],
+    [
+      "fire_kill_11"
+    ],
+    [
+      "fire_kill_12"
+    ],
+    [
+      "fire_kill_13"
+    ],
+    [
+      "fire_kill_14"
+    ],
+    [
+      "fire_kill_15"
+    ],
+    [
+      "fire_kill_16"
+    ],
+    [
+      "fire_kill_17"
+    ],
+    [
+      "fire_kill_18"
+    ],
+    [
+      "fire_kill_19"
+    ],
+    [
+      "fire_kill_20"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

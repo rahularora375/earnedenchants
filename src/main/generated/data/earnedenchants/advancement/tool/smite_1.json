@@ -1,0 +1,106 @@
+{
+  "parent": "earnedenchants:tool/melee_cat",
+  "criteria": {
+    "undead_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:undead_kills"
+    },
+    "undead_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:undead_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 10 undead mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:rotten_flesh"
+    },
+    "title": "Smite I"
+  },
+  "requirements": [
+    [
+      "undead_1"
+    ],
+    [
+      "undead_2"
+    ],
+    [
+      "undead_3"
+    ],
+    [
+      "undead_4"
+    ],
+    [
+      "undead_5"
+    ],
+    [
+      "undead_6"
+    ],
+    [
+      "undead_7"
+    ],
+    [
+      "undead_8"
+    ],
+    [
+      "undead_9"
+    ],
+    [
+      "undead_10"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

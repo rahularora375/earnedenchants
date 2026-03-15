@@ -1,0 +1,647 @@
+{
+  "parent": "earnedenchants:tool/thorns_2",
+  "criteria": {
+    "mob_hit_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_310": {
+      "conditions": {
+        "min_count": 310
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_330": {
+      "conditions": {
+        "min_count": 330
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_350": {
+      "conditions": {
+        "min_count": 350
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_370": {
+      "conditions": {
+        "min_count": 370
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_390": {
+      "conditions": {
+        "min_count": 390
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_410": {
+      "conditions": {
+        "min_count": 410
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_430": {
+      "conditions": {
+        "min_count": 430
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_450": {
+      "conditions": {
+        "min_count": 450
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_470": {
+      "conditions": {
+        "min_count": 470
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_490": {
+      "conditions": {
+        "min_count": 490
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_510": {
+      "conditions": {
+        "min_count": 510
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_530": {
+      "conditions": {
+        "min_count": 530
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_550": {
+      "conditions": {
+        "min_count": 550
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_570": {
+      "conditions": {
+        "min_count": 570
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_590": {
+      "conditions": {
+        "min_count": 590
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_610": {
+      "conditions": {
+        "min_count": 610
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_630": {
+      "conditions": {
+        "min_count": 630
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_650": {
+      "conditions": {
+        "min_count": 650
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_670": {
+      "conditions": {
+        "min_count": 670
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_690": {
+      "conditions": {
+        "min_count": 690
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    },
+    "mob_hit_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:mob_melee_hits"
+    }
+  },
+  "display": {
+    "description": "Get hit by mobs in melee 700 times",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:cactus"
+    },
+    "title": "Thorns III"
+  },
+  "requirements": [
+    [
+      "mob_hit_10"
+    ],
+    [
+      "mob_hit_20"
+    ],
+    [
+      "mob_hit_30"
+    ],
+    [
+      "mob_hit_40"
+    ],
+    [
+      "mob_hit_50"
+    ],
+    [
+      "mob_hit_60"
+    ],
+    [
+      "mob_hit_70"
+    ],
+    [
+      "mob_hit_80"
+    ],
+    [
+      "mob_hit_90"
+    ],
+    [
+      "mob_hit_100"
+    ],
+    [
+      "mob_hit_110"
+    ],
+    [
+      "mob_hit_120"
+    ],
+    [
+      "mob_hit_130"
+    ],
+    [
+      "mob_hit_140"
+    ],
+    [
+      "mob_hit_150"
+    ],
+    [
+      "mob_hit_160"
+    ],
+    [
+      "mob_hit_170"
+    ],
+    [
+      "mob_hit_180"
+    ],
+    [
+      "mob_hit_190"
+    ],
+    [
+      "mob_hit_200"
+    ],
+    [
+      "mob_hit_210"
+    ],
+    [
+      "mob_hit_220"
+    ],
+    [
+      "mob_hit_230"
+    ],
+    [
+      "mob_hit_240"
+    ],
+    [
+      "mob_hit_250"
+    ],
+    [
+      "mob_hit_260"
+    ],
+    [
+      "mob_hit_270"
+    ],
+    [
+      "mob_hit_280"
+    ],
+    [
+      "mob_hit_290"
+    ],
+    [
+      "mob_hit_300"
+    ],
+    [
+      "mob_hit_310"
+    ],
+    [
+      "mob_hit_320"
+    ],
+    [
+      "mob_hit_330"
+    ],
+    [
+      "mob_hit_340"
+    ],
+    [
+      "mob_hit_350"
+    ],
+    [
+      "mob_hit_360"
+    ],
+    [
+      "mob_hit_370"
+    ],
+    [
+      "mob_hit_380"
+    ],
+    [
+      "mob_hit_390"
+    ],
+    [
+      "mob_hit_400"
+    ],
+    [
+      "mob_hit_410"
+    ],
+    [
+      "mob_hit_420"
+    ],
+    [
+      "mob_hit_430"
+    ],
+    [
+      "mob_hit_440"
+    ],
+    [
+      "mob_hit_450"
+    ],
+    [
+      "mob_hit_460"
+    ],
+    [
+      "mob_hit_470"
+    ],
+    [
+      "mob_hit_480"
+    ],
+    [
+      "mob_hit_490"
+    ],
+    [
+      "mob_hit_500"
+    ],
+    [
+      "mob_hit_510"
+    ],
+    [
+      "mob_hit_520"
+    ],
+    [
+      "mob_hit_530"
+    ],
+    [
+      "mob_hit_540"
+    ],
+    [
+      "mob_hit_550"
+    ],
+    [
+      "mob_hit_560"
+    ],
+    [
+      "mob_hit_570"
+    ],
+    [
+      "mob_hit_580"
+    ],
+    [
+      "mob_hit_590"
+    ],
+    [
+      "mob_hit_600"
+    ],
+    [
+      "mob_hit_610"
+    ],
+    [
+      "mob_hit_620"
+    ],
+    [
+      "mob_hit_630"
+    ],
+    [
+      "mob_hit_640"
+    ],
+    [
+      "mob_hit_650"
+    ],
+    [
+      "mob_hit_660"
+    ],
+    [
+      "mob_hit_670"
+    ],
+    [
+      "mob_hit_680"
+    ],
+    [
+      "mob_hit_690"
+    ],
+    [
+      "mob_hit_700"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

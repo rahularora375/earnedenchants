@@ -1,0 +1,691 @@
+{
+  "parent": "earnedenchants:tool/lure_1",
+  "criteria": {
+    "catch_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:fish_caught"
+    },
+    "catch_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:fish_caught"
+    }
+  },
+  "display": {
+    "description": "Catch 75 fish",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fishing_rod"
+    },
+    "title": "Lure II"
+  },
+  "requirements": [
+    [
+      "catch_1"
+    ],
+    [
+      "catch_2"
+    ],
+    [
+      "catch_3"
+    ],
+    [
+      "catch_4"
+    ],
+    [
+      "catch_5"
+    ],
+    [
+      "catch_6"
+    ],
+    [
+      "catch_7"
+    ],
+    [
+      "catch_8"
+    ],
+    [
+      "catch_9"
+    ],
+    [
+      "catch_10"
+    ],
+    [
+      "catch_11"
+    ],
+    [
+      "catch_12"
+    ],
+    [
+      "catch_13"
+    ],
+    [
+      "catch_14"
+    ],
+    [
+      "catch_15"
+    ],
+    [
+      "catch_16"
+    ],
+    [
+      "catch_17"
+    ],
+    [
+      "catch_18"
+    ],
+    [
+      "catch_19"
+    ],
+    [
+      "catch_20"
+    ],
+    [
+      "catch_21"
+    ],
+    [
+      "catch_22"
+    ],
+    [
+      "catch_23"
+    ],
+    [
+      "catch_24"
+    ],
+    [
+      "catch_25"
+    ],
+    [
+      "catch_26"
+    ],
+    [
+      "catch_27"
+    ],
+    [
+      "catch_28"
+    ],
+    [
+      "catch_29"
+    ],
+    [
+      "catch_30"
+    ],
+    [
+      "catch_31"
+    ],
+    [
+      "catch_32"
+    ],
+    [
+      "catch_33"
+    ],
+    [
+      "catch_34"
+    ],
+    [
+      "catch_35"
+    ],
+    [
+      "catch_36"
+    ],
+    [
+      "catch_37"
+    ],
+    [
+      "catch_38"
+    ],
+    [
+      "catch_39"
+    ],
+    [
+      "catch_40"
+    ],
+    [
+      "catch_41"
+    ],
+    [
+      "catch_42"
+    ],
+    [
+      "catch_43"
+    ],
+    [
+      "catch_44"
+    ],
+    [
+      "catch_45"
+    ],
+    [
+      "catch_46"
+    ],
+    [
+      "catch_47"
+    ],
+    [
+      "catch_48"
+    ],
+    [
+      "catch_49"
+    ],
+    [
+      "catch_50"
+    ],
+    [
+      "catch_51"
+    ],
+    [
+      "catch_52"
+    ],
+    [
+      "catch_53"
+    ],
+    [
+      "catch_54"
+    ],
+    [
+      "catch_55"
+    ],
+    [
+      "catch_56"
+    ],
+    [
+      "catch_57"
+    ],
+    [
+      "catch_58"
+    ],
+    [
+      "catch_59"
+    ],
+    [
+      "catch_60"
+    ],
+    [
+      "catch_61"
+    ],
+    [
+      "catch_62"
+    ],
+    [
+      "catch_63"
+    ],
+    [
+      "catch_64"
+    ],
+    [
+      "catch_65"
+    ],
+    [
+      "catch_66"
+    ],
+    [
+      "catch_67"
+    ],
+    [
+      "catch_68"
+    ],
+    [
+      "catch_69"
+    ],
+    [
+      "catch_70"
+    ],
+    [
+      "catch_71"
+    ],
+    [
+      "catch_72"
+    ],
+    [
+      "catch_73"
+    ],
+    [
+      "catch_74"
+    ],
+    [
+      "catch_75"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,70 @@
+{
+  "parent": "earnedenchants:tool/armor_cat",
+  "criteria": {
+    "fire_dmg_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    }
+  },
+  "display": {
+    "description": "Take 60 fire damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:magma_block"
+    },
+    "title": "Fire Protection I"
+  },
+  "requirements": [
+    [
+      "fire_dmg_10"
+    ],
+    [
+      "fire_dmg_20"
+    ],
+    [
+      "fire_dmg_30"
+    ],
+    [
+      "fire_dmg_40"
+    ],
+    [
+      "fire_dmg_50"
+    ],
+    [
+      "fire_dmg_60"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
-	"id": "arcane_progression",
+	"id": "earnedenchants",
 	"version": "${version}",
-	"name": "Arcane Progression",
+	"name": "Earned Enchants",
 	"description": "Unlock enchantments by completing in-game challenges. Progress through an advancement tree to earn each enchantment tier.",
 	"authors": [
 		"Rahul Arora"
 	],
 	"contact": {},
 	"license": "All Rights Reserved",
-	"icon": "assets/arcane_progression/icon.png",
+	"icon": "assets/earnedenchants/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -23,9 +23,9 @@
 		]
 	},
 	"mixins": [
-		"arcane_progression.mixins.json",
+		"earnedenchants.mixins.json",
 		{
-			"config": "arcane_progression.client.mixins.json",
+			"config": "earnedenchants.client.mixins.json",
 			"environment": "client"
 		}
 	],

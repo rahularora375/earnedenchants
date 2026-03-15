@@ -1,0 +1,556 @@
+{
+  "parent": "earnedenchants:tool/impaling_2",
+  "criteria": {
+    "aquatic_kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    },
+    "aquatic_kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:aquatic_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 60 aquatic mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:salmon"
+    },
+    "title": "Impaling III"
+  },
+  "requirements": [
+    [
+      "aquatic_kill_1"
+    ],
+    [
+      "aquatic_kill_2"
+    ],
+    [
+      "aquatic_kill_3"
+    ],
+    [
+      "aquatic_kill_4"
+    ],
+    [
+      "aquatic_kill_5"
+    ],
+    [
+      "aquatic_kill_6"
+    ],
+    [
+      "aquatic_kill_7"
+    ],
+    [
+      "aquatic_kill_8"
+    ],
+    [
+      "aquatic_kill_9"
+    ],
+    [
+      "aquatic_kill_10"
+    ],
+    [
+      "aquatic_kill_11"
+    ],
+    [
+      "aquatic_kill_12"
+    ],
+    [
+      "aquatic_kill_13"
+    ],
+    [
+      "aquatic_kill_14"
+    ],
+    [
+      "aquatic_kill_15"
+    ],
+    [
+      "aquatic_kill_16"
+    ],
+    [
+      "aquatic_kill_17"
+    ],
+    [
+      "aquatic_kill_18"
+    ],
+    [
+      "aquatic_kill_19"
+    ],
+    [
+      "aquatic_kill_20"
+    ],
+    [
+      "aquatic_kill_21"
+    ],
+    [
+      "aquatic_kill_22"
+    ],
+    [
+      "aquatic_kill_23"
+    ],
+    [
+      "aquatic_kill_24"
+    ],
+    [
+      "aquatic_kill_25"
+    ],
+    [
+      "aquatic_kill_26"
+    ],
+    [
+      "aquatic_kill_27"
+    ],
+    [
+      "aquatic_kill_28"
+    ],
+    [
+      "aquatic_kill_29"
+    ],
+    [
+      "aquatic_kill_30"
+    ],
+    [
+      "aquatic_kill_31"
+    ],
+    [
+      "aquatic_kill_32"
+    ],
+    [
+      "aquatic_kill_33"
+    ],
+    [
+      "aquatic_kill_34"
+    ],
+    [
+      "aquatic_kill_35"
+    ],
+    [
+      "aquatic_kill_36"
+    ],
+    [
+      "aquatic_kill_37"
+    ],
+    [
+      "aquatic_kill_38"
+    ],
+    [
+      "aquatic_kill_39"
+    ],
+    [
+      "aquatic_kill_40"
+    ],
+    [
+      "aquatic_kill_41"
+    ],
+    [
+      "aquatic_kill_42"
+    ],
+    [
+      "aquatic_kill_43"
+    ],
+    [
+      "aquatic_kill_44"
+    ],
+    [
+      "aquatic_kill_45"
+    ],
+    [
+      "aquatic_kill_46"
+    ],
+    [
+      "aquatic_kill_47"
+    ],
+    [
+      "aquatic_kill_48"
+    ],
+    [
+      "aquatic_kill_49"
+    ],
+    [
+      "aquatic_kill_50"
+    ],
+    [
+      "aquatic_kill_51"
+    ],
+    [
+      "aquatic_kill_52"
+    ],
+    [
+      "aquatic_kill_53"
+    ],
+    [
+      "aquatic_kill_54"
+    ],
+    [
+      "aquatic_kill_55"
+    ],
+    [
+      "aquatic_kill_56"
+    ],
+    [
+      "aquatic_kill_57"
+    ],
+    [
+      "aquatic_kill_58"
+    ],
+    [
+      "aquatic_kill_59"
+    ],
+    [
+      "aquatic_kill_60"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

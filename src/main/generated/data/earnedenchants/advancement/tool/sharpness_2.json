@@ -1,0 +1,691 @@
+{
+  "parent": "earnedenchants:tool/sharpness_1",
+  "criteria": {
+    "kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:mob_kills"
+    },
+    "kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:mob_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 75 mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_sword"
+    },
+    "title": "Sharpness II"
+  },
+  "requirements": [
+    [
+      "kill_1"
+    ],
+    [
+      "kill_2"
+    ],
+    [
+      "kill_3"
+    ],
+    [
+      "kill_4"
+    ],
+    [
+      "kill_5"
+    ],
+    [
+      "kill_6"
+    ],
+    [
+      "kill_7"
+    ],
+    [
+      "kill_8"
+    ],
+    [
+      "kill_9"
+    ],
+    [
+      "kill_10"
+    ],
+    [
+      "kill_11"
+    ],
+    [
+      "kill_12"
+    ],
+    [
+      "kill_13"
+    ],
+    [
+      "kill_14"
+    ],
+    [
+      "kill_15"
+    ],
+    [
+      "kill_16"
+    ],
+    [
+      "kill_17"
+    ],
+    [
+      "kill_18"
+    ],
+    [
+      "kill_19"
+    ],
+    [
+      "kill_20"
+    ],
+    [
+      "kill_21"
+    ],
+    [
+      "kill_22"
+    ],
+    [
+      "kill_23"
+    ],
+    [
+      "kill_24"
+    ],
+    [
+      "kill_25"
+    ],
+    [
+      "kill_26"
+    ],
+    [
+      "kill_27"
+    ],
+    [
+      "kill_28"
+    ],
+    [
+      "kill_29"
+    ],
+    [
+      "kill_30"
+    ],
+    [
+      "kill_31"
+    ],
+    [
+      "kill_32"
+    ],
+    [
+      "kill_33"
+    ],
+    [
+      "kill_34"
+    ],
+    [
+      "kill_35"
+    ],
+    [
+      "kill_36"
+    ],
+    [
+      "kill_37"
+    ],
+    [
+      "kill_38"
+    ],
+    [
+      "kill_39"
+    ],
+    [
+      "kill_40"
+    ],
+    [
+      "kill_41"
+    ],
+    [
+      "kill_42"
+    ],
+    [
+      "kill_43"
+    ],
+    [
+      "kill_44"
+    ],
+    [
+      "kill_45"
+    ],
+    [
+      "kill_46"
+    ],
+    [
+      "kill_47"
+    ],
+    [
+      "kill_48"
+    ],
+    [
+      "kill_49"
+    ],
+    [
+      "kill_50"
+    ],
+    [
+      "kill_51"
+    ],
+    [
+      "kill_52"
+    ],
+    [
+      "kill_53"
+    ],
+    [
+      "kill_54"
+    ],
+    [
+      "kill_55"
+    ],
+    [
+      "kill_56"
+    ],
+    [
+      "kill_57"
+    ],
+    [
+      "kill_58"
+    ],
+    [
+      "kill_59"
+    ],
+    [
+      "kill_60"
+    ],
+    [
+      "kill_61"
+    ],
+    [
+      "kill_62"
+    ],
+    [
+      "kill_63"
+    ],
+    [
+      "kill_64"
+    ],
+    [
+      "kill_65"
+    ],
+    [
+      "kill_66"
+    ],
+    [
+      "kill_67"
+    ],
+    [
+      "kill_68"
+    ],
+    [
+      "kill_69"
+    ],
+    [
+      "kill_70"
+    ],
+    [
+      "kill_71"
+    ],
+    [
+      "kill_72"
+    ],
+    [
+      "kill_73"
+    ],
+    [
+      "kill_74"
+    ],
+    [
+      "kill_75"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

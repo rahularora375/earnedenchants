@@ -1,0 +1,106 @@
+{
+  "parent": "earnedenchants:tool/melee_cat",
+  "criteria": {
+    "arthropod_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    },
+    "arthropod_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:arthropod_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 10 arthropod mobs",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:spider_eye"
+    },
+    "title": "Bane of Arthropods I"
+  },
+  "requirements": [
+    [
+      "arthropod_1"
+    ],
+    [
+      "arthropod_2"
+    ],
+    [
+      "arthropod_3"
+    ],
+    [
+      "arthropod_4"
+    ],
+    [
+      "arthropod_5"
+    ],
+    [
+      "arthropod_6"
+    ],
+    [
+      "arthropod_7"
+    ],
+    [
+      "arthropod_8"
+    ],
+    [
+      "arthropod_9"
+    ],
+    [
+      "arthropod_10"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

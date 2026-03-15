@@ -27,14 +27,14 @@ public class AdvancementSpacingMixin {
     static {
         var map = new java.util.HashMap<String, Integer>();
         for (int i = 0; i < CATEGORY_ORDER.size(); i++) {
-            map.put("arcane_progression:tool/" + CATEGORY_ORDER.get(i), i);
+            map.put("earnedenchants:tool/" + CATEGORY_ORDER.get(i), i);
         }
         CATEGORY_INDEX = Map.copyOf(map);
     }
 
     @Inject(method = "run", at = @At("HEAD"))
     private static void sortChildren(AdvancementNode root, CallbackInfo ci) {
-        if (!root.holder().id().getNamespace().equals("arcane_progression")) return;
+        if (!root.holder().id().getNamespace().equals("earnedenchants")) return;
         sortChildrenRecursive(root);
     }
 

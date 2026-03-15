@@ -1,0 +1,196 @@
+{
+  "parent": "earnedenchants:tool/armor_cat",
+  "criteria": {
+    "dmg_taken_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_130": {
+      "conditions": {
+        "min_count": 130
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_150": {
+      "conditions": {
+        "min_count": 150
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:damage_taken"
+    },
+    "dmg_taken_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:damage_taken"
+    }
+  },
+  "display": {
+    "description": "Take 200 total damage",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_chestplate"
+    },
+    "title": "Protection I"
+  },
+  "requirements": [
+    [
+      "dmg_taken_10"
+    ],
+    [
+      "dmg_taken_20"
+    ],
+    [
+      "dmg_taken_30"
+    ],
+    [
+      "dmg_taken_40"
+    ],
+    [
+      "dmg_taken_50"
+    ],
+    [
+      "dmg_taken_60"
+    ],
+    [
+      "dmg_taken_70"
+    ],
+    [
+      "dmg_taken_80"
+    ],
+    [
+      "dmg_taken_90"
+    ],
+    [
+      "dmg_taken_100"
+    ],
+    [
+      "dmg_taken_110"
+    ],
+    [
+      "dmg_taken_120"
+    ],
+    [
+      "dmg_taken_130"
+    ],
+    [
+      "dmg_taken_140"
+    ],
+    [
+      "dmg_taken_150"
+    ],
+    [
+      "dmg_taken_160"
+    ],
+    [
+      "dmg_taken_170"
+    ],
+    [
+      "dmg_taken_180"
+    ],
+    [
+      "dmg_taken_190"
+    ],
+    [
+      "dmg_taken_200"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

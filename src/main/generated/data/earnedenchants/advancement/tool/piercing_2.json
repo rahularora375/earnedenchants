@@ -1,0 +1,691 @@
+{
+  "parent": "earnedenchants:tool/piercing_1",
+  "criteria": {
+    "xbow_kill_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_31": {
+      "conditions": {
+        "min_count": 31
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_32": {
+      "conditions": {
+        "min_count": 32
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_33": {
+      "conditions": {
+        "min_count": 33
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_34": {
+      "conditions": {
+        "min_count": 34
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_35": {
+      "conditions": {
+        "min_count": 35
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_36": {
+      "conditions": {
+        "min_count": 36
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_37": {
+      "conditions": {
+        "min_count": 37
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_38": {
+      "conditions": {
+        "min_count": 38
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_39": {
+      "conditions": {
+        "min_count": 39
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_41": {
+      "conditions": {
+        "min_count": 41
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_42": {
+      "conditions": {
+        "min_count": 42
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_43": {
+      "conditions": {
+        "min_count": 43
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_44": {
+      "conditions": {
+        "min_count": 44
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_45": {
+      "conditions": {
+        "min_count": 45
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_46": {
+      "conditions": {
+        "min_count": 46
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_47": {
+      "conditions": {
+        "min_count": 47
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_48": {
+      "conditions": {
+        "min_count": 48
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_49": {
+      "conditions": {
+        "min_count": 49
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_51": {
+      "conditions": {
+        "min_count": 51
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_52": {
+      "conditions": {
+        "min_count": 52
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_53": {
+      "conditions": {
+        "min_count": 53
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_54": {
+      "conditions": {
+        "min_count": 54
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_55": {
+      "conditions": {
+        "min_count": 55
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_56": {
+      "conditions": {
+        "min_count": 56
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_57": {
+      "conditions": {
+        "min_count": 57
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_58": {
+      "conditions": {
+        "min_count": 58
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_59": {
+      "conditions": {
+        "min_count": 59
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_61": {
+      "conditions": {
+        "min_count": 61
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_62": {
+      "conditions": {
+        "min_count": 62
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_63": {
+      "conditions": {
+        "min_count": 63
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_64": {
+      "conditions": {
+        "min_count": 64
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_65": {
+      "conditions": {
+        "min_count": 65
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_66": {
+      "conditions": {
+        "min_count": 66
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_67": {
+      "conditions": {
+        "min_count": 67
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_68": {
+      "conditions": {
+        "min_count": 68
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_69": {
+      "conditions": {
+        "min_count": 69
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_71": {
+      "conditions": {
+        "min_count": 71
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_72": {
+      "conditions": {
+        "min_count": 72
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_73": {
+      "conditions": {
+        "min_count": 73
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_74": {
+      "conditions": {
+        "min_count": 74
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_75": {
+      "conditions": {
+        "min_count": 75
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    },
+    "xbow_kill_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:crossbow_kills"
+    }
+  },
+  "display": {
+    "description": "Kill 75 mobs with a crossbow",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:arrow"
+    },
+    "title": "Piercing II"
+  },
+  "requirements": [
+    [
+      "xbow_kill_1"
+    ],
+    [
+      "xbow_kill_2"
+    ],
+    [
+      "xbow_kill_3"
+    ],
+    [
+      "xbow_kill_4"
+    ],
+    [
+      "xbow_kill_5"
+    ],
+    [
+      "xbow_kill_6"
+    ],
+    [
+      "xbow_kill_7"
+    ],
+    [
+      "xbow_kill_8"
+    ],
+    [
+      "xbow_kill_9"
+    ],
+    [
+      "xbow_kill_10"
+    ],
+    [
+      "xbow_kill_11"
+    ],
+    [
+      "xbow_kill_12"
+    ],
+    [
+      "xbow_kill_13"
+    ],
+    [
+      "xbow_kill_14"
+    ],
+    [
+      "xbow_kill_15"
+    ],
+    [
+      "xbow_kill_16"
+    ],
+    [
+      "xbow_kill_17"
+    ],
+    [
+      "xbow_kill_18"
+    ],
+    [
+      "xbow_kill_19"
+    ],
+    [
+      "xbow_kill_20"
+    ],
+    [
+      "xbow_kill_21"
+    ],
+    [
+      "xbow_kill_22"
+    ],
+    [
+      "xbow_kill_23"
+    ],
+    [
+      "xbow_kill_24"
+    ],
+    [
+      "xbow_kill_25"
+    ],
+    [
+      "xbow_kill_26"
+    ],
+    [
+      "xbow_kill_27"
+    ],
+    [
+      "xbow_kill_28"
+    ],
+    [
+      "xbow_kill_29"
+    ],
+    [
+      "xbow_kill_30"
+    ],
+    [
+      "xbow_kill_31"
+    ],
+    [
+      "xbow_kill_32"
+    ],
+    [
+      "xbow_kill_33"
+    ],
+    [
+      "xbow_kill_34"
+    ],
+    [
+      "xbow_kill_35"
+    ],
+    [
+      "xbow_kill_36"
+    ],
+    [
+      "xbow_kill_37"
+    ],
+    [
+      "xbow_kill_38"
+    ],
+    [
+      "xbow_kill_39"
+    ],
+    [
+      "xbow_kill_40"
+    ],
+    [
+      "xbow_kill_41"
+    ],
+    [
+      "xbow_kill_42"
+    ],
+    [
+      "xbow_kill_43"
+    ],
+    [
+      "xbow_kill_44"
+    ],
+    [
+      "xbow_kill_45"
+    ],
+    [
+      "xbow_kill_46"
+    ],
+    [
+      "xbow_kill_47"
+    ],
+    [
+      "xbow_kill_48"
+    ],
+    [
+      "xbow_kill_49"
+    ],
+    [
+      "xbow_kill_50"
+    ],
+    [
+      "xbow_kill_51"
+    ],
+    [
+      "xbow_kill_52"
+    ],
+    [
+      "xbow_kill_53"
+    ],
+    [
+      "xbow_kill_54"
+    ],
+    [
+      "xbow_kill_55"
+    ],
+    [
+      "xbow_kill_56"
+    ],
+    [
+      "xbow_kill_57"
+    ],
+    [
+      "xbow_kill_58"
+    ],
+    [
+      "xbow_kill_59"
+    ],
+    [
+      "xbow_kill_60"
+    ],
+    [
+      "xbow_kill_61"
+    ],
+    [
+      "xbow_kill_62"
+    ],
+    [
+      "xbow_kill_63"
+    ],
+    [
+      "xbow_kill_64"
+    ],
+    [
+      "xbow_kill_65"
+    ],
+    [
+      "xbow_kill_66"
+    ],
+    [
+      "xbow_kill_67"
+    ],
+    [
+      "xbow_kill_68"
+    ],
+    [
+      "xbow_kill_69"
+    ],
+    [
+      "xbow_kill_70"
+    ],
+    [
+      "xbow_kill_71"
+    ],
+    [
+      "xbow_kill_72"
+    ],
+    [
+      "xbow_kill_73"
+    ],
+    [
+      "xbow_kill_74"
+    ],
+    [
+      "xbow_kill_75"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

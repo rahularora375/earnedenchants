@@ -1,0 +1,106 @@
+{
+  "parent": "earnedenchants:tool/crossbow_cat",
+  "criteria": {
+    "xbow_fire_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_50": {
+      "conditions": {
+        "min_count": 50
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    },
+    "xbow_fire_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:crossbow_fired"
+    }
+  },
+  "display": {
+    "description": "Fire crossbow 100 times",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crossbow"
+    },
+    "title": "Quick Charge I"
+  },
+  "requirements": [
+    [
+      "xbow_fire_10"
+    ],
+    [
+      "xbow_fire_20"
+    ],
+    [
+      "xbow_fire_30"
+    ],
+    [
+      "xbow_fire_40"
+    ],
+    [
+      "xbow_fire_50"
+    ],
+    [
+      "xbow_fire_60"
+    ],
+    [
+      "xbow_fire_70"
+    ],
+    [
+      "xbow_fire_80"
+    ],
+    [
+      "xbow_fire_90"
+    ],
+    [
+      "xbow_fire_100"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

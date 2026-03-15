@@ -1,0 +1,467 @@
+{
+  "parent": "earnedenchants:tool/bow_cat",
+  "criteria": {
+    "arrow_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_1000": {
+      "conditions": {
+        "min_count": 1000
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_140": {
+      "conditions": {
+        "min_count": 140
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_300": {
+      "conditions": {
+        "min_count": 300
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_320": {
+      "conditions": {
+        "min_count": 320
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_340": {
+      "conditions": {
+        "min_count": 340
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_360": {
+      "conditions": {
+        "min_count": 360
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_380": {
+      "conditions": {
+        "min_count": 380
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_40": {
+      "conditions": {
+        "min_count": 40
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_400": {
+      "conditions": {
+        "min_count": 400
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_420": {
+      "conditions": {
+        "min_count": 420
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_440": {
+      "conditions": {
+        "min_count": 440
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_460": {
+      "conditions": {
+        "min_count": 460
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_480": {
+      "conditions": {
+        "min_count": 480
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_500": {
+      "conditions": {
+        "min_count": 500
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_520": {
+      "conditions": {
+        "min_count": 520
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_540": {
+      "conditions": {
+        "min_count": 540
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_560": {
+      "conditions": {
+        "min_count": 560
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_580": {
+      "conditions": {
+        "min_count": 580
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_60": {
+      "conditions": {
+        "min_count": 60
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_600": {
+      "conditions": {
+        "min_count": 600
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_620": {
+      "conditions": {
+        "min_count": 620
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_640": {
+      "conditions": {
+        "min_count": 640
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_660": {
+      "conditions": {
+        "min_count": 660
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_680": {
+      "conditions": {
+        "min_count": 680
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_700": {
+      "conditions": {
+        "min_count": 700
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_720": {
+      "conditions": {
+        "min_count": 720
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_740": {
+      "conditions": {
+        "min_count": 740
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_760": {
+      "conditions": {
+        "min_count": 760
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_780": {
+      "conditions": {
+        "min_count": 780
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_800": {
+      "conditions": {
+        "min_count": 800
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_820": {
+      "conditions": {
+        "min_count": 820
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_840": {
+      "conditions": {
+        "min_count": 840
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_860": {
+      "conditions": {
+        "min_count": 860
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_880": {
+      "conditions": {
+        "min_count": 880
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_900": {
+      "conditions": {
+        "min_count": 900
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_920": {
+      "conditions": {
+        "min_count": 920
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_940": {
+      "conditions": {
+        "min_count": 940
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_960": {
+      "conditions": {
+        "min_count": 960
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    },
+    "arrow_980": {
+      "conditions": {
+        "min_count": 980
+      },
+      "trigger": "earnedenchants:arrows_fired"
+    }
+  },
+  "display": {
+    "description": "Fire 1,000 arrows",
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:spectral_arrow"
+    },
+    "title": "Infinity"
+  },
+  "requirements": [
+    [
+      "arrow_20"
+    ],
+    [
+      "arrow_40"
+    ],
+    [
+      "arrow_60"
+    ],
+    [
+      "arrow_80"
+    ],
+    [
+      "arrow_100"
+    ],
+    [
+      "arrow_120"
+    ],
+    [
+      "arrow_140"
+    ],
+    [
+      "arrow_160"
+    ],
+    [
+      "arrow_180"
+    ],
+    [
+      "arrow_200"
+    ],
+    [
+      "arrow_220"
+    ],
+    [
+      "arrow_240"
+    ],
+    [
+      "arrow_260"
+    ],
+    [
+      "arrow_280"
+    ],
+    [
+      "arrow_300"
+    ],
+    [
+      "arrow_320"
+    ],
+    [
+      "arrow_340"
+    ],
+    [
+      "arrow_360"
+    ],
+    [
+      "arrow_380"
+    ],
+    [
+      "arrow_400"
+    ],
+    [
+      "arrow_420"
+    ],
+    [
+      "arrow_440"
+    ],
+    [
+      "arrow_460"
+    ],
+    [
+      "arrow_480"
+    ],
+    [
+      "arrow_500"
+    ],
+    [
+      "arrow_520"
+    ],
+    [
+      "arrow_540"
+    ],
+    [
+      "arrow_560"
+    ],
+    [
+      "arrow_580"
+    ],
+    [
+      "arrow_600"
+    ],
+    [
+      "arrow_620"
+    ],
+    [
+      "arrow_640"
+    ],
+    [
+      "arrow_660"
+    ],
+    [
+      "arrow_680"
+    ],
+    [
+      "arrow_700"
+    ],
+    [
+      "arrow_720"
+    ],
+    [
+      "arrow_740"
+    ],
+    [
+      "arrow_760"
+    ],
+    [
+      "arrow_780"
+    ],
+    [
+      "arrow_800"
+    ],
+    [
+      "arrow_820"
+    ],
+    [
+      "arrow_840"
+    ],
+    [
+      "arrow_860"
+    ],
+    [
+      "arrow_880"
+    ],
+    [
+      "arrow_900"
+    ],
+    [
+      "arrow_920"
+    ],
+    [
+      "arrow_940"
+    ],
+    [
+      "arrow_960"
+    ],
+    [
+      "arrow_980"
+    ],
+    [
+      "arrow_1000"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -26,17 +26,17 @@ public abstract class AdvancementAwardMixin {
     // Advancements that don't count toward Mending (root, category headers, mending itself)
     @Unique
     private static final Set<String> EXCLUDED_IDS = Set.of(
-            "arcane_progression:tool/root",
-            "arcane_progression:tool/tool_cat",
-            "arcane_progression:tool/fishing_cat",
-            "arcane_progression:tool/melee_cat",
-            "arcane_progression:tool/bow_cat",
-            "arcane_progression:tool/crossbow_cat",
-            "arcane_progression:tool/trident_cat",
-            "arcane_progression:tool/mace_cat",
-            "arcane_progression:tool/armor_cat",
-            "arcane_progression:tool/treasure_cat",
-            "arcane_progression:tool/mending"
+            "earnedenchants:tool/root",
+            "earnedenchants:tool/tool_cat",
+            "earnedenchants:tool/fishing_cat",
+            "earnedenchants:tool/melee_cat",
+            "earnedenchants:tool/bow_cat",
+            "earnedenchants:tool/crossbow_cat",
+            "earnedenchants:tool/trident_cat",
+            "earnedenchants:tool/mace_cat",
+            "earnedenchants:tool/armor_cat",
+            "earnedenchants:tool/treasure_cat",
+            "earnedenchants:tool/mending"
     );
 
     @Shadow
@@ -49,7 +49,7 @@ public abstract class AdvancementAwardMixin {
 
         String id = holder.id().toString();
         // Only track arcane_progression advancements, excluding root/categories/mending
-        if (!id.startsWith("arcane_progression:")) return;
+        if (!id.startsWith("earnedenchants:")) return;
         if (EXCLUDED_IDS.contains(id)) return;
         if (!getOrStartProgress(holder).isDone()) return;
 
@@ -65,7 +65,7 @@ public abstract class AdvancementAwardMixin {
             int count = 0;
             for (AdvancementHolder adv : manager.getAllAdvancements()) {
                 String advId = adv.id().toString();
-                if (!advId.startsWith("arcane_progression:")) continue;
+                if (!advId.startsWith("earnedenchants:")) continue;
                 if (EXCLUDED_IDS.contains(advId)) continue;
                 if (advancements.getOrStartProgress(adv).isDone()) {
                     count++;
