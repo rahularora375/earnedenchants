@@ -79,6 +79,10 @@ public class EnchantmentUnlockData {
 
         // Low-enchantability overrides (ench<=1 items: bow, crossbow, trident, fishing rod, book)
         LOW_ENCH_COST_OVERRIDES.put("mending:1", new int[]{33, 200});     // ~11% on ench=1 items
+        LOW_ENCH_COST_OVERRIDES.put("frost_walker:2", new int[]{33, 200}); // ~11% on ench=1 items
+        LOW_ENCH_COST_OVERRIDES.put("soul_speed:1", new int[]{31, 200});   // ~42% on ench=1 items
+        LOW_ENCH_COST_OVERRIDES.put("soul_speed:2", new int[]{32, 200});   // ~25% on ench=1 items
+        LOW_ENCH_COST_OVERRIDES.put("soul_speed:3", new int[]{33, 200});   // ~11% on ench=1 items
 
 
         // Tool enchantments
