@@ -13,8 +13,15 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
+import net.minecraft.core.component.DataComponents;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.resources.Identifier;
+import net.minecraft.world.item.enchantment.Enchantable;
+
+import java.util.HashSet;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.Set;
 import java.util.stream.Stream;
 
 @Mixin(EnchantmentHelper.class)
@@ -30,6 +37,8 @@ public class EnchantmentHelperMixin {
         if (player == null) return;
 
         List<EnchantmentInstance> results = cir.getReturnValue();
+        Enchantable enchantable = stack.get(DataComponents.ENCHANTABLE);
+        int enchantability = enchantable != null ? enchantable.value() : 0;
         ListIterator<EnchantmentInstance> it = results.listIterator();
 
         while (it.hasNext()) {
@@ -46,7 +55,7 @@ public class EnchantmentHelperMixin {
             Enchantment enchantment = instance.enchantment().value();
             boolean found = false;
             for (int level = maxUnlocked; level >= enchantment.getMinLevel(); level--) {
-                int[] override = EnchantmentUnlockData.getCostOverride(keyPath, level);
+                int[] override = EnchantmentUnlockData.getCostOverride(keyPath, level, enchantability);
                 boolean valid;
                 if (override != null) {
                     valid = cost >= override[0] && cost <= override[1];
@@ -61,6 +70,40 @@ public class EnchantmentHelperMixin {
             }
             if (!found) {
                 it.remove();
+            }
+        }
+
+        // Add treasure enchantments that vanilla excluded (modified cost outside vanilla ranges)
+        // but our cost overrides would accept. This fixes e.g. Frost Walker 2 being unreachable
+        // because our override min (36) exceeds vanilla's max cost (35).
+        Set<String> presentKeys = new HashSet<>();
+        for (EnchantmentInstance ei : results) {
+            ResourceKey<Enchantment> k = ei.enchantment().unwrapKey().orElse(null);
+            if (k != null) presentKeys.add(k.identifier().getPath());
+        }
+
+        var registry = player.level().getServer().registryAccess().lookupOrThrow(Registries.ENCHANTMENT);
+        for (String treasureKey : EnchantmentUnlockData.TREASURE_ENCHANTMENT_KEYS) {
+            if (presentKeys.contains(treasureKey)) continue;
+
+            var ref = registry.get(Identifier.withDefaultNamespace(treasureKey));
+            if (ref.isEmpty()) continue;
+
+            Holder<Enchantment> holder = ref.get();
+            if (!holder.value().isSupportedItem(stack)) continue;
+
+            ResourceKey<Enchantment> rk = holder.unwrapKey().orElse(null);
+            if (rk == null) continue;
+
+            int maxUnlocked = EnchantmentUnlockData.getMaxUnlockedLevel(player, rk);
+            if (maxUnlocked <= 0) continue;
+
+            for (int level = maxUnlocked; level >= holder.value().getMinLevel(); level--) {
+                int[] override = EnchantmentUnlockData.getCostOverride(treasureKey, level, enchantability);
+                if (override != null && cost >= override[0] && cost <= override[1]) {
+                    results.add(new EnchantmentInstance(holder, level));
+                    break;
+                }
             }
         }
     }

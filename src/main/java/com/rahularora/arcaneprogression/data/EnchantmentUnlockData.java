@@ -28,6 +28,11 @@ public class EnchantmentUnlockData {
     // Tuned so these only appear near the max modified cost on diamond/netherite gear.
     private static final Map<String, int[]> COST_OVERRIDES = new HashMap<>();
 
+    // Lower cost overrides for items with enchantability <= 1 (bow, crossbow, trident, fishing rod, book).
+    // These items have max modified cost ~34, so the standard overrides (36+) are unreachable.
+    private static final Map<String, int[]> LOW_ENCH_COST_OVERRIDES = new HashMap<>();
+    private static final int LOW_ENCH_THRESHOLD = 1;
+
     public static final Set<String> TREASURE_ENCHANTMENT_KEYS = Set.of(
             "frost_walker", "soul_speed", "swift_sneak", "wind_burst", "mending"
     );
@@ -65,12 +70,15 @@ public class EnchantmentUnlockData {
         COST_OVERRIDES.put("swift_sneak:3", new int[]{36, 200});          // ~15% on diamond
 
         // Wind Burst (3 tiers) — mace only (ench=15)
-        COST_OVERRIDES.put("wind_burst:1", new int[]{34, 200});           // ~70% on mace
-        COST_OVERRIDES.put("wind_burst:2", new int[]{36, 200});           // ~30% on mace
-        COST_OVERRIDES.put("wind_burst:3", new int[]{38, 200});           // ~10% on mace
+        COST_OVERRIDES.put("wind_burst:1", new int[]{32, 200});           // ~85% on mace
+        COST_OVERRIDES.put("wind_burst:2", new int[]{34, 200});           // ~70% on mace
+        COST_OVERRIDES.put("wind_burst:3", new int[]{36, 200});           // ~30% on mace
 
         // Mending — the rarest
         COST_OVERRIDES.put("mending:1", new int[]{36, 200});              // ~15% on diamond, ~30% on mace/netherite
+
+        // Low-enchantability overrides (ench<=1 items: bow, crossbow, trident, fishing rod, book)
+        LOW_ENCH_COST_OVERRIDES.put("mending:1", new int[]{33, 200});     // ~11% on ench=1 items
 
 
         // Tool enchantments
@@ -139,9 +147,15 @@ public class EnchantmentUnlockData {
 
     /**
      * Returns custom [minCost, maxCost] override for an enchantment at a specific level, or null if vanilla.
+     * Uses lower thresholds for items with enchantability <= LOW_ENCH_THRESHOLD.
      */
-    public static int[] getCostOverride(String enchantmentPath, int level) {
-        return COST_OVERRIDES.get(enchantmentPath + ":" + level);
+    public static int[] getCostOverride(String enchantmentPath, int level, int enchantability) {
+        String key = enchantmentPath + ":" + level;
+        if (enchantability <= LOW_ENCH_THRESHOLD) {
+            int[] lowOverride = LOW_ENCH_COST_OVERRIDES.get(key);
+            if (lowOverride != null) return lowOverride;
+        }
+        return COST_OVERRIDES.get(key);
     }
 
     /**
