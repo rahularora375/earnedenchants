@@ -16,17 +16,11 @@ public class PlayerDataAttachments {
             .initializer(() -> 0)
             .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "blocks_mined"));
 
-    public static final AttachmentType<Integer> DIAMONDS_MINED = AttachmentRegistry.<Integer>builder()
+    public static final AttachmentType<Integer> DIAMOND_ORES_MINED = AttachmentRegistry.<Integer>builder()
             .persistent(Codec.INT)
             .copyOnDeath()
             .initializer(() -> 0)
-            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "diamonds_mined"));
-
-    public static final AttachmentType<Integer> DIAMONDS_PICKED_UP = AttachmentRegistry.<Integer>builder()
-            .persistent(Codec.INT)
-            .copyOnDeath()
-            .initializer(() -> 0)
-            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "diamonds_picked_up"));
+            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "diamond_ores_mined"));
 
     public static final AttachmentType<List<String>> UNIQUE_BLOCKS_MINED = AttachmentRegistry.<List<String>>builder()
             .persistent(Codec.STRING.listOf())
