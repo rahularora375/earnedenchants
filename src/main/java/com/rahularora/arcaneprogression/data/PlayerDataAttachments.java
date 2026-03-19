@@ -52,11 +52,11 @@ public class PlayerDataAttachments {
             .initializer(() -> 0)
             .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "treasure_caught"));
 
-    public static final AttachmentType<Integer> MOB_KILLS = AttachmentRegistry.<Integer>builder()
+    public static final AttachmentType<Integer> HOSTILE_KILLS = AttachmentRegistry.<Integer>builder()
             .persistent(Codec.INT)
             .copyOnDeath()
             .initializer(() -> 0)
-            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "mob_kills"));
+            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "hostile_kills"));
 
     public static final AttachmentType<Integer> UNDEAD_KILLS = AttachmentRegistry.<Integer>builder()
             .persistent(Codec.INT)

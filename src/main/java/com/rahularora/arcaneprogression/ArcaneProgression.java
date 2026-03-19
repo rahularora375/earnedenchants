@@ -29,7 +29,7 @@ public class ArcaneProgression implements ModInitializer {
 	public static final CountReachedTrigger TOOLS_BROKEN_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger FISH_CAUGHT_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger TREASURE_CAUGHT_TRIGGER = new CountReachedTrigger();
-	public static final CountReachedTrigger MOB_KILLS_TRIGGER = new CountReachedTrigger();
+	public static final CountReachedTrigger HOSTILE_KILLS_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger UNDEAD_KILLS_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger ARTHROPOD_KILLS_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger FIRE_KILLS_TRIGGER = new CountReachedTrigger();
@@ -115,8 +115,8 @@ public class ArcaneProgression implements ModInitializer {
 		);
 		Registry.register(
 				BuiltInRegistries.TRIGGER_TYPES,
-				Identifier.fromNamespaceAndPath(MOD_ID, "mob_kills"),
-				MOB_KILLS_TRIGGER
+				Identifier.fromNamespaceAndPath(MOD_ID, "hostile_kills"),
+				HOSTILE_KILLS_TRIGGER
 		);
 		Registry.register(
 				BuiltInRegistries.TRIGGER_TYPES,

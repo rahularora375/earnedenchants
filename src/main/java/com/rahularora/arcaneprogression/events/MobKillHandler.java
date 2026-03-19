@@ -24,10 +24,10 @@ public class MobKillHandler {
             if (killer instanceof ServerPlayer serverPlayer) {
                 // Hostile mob kills (Sharpness)
                 if (killed.getType().getCategory() == MobCategory.MONSTER) {
-                    int totalKills = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.MOB_KILLS);
+                    int totalKills = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.HOSTILE_KILLS);
                     totalKills++;
-                    serverPlayer.setAttached(PlayerDataAttachments.MOB_KILLS, totalKills);
-                    ArcaneProgression.MOB_KILLS_TRIGGER.trigger(serverPlayer, totalKills);
+                    serverPlayer.setAttached(PlayerDataAttachments.HOSTILE_KILLS, totalKills);
+                    ArcaneProgression.HOSTILE_KILLS_TRIGGER.trigger(serverPlayer, totalKills);
                 }
 
                 // Undead kills (Smite)

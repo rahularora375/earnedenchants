@@ -5,901 +5,901 @@
       "conditions": {
         "min_count": 1
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_10": {
       "conditions": {
         "min_count": 10
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_100": {
       "conditions": {
         "min_count": 100
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_101": {
       "conditions": {
         "min_count": 101
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_102": {
       "conditions": {
         "min_count": 102
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_103": {
       "conditions": {
         "min_count": 103
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_104": {
       "conditions": {
         "min_count": 104
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_105": {
       "conditions": {
         "min_count": 105
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_106": {
       "conditions": {
         "min_count": 106
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_107": {
       "conditions": {
         "min_count": 107
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_108": {
       "conditions": {
         "min_count": 108
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_109": {
       "conditions": {
         "min_count": 109
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_11": {
       "conditions": {
         "min_count": 11
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_110": {
       "conditions": {
         "min_count": 110
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_111": {
       "conditions": {
         "min_count": 111
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_112": {
       "conditions": {
         "min_count": 112
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_113": {
       "conditions": {
         "min_count": 113
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_114": {
       "conditions": {
         "min_count": 114
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_115": {
       "conditions": {
         "min_count": 115
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_116": {
       "conditions": {
         "min_count": 116
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_117": {
       "conditions": {
         "min_count": 117
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_118": {
       "conditions": {
         "min_count": 118
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_119": {
       "conditions": {
         "min_count": 119
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_12": {
       "conditions": {
         "min_count": 12
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_120": {
       "conditions": {
         "min_count": 120
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_121": {
       "conditions": {
         "min_count": 121
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_122": {
       "conditions": {
         "min_count": 122
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_123": {
       "conditions": {
         "min_count": 123
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_124": {
       "conditions": {
         "min_count": 124
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_125": {
       "conditions": {
         "min_count": 125
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_126": {
       "conditions": {
         "min_count": 126
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_127": {
       "conditions": {
         "min_count": 127
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_128": {
       "conditions": {
         "min_count": 128
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_129": {
       "conditions": {
         "min_count": 129
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_13": {
       "conditions": {
         "min_count": 13
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_130": {
       "conditions": {
         "min_count": 130
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_131": {
       "conditions": {
         "min_count": 131
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_132": {
       "conditions": {
         "min_count": 132
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_133": {
       "conditions": {
         "min_count": 133
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_134": {
       "conditions": {
         "min_count": 134
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_135": {
       "conditions": {
         "min_count": 135
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_136": {
       "conditions": {
         "min_count": 136
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_137": {
       "conditions": {
         "min_count": 137
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_138": {
       "conditions": {
         "min_count": 138
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_139": {
       "conditions": {
         "min_count": 139
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_14": {
       "conditions": {
         "min_count": 14
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_140": {
       "conditions": {
         "min_count": 140
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_141": {
       "conditions": {
         "min_count": 141
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_142": {
       "conditions": {
         "min_count": 142
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_143": {
       "conditions": {
         "min_count": 143
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_144": {
       "conditions": {
         "min_count": 144
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_145": {
       "conditions": {
         "min_count": 145
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_146": {
       "conditions": {
         "min_count": 146
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_147": {
       "conditions": {
         "min_count": 147
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_148": {
       "conditions": {
         "min_count": 148
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_149": {
       "conditions": {
         "min_count": 149
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_15": {
       "conditions": {
         "min_count": 15
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_150": {
       "conditions": {
         "min_count": 150
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_16": {
       "conditions": {
         "min_count": 16
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_17": {
       "conditions": {
         "min_count": 17
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_18": {
       "conditions": {
         "min_count": 18
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_19": {
       "conditions": {
         "min_count": 19
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_2": {
       "conditions": {
         "min_count": 2
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_20": {
       "conditions": {
         "min_count": 20
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_21": {
       "conditions": {
         "min_count": 21
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_22": {
       "conditions": {
         "min_count": 22
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_23": {
       "conditions": {
         "min_count": 23
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_24": {
       "conditions": {
         "min_count": 24
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_25": {
       "conditions": {
         "min_count": 25
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_26": {
       "conditions": {
         "min_count": 26
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_27": {
       "conditions": {
         "min_count": 27
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_28": {
       "conditions": {
         "min_count": 28
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_29": {
       "conditions": {
         "min_count": 29
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_3": {
       "conditions": {
         "min_count": 3
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_30": {
       "conditions": {
         "min_count": 30
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_31": {
       "conditions": {
         "min_count": 31
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_32": {
       "conditions": {
         "min_count": 32
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_33": {
       "conditions": {
         "min_count": 33
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_34": {
       "conditions": {
         "min_count": 34
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_35": {
       "conditions": {
         "min_count": 35
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_36": {
       "conditions": {
         "min_count": 36
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_37": {
       "conditions": {
         "min_count": 37
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_38": {
       "conditions": {
         "min_count": 38
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_39": {
       "conditions": {
         "min_count": 39
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_4": {
       "conditions": {
         "min_count": 4
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_40": {
       "conditions": {
         "min_count": 40
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_41": {
       "conditions": {
         "min_count": 41
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_42": {
       "conditions": {
         "min_count": 42
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_43": {
       "conditions": {
         "min_count": 43
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_44": {
       "conditions": {
         "min_count": 44
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_45": {
       "conditions": {
         "min_count": 45
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_46": {
       "conditions": {
         "min_count": 46
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_47": {
       "conditions": {
         "min_count": 47
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_48": {
       "conditions": {
         "min_count": 48
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_49": {
       "conditions": {
         "min_count": 49
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_5": {
       "conditions": {
         "min_count": 5
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_50": {
       "conditions": {
         "min_count": 50
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_51": {
       "conditions": {
         "min_count": 51
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_52": {
       "conditions": {
         "min_count": 52
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_53": {
       "conditions": {
         "min_count": 53
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_54": {
       "conditions": {
         "min_count": 54
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_55": {
       "conditions": {
         "min_count": 55
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_56": {
       "conditions": {
         "min_count": 56
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_57": {
       "conditions": {
         "min_count": 57
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_58": {
       "conditions": {
         "min_count": 58
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_59": {
       "conditions": {
         "min_count": 59
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_6": {
       "conditions": {
         "min_count": 6
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_60": {
       "conditions": {
         "min_count": 60
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_61": {
       "conditions": {
         "min_count": 61
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_62": {
       "conditions": {
         "min_count": 62
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_63": {
       "conditions": {
         "min_count": 63
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_64": {
       "conditions": {
         "min_count": 64
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_65": {
       "conditions": {
         "min_count": 65
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_66": {
       "conditions": {
         "min_count": 66
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_67": {
       "conditions": {
         "min_count": 67
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_68": {
       "conditions": {
         "min_count": 68
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_69": {
       "conditions": {
         "min_count": 69
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_7": {
       "conditions": {
         "min_count": 7
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_70": {
       "conditions": {
         "min_count": 70
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_71": {
       "conditions": {
         "min_count": 71
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_72": {
       "conditions": {
         "min_count": 72
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_73": {
       "conditions": {
         "min_count": 73
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_74": {
       "conditions": {
         "min_count": 74
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_75": {
       "conditions": {
         "min_count": 75
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_76": {
       "conditions": {
         "min_count": 76
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_77": {
       "conditions": {
         "min_count": 77
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_78": {
       "conditions": {
         "min_count": 78
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_79": {
       "conditions": {
         "min_count": 79
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_8": {
       "conditions": {
         "min_count": 8
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_80": {
       "conditions": {
         "min_count": 80
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_81": {
       "conditions": {
         "min_count": 81
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_82": {
       "conditions": {
         "min_count": 82
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_83": {
       "conditions": {
         "min_count": 83
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_84": {
       "conditions": {
         "min_count": 84
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_85": {
       "conditions": {
         "min_count": 85
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_86": {
       "conditions": {
         "min_count": 86
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_87": {
       "conditions": {
         "min_count": 87
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_88": {
       "conditions": {
         "min_count": 88
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_89": {
       "conditions": {
         "min_count": 89
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_9": {
       "conditions": {
         "min_count": 9
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_90": {
       "conditions": {
         "min_count": 90
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_91": {
       "conditions": {
         "min_count": 91
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_92": {
       "conditions": {
         "min_count": 92
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_93": {
       "conditions": {
         "min_count": 93
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_94": {
       "conditions": {
         "min_count": 94
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_95": {
       "conditions": {
         "min_count": 95
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_96": {
       "conditions": {
         "min_count": 96
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_97": {
       "conditions": {
         "min_count": 97
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_98": {
       "conditions": {
         "min_count": 98
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     },
     "kill_99": {
       "conditions": {
         "min_count": 99
       },
-      "trigger": "earnedenchants:mob_kills"
+      "trigger": "earnedenchants:hostile_kills"
     }
   },
   "display": {

@@ -272,7 +272,7 @@ public class AdvancementProvider extends FabricAdvancementProvider {
                 new Level("sharpness_3", "Sharpness III", "Kill 150 hostile mobs", AdvancementType.TASK, 150),
                 new Level("sharpness_4", "Sharpness IV", "Kill 300 hostile mobs", AdvancementType.TASK, 300),
                 new Level("sharpness_5", "Sharpness V", "Kill 500 hostile mobs", AdvancementType.CHALLENGE, 500)
-        ), new ItemStack(Items.IRON_SWORD), "kill_", ArcaneProgression.MOB_KILLS_TRIGGER);
+        ), new ItemStack(Items.IRON_SWORD), "kill_", ArcaneProgression.HOSTILE_KILLS_TRIGGER);
     }
 
     private void generateSmiteChain(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
