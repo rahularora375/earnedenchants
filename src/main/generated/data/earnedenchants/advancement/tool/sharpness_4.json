@@ -1803,7 +1803,7 @@
     }
   },
   "display": {
-    "description": "Kill 300 mobs",
+    "description": "Kill 300 hostile mobs",
     "icon": {
       "count": 1,
       "id": "minecraft:iron_sword"

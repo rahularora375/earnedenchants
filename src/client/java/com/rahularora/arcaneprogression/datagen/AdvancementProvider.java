@@ -267,11 +267,11 @@ public class AdvancementProvider extends FabricAdvancementProvider {
 
     private void generateSharpnessChain(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
         generateCountChain(consumer, categoryParent, List.of(
-                new Level("sharpness_1", "Sharpness I", "Kill 25 mobs", AdvancementType.TASK, 25),
-                new Level("sharpness_2", "Sharpness II", "Kill 75 mobs", AdvancementType.TASK, 75),
-                new Level("sharpness_3", "Sharpness III", "Kill 150 mobs", AdvancementType.TASK, 150),
-                new Level("sharpness_4", "Sharpness IV", "Kill 300 mobs", AdvancementType.TASK, 300),
-                new Level("sharpness_5", "Sharpness V", "Kill 500 mobs", AdvancementType.CHALLENGE, 500)
+                new Level("sharpness_1", "Sharpness I", "Kill 25 hostile mobs", AdvancementType.TASK, 25),
+                new Level("sharpness_2", "Sharpness II", "Kill 75 hostile mobs", AdvancementType.TASK, 75),
+                new Level("sharpness_3", "Sharpness III", "Kill 150 hostile mobs", AdvancementType.TASK, 150),
+                new Level("sharpness_4", "Sharpness IV", "Kill 300 hostile mobs", AdvancementType.TASK, 300),
+                new Level("sharpness_5", "Sharpness V", "Kill 500 hostile mobs", AdvancementType.CHALLENGE, 500)
         ), new ItemStack(Items.IRON_SWORD), "kill_", ArcaneProgression.MOB_KILLS_TRIGGER);
     }
 

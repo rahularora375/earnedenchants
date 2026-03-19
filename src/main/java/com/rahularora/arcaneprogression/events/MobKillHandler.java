@@ -7,6 +7,7 @@ import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.tags.EntityTypeTags;
 import net.minecraft.tags.ItemTags;
+import net.minecraft.world.entity.MobCategory;
 import net.minecraft.world.entity.projectile.FireworkRocketEntity;
 import net.minecraft.world.entity.projectile.arrow.AbstractArrow;
 import net.minecraft.world.entity.projectile.arrow.Arrow;
@@ -21,11 +22,13 @@ public class MobKillHandler {
     public void register() {
         ServerEntityCombatEvents.AFTER_KILLED_OTHER_ENTITY.register((world, killer, killed, source) -> {
             if (killer instanceof ServerPlayer serverPlayer) {
-                // Total mob kills (Sharpness)
-                int totalKills = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.MOB_KILLS);
-                totalKills++;
-                serverPlayer.setAttached(PlayerDataAttachments.MOB_KILLS, totalKills);
-                ArcaneProgression.MOB_KILLS_TRIGGER.trigger(serverPlayer, totalKills);
+                // Hostile mob kills (Sharpness)
+                if (killed.getType().getCategory() == MobCategory.MONSTER) {
+                    int totalKills = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.MOB_KILLS);
+                    totalKills++;
+                    serverPlayer.setAttached(PlayerDataAttachments.MOB_KILLS, totalKills);
+                    ArcaneProgression.MOB_KILLS_TRIGGER.trigger(serverPlayer, totalKills);
+                }
 
                 // Undead kills (Smite)
                 if (killed.getType().is(EntityTypeTags.UNDEAD)) {

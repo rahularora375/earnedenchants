@@ -453,7 +453,7 @@
     }
   },
   "display": {
-    "description": "Kill 75 mobs",
+    "description": "Kill 75 hostile mobs",
     "icon": {
       "count": 1,
       "id": "minecraft:iron_sword"
