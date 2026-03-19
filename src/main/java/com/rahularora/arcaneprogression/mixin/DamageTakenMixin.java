@@ -28,9 +28,9 @@ public class DamageTakenMixin {
 
         // Fire damage taken in the Nether (Fire Protection)
         if (source.is(DamageTypeTags.IS_FIRE) && level.dimension() == Level.NETHER) {
-            int fireDmg = player.getAttachedOrCreate(PlayerDataAttachments.FIRE_DAMAGE_TAKEN) + (int) amount;
-            player.setAttached(PlayerDataAttachments.FIRE_DAMAGE_TAKEN, fireDmg);
-            ArcaneProgression.FIRE_DAMAGE_TAKEN_TRIGGER.trigger(player, fireDmg);
+            int fireDmg = player.getAttachedOrCreate(PlayerDataAttachments.NETHER_FIRE_DAMAGE) + (int) amount;
+            player.setAttached(PlayerDataAttachments.NETHER_FIRE_DAMAGE, fireDmg);
+            ArcaneProgression.NETHER_FIRE_DAMAGE_TRIGGER.trigger(player, fireDmg);
         }
 
         // Explosion hits (Blast Protection)

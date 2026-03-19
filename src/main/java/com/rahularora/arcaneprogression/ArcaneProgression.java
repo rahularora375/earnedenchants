@@ -55,7 +55,7 @@ public class ArcaneProgression implements ModInitializer {
 
 	// Armor triggers
 	public static final CountReachedTrigger DAMAGE_TAKEN_TRIGGER = new CountReachedTrigger();
-	public static final CountReachedTrigger FIRE_DAMAGE_TAKEN_TRIGGER = new CountReachedTrigger();
+	public static final CountReachedTrigger NETHER_FIRE_DAMAGE_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger EXPLOSION_HITS_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger PROJECTILE_HITS_TAKEN_TRIGGER = new CountReachedTrigger();
 	public static final CountReachedTrigger FALL_DAMAGE_TAKEN_TRIGGER = new CountReachedTrigger();
@@ -198,8 +198,8 @@ public class ArcaneProgression implements ModInitializer {
 		);
 		Registry.register(
 				BuiltInRegistries.TRIGGER_TYPES,
-				Identifier.fromNamespaceAndPath(MOD_ID, "fire_damage_taken"),
-				FIRE_DAMAGE_TAKEN_TRIGGER
+				Identifier.fromNamespaceAndPath(MOD_ID, "nether_fire_damage"),
+				NETHER_FIRE_DAMAGE_TRIGGER
 		);
 		Registry.register(
 				BuiltInRegistries.TRIGGER_TYPES,

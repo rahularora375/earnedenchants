@@ -5,481 +5,481 @@
       "conditions": {
         "min_count": 10
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_100": {
       "conditions": {
         "min_count": 100
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_110": {
       "conditions": {
         "min_count": 110
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_120": {
       "conditions": {
         "min_count": 120
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_130": {
       "conditions": {
         "min_count": 130
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_140": {
       "conditions": {
         "min_count": 140
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_150": {
       "conditions": {
         "min_count": 150
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_160": {
       "conditions": {
         "min_count": 160
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_170": {
       "conditions": {
         "min_count": 170
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_180": {
       "conditions": {
         "min_count": 180
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_190": {
       "conditions": {
         "min_count": 190
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_20": {
       "conditions": {
         "min_count": 20
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_200": {
       "conditions": {
         "min_count": 200
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_210": {
       "conditions": {
         "min_count": 210
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_220": {
       "conditions": {
         "min_count": 220
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_230": {
       "conditions": {
         "min_count": 230
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_240": {
       "conditions": {
         "min_count": 240
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_250": {
       "conditions": {
         "min_count": 250
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_260": {
       "conditions": {
         "min_count": 260
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_270": {
       "conditions": {
         "min_count": 270
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_280": {
       "conditions": {
         "min_count": 280
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_290": {
       "conditions": {
         "min_count": 290
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_30": {
       "conditions": {
         "min_count": 30
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_300": {
       "conditions": {
         "min_count": 300
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_310": {
       "conditions": {
         "min_count": 310
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_320": {
       "conditions": {
         "min_count": 320
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_330": {
       "conditions": {
         "min_count": 330
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_340": {
       "conditions": {
         "min_count": 340
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_350": {
       "conditions": {
         "min_count": 350
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_360": {
       "conditions": {
         "min_count": 360
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_370": {
       "conditions": {
         "min_count": 370
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_380": {
       "conditions": {
         "min_count": 380
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_390": {
       "conditions": {
         "min_count": 390
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_40": {
       "conditions": {
         "min_count": 40
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_400": {
       "conditions": {
         "min_count": 400
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_410": {
       "conditions": {
         "min_count": 410
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_420": {
       "conditions": {
         "min_count": 420
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_430": {
       "conditions": {
         "min_count": 430
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_440": {
       "conditions": {
         "min_count": 440
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_450": {
       "conditions": {
         "min_count": 450
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_460": {
       "conditions": {
         "min_count": 460
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_470": {
       "conditions": {
         "min_count": 470
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_480": {
       "conditions": {
         "min_count": 480
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_490": {
       "conditions": {
         "min_count": 490
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_50": {
       "conditions": {
         "min_count": 50
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_500": {
       "conditions": {
         "min_count": 500
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_510": {
       "conditions": {
         "min_count": 510
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_520": {
       "conditions": {
         "min_count": 520
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_530": {
       "conditions": {
         "min_count": 530
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_540": {
       "conditions": {
         "min_count": 540
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_550": {
       "conditions": {
         "min_count": 550
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_560": {
       "conditions": {
         "min_count": 560
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_570": {
       "conditions": {
         "min_count": 570
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_580": {
       "conditions": {
         "min_count": 580
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_590": {
       "conditions": {
         "min_count": 590
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_60": {
       "conditions": {
         "min_count": 60
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_600": {
       "conditions": {
         "min_count": 600
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_610": {
       "conditions": {
         "min_count": 610
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_620": {
       "conditions": {
         "min_count": 620
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_630": {
       "conditions": {
         "min_count": 630
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_640": {
       "conditions": {
         "min_count": 640
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_650": {
       "conditions": {
         "min_count": 650
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_660": {
       "conditions": {
         "min_count": 660
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_670": {
       "conditions": {
         "min_count": 670
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_680": {
       "conditions": {
         "min_count": 680
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_690": {
       "conditions": {
         "min_count": 690
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_70": {
       "conditions": {
         "min_count": 70
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_700": {
       "conditions": {
         "min_count": 700
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_710": {
       "conditions": {
         "min_count": 710
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_720": {
       "conditions": {
         "min_count": 720
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_730": {
       "conditions": {
         "min_count": 730
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_740": {
       "conditions": {
         "min_count": 740
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_750": {
       "conditions": {
         "min_count": 750
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_760": {
       "conditions": {
         "min_count": 760
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_770": {
       "conditions": {
         "min_count": 770
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_780": {
       "conditions": {
         "min_count": 780
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_790": {
       "conditions": {
         "min_count": 790
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_80": {
       "conditions": {
         "min_count": 80
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_800": {
       "conditions": {
         "min_count": 800
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     },
     "fire_dmg_90": {
       "conditions": {
         "min_count": 90
       },
-      "trigger": "earnedenchants:fire_damage_taken"
+      "trigger": "earnedenchants:nether_fire_damage"
     }
   },
   "display": {

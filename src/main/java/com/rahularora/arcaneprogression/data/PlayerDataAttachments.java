@@ -189,11 +189,11 @@ public class PlayerDataAttachments {
             .initializer(() -> 0)
             .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "damage_taken"));
 
-    public static final AttachmentType<Integer> FIRE_DAMAGE_TAKEN = AttachmentRegistry.<Integer>builder()
+    public static final AttachmentType<Integer> NETHER_FIRE_DAMAGE = AttachmentRegistry.<Integer>builder()
             .persistent(Codec.INT)
             .copyOnDeath()
             .initializer(() -> 0)
-            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "fire_damage_taken"));
+            .buildAndRegister(Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "nether_fire_damage"));
 
     public static final AttachmentType<Integer> EXPLOSION_HITS = AttachmentRegistry.<Integer>builder()
             .persistent(Codec.INT)

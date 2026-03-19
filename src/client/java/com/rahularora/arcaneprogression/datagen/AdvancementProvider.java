@@ -406,7 +406,7 @@ public class AdvancementProvider extends FabricAdvancementProvider {
                 new Level("fire_protection_2", "Fire Protection II", "Take 300 fire damage in the Nether", AdvancementType.TASK, 300),
                 new Level("fire_protection_3", "Fire Protection III", "Take 800 fire damage in the Nether", AdvancementType.TASK, 800),
                 new Level("fire_protection_4", "Fire Protection IV", "Take 1600 fire damage in the Nether", AdvancementType.CHALLENGE, 1600)
-        ), new ItemStack(Items.MAGMA_BLOCK), "fire_dmg_", ArcaneProgression.FIRE_DAMAGE_TAKEN_TRIGGER, 10);
+        ), new ItemStack(Items.MAGMA_BLOCK), "fire_dmg_", ArcaneProgression.NETHER_FIRE_DAMAGE_TRIGGER, 10);
     }
 
     private void generateBlastProtectionChain(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
