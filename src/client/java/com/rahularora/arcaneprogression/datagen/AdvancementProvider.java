@@ -235,9 +235,9 @@ public class AdvancementProvider extends FabricAdvancementProvider {
 
     private void generateFortuneChain(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
         generateCountChain(consumer, categoryParent, List.of(
-                new Level("fortune_1", "Fortune I", "Mine 16 diamonds", AdvancementType.TASK, 16),
-                new Level("fortune_2", "Fortune II", "Mine 32 diamonds", AdvancementType.TASK, 32),
-                new Level("fortune_3", "Fortune III", "Mine 64 diamonds", AdvancementType.CHALLENGE, 64)
+                new Level("fortune_1", "Fortune I", "Mine 5 diamond ores", AdvancementType.TASK, 5),
+                new Level("fortune_2", "Fortune II", "Mine 10 diamond ores", AdvancementType.TASK, 10),
+                new Level("fortune_3", "Fortune III", "Mine 15 diamond ores", AdvancementType.CHALLENGE, 15)
         ), new ItemStack(Items.DIAMOND), "diamond_", ArcaneProgression.DIAMONDS_MINED_TRIGGER);
     }
 
@@ -402,10 +402,10 @@ public class AdvancementProvider extends FabricAdvancementProvider {
 
     private void generateFireProtectionChain(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
         generateCountChain(consumer, categoryParent, List.of(
-                new Level("fire_protection_1", "Fire Protection I", "Take 60 fire damage", AdvancementType.TASK, 60),
-                new Level("fire_protection_2", "Fire Protection II", "Take 150 fire damage", AdvancementType.TASK, 150),
-                new Level("fire_protection_3", "Fire Protection III", "Take 400 fire damage", AdvancementType.TASK, 400),
-                new Level("fire_protection_4", "Fire Protection IV", "Take 800 fire damage", AdvancementType.CHALLENGE, 800)
+                new Level("fire_protection_1", "Fire Protection I", "Take 120 fire damage in the Nether", AdvancementType.TASK, 120),
+                new Level("fire_protection_2", "Fire Protection II", "Take 300 fire damage in the Nether", AdvancementType.TASK, 300),
+                new Level("fire_protection_3", "Fire Protection III", "Take 800 fire damage in the Nether", AdvancementType.TASK, 800),
+                new Level("fire_protection_4", "Fire Protection IV", "Take 1600 fire damage in the Nether", AdvancementType.CHALLENGE, 1600)
         ), new ItemStack(Items.MAGMA_BLOCK), "fire_dmg_", ArcaneProgression.FIRE_DAMAGE_TAKEN_TRIGGER, 10);
     }
 

@@ -4,7 +4,11 @@ import com.rahularora.arcaneprogression.ArcaneProgression;
 import com.rahularora.arcaneprogression.data.PlayerDataAttachments;
 import net.fabricmc.fabric.api.event.player.PlayerBlockBreakEvents;
 import net.minecraft.core.registries.BuiltInRegistries;
+import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 
 import java.util.List;
@@ -20,12 +24,25 @@ public class BlockBreakHandler {
                 serverPlayer.setAttached(PlayerDataAttachments.BLOCKS_MINED, blockCount);
                 ArcaneProgression.BLOCKS_MINED_TRIGGER.trigger(serverPlayer, blockCount);
 
-                // Diamond ore mined
+                // Diamond ore mined (Fortune chain)
                 if (state.is(Blocks.DIAMOND_ORE) || state.is(Blocks.DEEPSLATE_DIAMOND_ORE)) {
                     int diamondCount = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.DIAMONDS_MINED);
                     diamondCount++;
                     serverPlayer.setAttached(PlayerDataAttachments.DIAMONDS_MINED, diamondCount);
                     ArcaneProgression.DIAMONDS_MINED_TRIGGER.trigger(serverPlayer, diamondCount);
+
+                    // Track actual diamond items dropped (accounting for Fortune)
+                    List<ItemStack> drops = Block.getDrops(state, (ServerLevel) world, pos, blockEntity, serverPlayer, serverPlayer.getMainHandItem());
+                    int diamondItems = 0;
+                    for (ItemStack drop : drops) {
+                        if (drop.is(Items.DIAMOND)) {
+                            diamondItems += drop.getCount();
+                        }
+                    }
+                    if (diamondItems > 0) {
+                        int pickedUp = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.DIAMONDS_PICKED_UP) + diamondItems;
+                        serverPlayer.setAttached(PlayerDataAttachments.DIAMONDS_PICKED_UP, pickedUp);
+                    }
                 }
 
                 // Underwater blocks mined (Aqua Affinity)

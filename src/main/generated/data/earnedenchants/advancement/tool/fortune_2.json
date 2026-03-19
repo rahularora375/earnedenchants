@@ -13,147 +13,15 @@
       },
       "trigger": "earnedenchants:diamonds_mined"
     },
-    "diamond_11": {
-      "conditions": {
-        "min_count": 11
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_12": {
-      "conditions": {
-        "min_count": 12
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_13": {
-      "conditions": {
-        "min_count": 13
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_14": {
-      "conditions": {
-        "min_count": 14
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_15": {
-      "conditions": {
-        "min_count": 15
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_16": {
-      "conditions": {
-        "min_count": 16
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_17": {
-      "conditions": {
-        "min_count": 17
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_18": {
-      "conditions": {
-        "min_count": 18
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_19": {
-      "conditions": {
-        "min_count": 19
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
     "diamond_2": {
       "conditions": {
         "min_count": 2
       },
       "trigger": "earnedenchants:diamonds_mined"
     },
-    "diamond_20": {
-      "conditions": {
-        "min_count": 20
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_21": {
-      "conditions": {
-        "min_count": 21
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_22": {
-      "conditions": {
-        "min_count": 22
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_23": {
-      "conditions": {
-        "min_count": 23
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_24": {
-      "conditions": {
-        "min_count": 24
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_25": {
-      "conditions": {
-        "min_count": 25
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_26": {
-      "conditions": {
-        "min_count": 26
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_27": {
-      "conditions": {
-        "min_count": 27
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_28": {
-      "conditions": {
-        "min_count": 28
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_29": {
-      "conditions": {
-        "min_count": 29
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
     "diamond_3": {
       "conditions": {
         "min_count": 3
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_30": {
-      "conditions": {
-        "min_count": 30
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_31": {
-      "conditions": {
-        "min_count": 31
-      },
-      "trigger": "earnedenchants:diamonds_mined"
-    },
-    "diamond_32": {
-      "conditions": {
-        "min_count": 32
       },
       "trigger": "earnedenchants:diamonds_mined"
     },
@@ -195,7 +63,7 @@
     }
   },
   "display": {
-    "description": "Mine 32 diamonds",
+    "description": "Mine 10 diamond ores",
     "icon": {
       "count": 1,
       "id": "minecraft:diamond"
@@ -232,72 +100,6 @@
     ],
     [
       "diamond_10"
-    ],
-    [
-      "diamond_11"
-    ],
-    [
-      "diamond_12"
-    ],
-    [
-      "diamond_13"
-    ],
-    [
-      "diamond_14"
-    ],
-    [
-      "diamond_15"
-    ],
-    [
-      "diamond_16"
-    ],
-    [
-      "diamond_17"
-    ],
-    [
-      "diamond_18"
-    ],
-    [
-      "diamond_19"
-    ],
-    [
-      "diamond_20"
-    ],
-    [
-      "diamond_21"
-    ],
-    [
-      "diamond_22"
-    ],
-    [
-      "diamond_23"
-    ],
-    [
-      "diamond_24"
-    ],
-    [
-      "diamond_25"
-    ],
-    [
-      "diamond_26"
-    ],
-    [
-      "diamond_27"
-    ],
-    [
-      "diamond_28"
-    ],
-    [
-      "diamond_29"
-    ],
-    [
-      "diamond_30"
-    ],
-    [
-      "diamond_31"
-    ],
-    [
-      "diamond_32"
     ]
   ],
   "sends_telemetry_event": true

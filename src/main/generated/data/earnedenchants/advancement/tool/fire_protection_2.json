@@ -43,15 +43,105 @@
       },
       "trigger": "earnedenchants:fire_damage_taken"
     },
+    "fire_dmg_160": {
+      "conditions": {
+        "min_count": 160
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_170": {
+      "conditions": {
+        "min_count": 170
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_180": {
+      "conditions": {
+        "min_count": 180
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_190": {
+      "conditions": {
+        "min_count": 190
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
     "fire_dmg_20": {
       "conditions": {
         "min_count": 20
       },
       "trigger": "earnedenchants:fire_damage_taken"
     },
+    "fire_dmg_200": {
+      "conditions": {
+        "min_count": 200
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_210": {
+      "conditions": {
+        "min_count": 210
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_220": {
+      "conditions": {
+        "min_count": 220
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_230": {
+      "conditions": {
+        "min_count": 230
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_240": {
+      "conditions": {
+        "min_count": 240
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_250": {
+      "conditions": {
+        "min_count": 250
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_260": {
+      "conditions": {
+        "min_count": 260
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_270": {
+      "conditions": {
+        "min_count": 270
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_280": {
+      "conditions": {
+        "min_count": 280
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_290": {
+      "conditions": {
+        "min_count": 290
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
     "fire_dmg_30": {
       "conditions": {
         "min_count": 30
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_300": {
+      "conditions": {
+        "min_count": 300
       },
       "trigger": "earnedenchants:fire_damage_taken"
     },
@@ -93,7 +183,7 @@
     }
   },
   "display": {
-    "description": "Take 150 fire damage",
+    "description": "Take 300 fire damage in the Nether",
     "icon": {
       "count": 1,
       "id": "minecraft:magma_block"
@@ -145,6 +235,51 @@
     ],
     [
       "fire_dmg_150"
+    ],
+    [
+      "fire_dmg_160"
+    ],
+    [
+      "fire_dmg_170"
+    ],
+    [
+      "fire_dmg_180"
+    ],
+    [
+      "fire_dmg_190"
+    ],
+    [
+      "fire_dmg_200"
+    ],
+    [
+      "fire_dmg_210"
+    ],
+    [
+      "fire_dmg_220"
+    ],
+    [
+      "fire_dmg_230"
+    ],
+    [
+      "fire_dmg_240"
+    ],
+    [
+      "fire_dmg_250"
+    ],
+    [
+      "fire_dmg_260"
+    ],
+    [
+      "fire_dmg_270"
+    ],
+    [
+      "fire_dmg_280"
+    ],
+    [
+      "fire_dmg_290"
+    ],
+    [
+      "fire_dmg_300"
     ]
   ],
   "sends_telemetry_event": true

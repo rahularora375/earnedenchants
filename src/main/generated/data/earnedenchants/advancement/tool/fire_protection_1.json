@@ -7,6 +7,24 @@
       },
       "trigger": "earnedenchants:fire_damage_taken"
     },
+    "fire_dmg_100": {
+      "conditions": {
+        "min_count": 100
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_110": {
+      "conditions": {
+        "min_count": 110
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_120": {
+      "conditions": {
+        "min_count": 120
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
     "fire_dmg_20": {
       "conditions": {
         "min_count": 20
@@ -36,10 +54,28 @@
         "min_count": 60
       },
       "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_70": {
+      "conditions": {
+        "min_count": 70
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_80": {
+      "conditions": {
+        "min_count": 80
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
+    },
+    "fire_dmg_90": {
+      "conditions": {
+        "min_count": 90
+      },
+      "trigger": "earnedenchants:fire_damage_taken"
     }
   },
   "display": {
-    "description": "Take 60 fire damage",
+    "description": "Take 120 fire damage in the Nether",
     "icon": {
       "count": 1,
       "id": "minecraft:magma_block"
@@ -64,6 +100,24 @@
     ],
     [
       "fire_dmg_60"
+    ],
+    [
+      "fire_dmg_70"
+    ],
+    [
+      "fire_dmg_80"
+    ],
+    [
+      "fire_dmg_90"
+    ],
+    [
+      "fire_dmg_100"
+    ],
+    [
+      "fire_dmg_110"
+    ],
+    [
+      "fire_dmg_120"
     ]
   ],
   "sends_telemetry_event": true

@@ -8,6 +8,7 @@ import net.minecraft.tags.DamageTypeTags;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.damagesource.DamageTypes;
 import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.level.Level;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
@@ -25,8 +26,8 @@ public class DamageTakenMixin {
         player.setAttached(PlayerDataAttachments.DAMAGE_TAKEN, totalDmg);
         ArcaneProgression.DAMAGE_TAKEN_TRIGGER.trigger(player, totalDmg);
 
-        // Fire damage taken (Fire Protection)
-        if (source.is(DamageTypeTags.IS_FIRE)) {
+        // Fire damage taken in the Nether (Fire Protection)
+        if (source.is(DamageTypeTags.IS_FIRE) && level.dimension() == Level.NETHER) {
             int fireDmg = player.getAttachedOrCreate(PlayerDataAttachments.FIRE_DAMAGE_TAKEN) + (int) amount;
             player.setAttached(PlayerDataAttachments.FIRE_DAMAGE_TAKEN, fireDmg);
             ArcaneProgression.FIRE_DAMAGE_TAKEN_TRIGGER.trigger(player, fireDmg);

@@ -5,7 +5,12 @@ import com.rahularora.arcaneprogression.criteria.CountReachedTrigger;
 import com.rahularora.arcaneprogression.data.PlayerDataAttachments;
 import com.rahularora.arcaneprogression.events.BlockBreakHandler;
 import com.rahularora.arcaneprogression.events.MobKillHandler;
+import com.rahularora.arcaneprogression.network.VersionPayload;
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.networking.v1.PayloadTypeRegistry;
+import net.fabricmc.fabric.api.networking.v1.ServerPlayConnectionEvents;
+import net.fabricmc.fabric.api.networking.v1.ServerPlayNetworking;
+import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.Identifier;
@@ -15,6 +20,8 @@ import org.slf4j.LoggerFactory;
 public class ArcaneProgression implements ModInitializer {
 	public static final String MOD_ID = "earnedenchants";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+	public static final String MOD_VERSION = FabricLoader.getInstance()
+			.getModContainer(MOD_ID).orElseThrow().getMetadata().getVersion().getFriendlyString();
 
 	public static final BlocksMinedTrigger BLOCKS_MINED_TRIGGER = new BlocksMinedTrigger();
 	public static final CountReachedTrigger DIAMONDS_MINED_TRIGGER = new CountReachedTrigger();
@@ -294,6 +301,12 @@ public class ArcaneProgression implements ModInitializer {
 		new BlockBreakHandler().register();
 		new MobKillHandler().register();
 
-		LOGGER.info("Arcane Progression initialized");
+		// Register version check networking
+		PayloadTypeRegistry.playS2C().register(VersionPayload.TYPE, VersionPayload.CODEC);
+		ServerPlayConnectionEvents.JOIN.register((handler, sender, server) -> {
+			ServerPlayNetworking.send(handler.getPlayer(), new VersionPayload(MOD_VERSION));
+		});
+
+		LOGGER.info("Earned Enchants v" + MOD_VERSION + " initialized");
 	}
 }
