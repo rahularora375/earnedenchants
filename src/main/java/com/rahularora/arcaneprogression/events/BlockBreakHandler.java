@@ -5,6 +5,9 @@ import com.rahularora.arcaneprogression.data.PlayerDataAttachments;
 import net.fabricmc.fabric.api.event.player.PlayerBlockBreakEvents;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.server.level.ServerPlayer;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.enchantment.EnchantmentHelper;
+import net.minecraft.world.item.enchantment.Enchantments;
 import net.minecraft.world.level.block.Blocks;
 
 import java.util.List;
@@ -20,12 +23,18 @@ public class BlockBreakHandler {
                 serverPlayer.setAttached(PlayerDataAttachments.BLOCKS_MINED, blockCount);
                 ArcaneProgression.BLOCKS_MINED_TRIGGER.trigger(serverPlayer, blockCount);
 
-                // Diamond ore mined (Fortune chain)
+                // Diamond ore mined (Fortune chain) — skip if using Silk Touch (prevents place-and-rebreak exploit)
                 if (state.is(Blocks.DIAMOND_ORE) || state.is(Blocks.DEEPSLATE_DIAMOND_ORE)) {
-                    int diamondCount = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.DIAMOND_ORES_MINED);
-                    diamondCount++;
-                    serverPlayer.setAttached(PlayerDataAttachments.DIAMOND_ORES_MINED, diamondCount);
-                    ArcaneProgression.DIAMONDS_MINED_TRIGGER.trigger(serverPlayer, diamondCount);
+                    ItemStack tool = serverPlayer.getMainHandItem();
+                    int silkLevel = EnchantmentHelper.getItemEnchantmentLevel(
+                            serverPlayer.level().getServer().registryAccess().lookupOrThrow(net.minecraft.core.registries.Registries.ENCHANTMENT).getOrThrow(Enchantments.SILK_TOUCH),
+                            tool);
+                    if (silkLevel == 0) {
+                        int diamondCount = serverPlayer.getAttachedOrCreate(PlayerDataAttachments.DIAMOND_ORES_MINED);
+                        diamondCount++;
+                        serverPlayer.setAttached(PlayerDataAttachments.DIAMOND_ORES_MINED, diamondCount);
+                        ArcaneProgression.DIAMONDS_MINED_TRIGGER.trigger(serverPlayer, diamondCount);
+                    }
                 }
 
                 // Underwater blocks mined (Aqua Affinity)
