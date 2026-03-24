@@ -8,15 +8,19 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricAdvancementProvider;
 import net.minecraft.advancements.Advancement;
 import net.minecraft.advancements.AdvancementHolder;
 import net.minecraft.advancements.AdvancementRequirements;
+import net.minecraft.advancements.AdvancementRewards;
 import net.minecraft.advancements.AdvancementType;
 import net.minecraft.advancements.CriteriaTriggers;
 import net.minecraft.advancements.DisplayInfo;
 import net.minecraft.advancements.criterion.InventoryChangeTrigger;
 import net.minecraft.core.HolderLookup;
+import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.Identifier;
+import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
+import net.minecraft.world.level.storage.loot.LootTable;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -45,6 +49,7 @@ public class AdvancementProvider extends FabricAdvancementProvider {
         Identifier maceId = generateCategoryHeader(consumer, "mace_cat", "Mace", Items.MACE);
         Identifier armorId = generateCategoryHeader(consumer, "armor_cat", "Armor", Items.IRON_CHESTPLATE);
         Identifier treasureId = generateCategoryHeader(consumer, "treasure_cat", "Treasure", Items.AMETHYST_SHARD);
+        Identifier rewardsId = generateCategoryHeader(consumer, "rewards_cat", "Rewards", Items.ENCHANTED_BOOK);
 
         // Tool chains
         generateEfficiencyChain(consumer, toolId);
@@ -97,7 +102,8 @@ public class AdvancementProvider extends FabricAdvancementProvider {
         generateSoulSpeedChain(consumer, treasureId);
         generateSwiftSneakChain(consumer, treasureId);
         generateWindBurstChain(consumer, treasureId);
-        generateMending(consumer, treasureId);
+        // Reward chain
+        generateRewardChain(consumer, rewardsId);
 
         // Trident chains
         generateLoyaltyChain(consumer, tridentId);
@@ -499,10 +505,47 @@ public class AdvancementProvider extends FabricAdvancementProvider {
         ), new ItemStack(Items.WIND_CHARGE), "wind_use_", ArcaneProgression.WIND_CHARGES_USED_TRIGGER);
     }
 
-    private void generateMending(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
-        generateCountChain(consumer, categoryParent, List.of(
-                new Level("mending", "Mending", "Complete any 112 enchantment advancements", AdvancementType.CHALLENGE, 112)
-        ), new ItemStack(Items.ENCHANTED_BOOK), "unlock_", ArcaneProgression.ENCHANTMENTS_UNLOCKED_TRIGGER);
+    private record RewardLevel(String name, String title, String desc, AdvancementType frame, int target,
+                                ResourceKey<LootTable> lootTable) {}
+
+    private void generateRewardChain(Consumer<AdvancementHolder> consumer, Identifier categoryParent) {
+        List<RewardLevel> levels = List.of(
+                new RewardLevel("reward_unbreaking_3", "Unbreaking III Book", "Complete 30 enchantment advancements",
+                        AdvancementType.TASK, 30,
+                        ResourceKey.create(Registries.LOOT_TABLE, Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "rewards/unbreaking_3_book"))),
+                new RewardLevel("reward_efficiency_5", "Efficiency V Book", "Complete 60 enchantment advancements",
+                        AdvancementType.TASK, 60,
+                        ResourceKey.create(Registries.LOOT_TABLE, Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "rewards/efficiency_5_book"))),
+                new RewardLevel("reward_fortune_3", "Fortune III Book", "Complete 70 enchantment advancements",
+                        AdvancementType.GOAL, 70,
+                        ResourceKey.create(Registries.LOOT_TABLE, Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "rewards/fortune_3_book"))),
+                new RewardLevel("reward_mending", "Mending Book", "Complete all 125 enchantment advancements",
+                        AdvancementType.CHALLENGE, 125,
+                        ResourceKey.create(Registries.LOOT_TABLE, Identifier.fromNamespaceAndPath(ArcaneProgression.MOD_ID, "rewards/mending_book")))
+        );
+
+        Identifier parentId = categoryParent;
+        for (RewardLevel level : levels) {
+            Advancement.Builder builder = Advancement.Builder.advancement()
+                    .parent(parentId)
+                    .display(new DisplayInfo(
+                            new ItemStack(Items.ENCHANTED_BOOK), Component.literal(level.title()), Component.literal(level.desc()),
+                            Optional.empty(), level.frame(), true, true, false
+                    ));
+
+            List<String> criteriaNames = new ArrayList<>();
+            for (int i = 1; i <= level.target(); i++) {
+                String name = "unlock_" + i;
+                builder.addCriterion(name, ArcaneProgression.ENCHANTMENTS_UNLOCKED_TRIGGER.createCriterion(
+                        new CountReachedTrigger.TriggerInstance(Optional.empty(), i)));
+                criteriaNames.add(name);
+            }
+
+            builder.requirements(AdvancementRequirements.allOf(criteriaNames));
+            builder.rewards(AdvancementRewards.Builder.loot(level.lootTable()).build());
+            AdvancementHolder holder = builder.save(consumer, ArcaneProgression.MOD_ID + ":tool/" + level.name());
+            parentId = holder.id();
+        }
     }
 
     // --- Mace enchantments ---

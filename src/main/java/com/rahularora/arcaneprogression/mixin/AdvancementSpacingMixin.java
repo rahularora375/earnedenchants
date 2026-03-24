@@ -20,7 +20,7 @@ public class AdvancementSpacingMixin {
 
     private static final List<String> CATEGORY_ORDER = List.of(
             "tool_cat", "fishing_cat", "armor_cat", "melee_cat",
-            "trident_cat", "mace_cat", "bow_cat", "crossbow_cat", "treasure_cat"
+            "trident_cat", "mace_cat", "bow_cat", "crossbow_cat", "treasure_cat", "rewards_cat"
     );
 
     private static final Map<String, Integer> CATEGORY_INDEX;

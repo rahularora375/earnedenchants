@@ -1,5 +1,5 @@
 {
-  "parent": "earnedenchants:tool/treasure_cat",
+  "parent": "earnedenchants:tool/reward_unbreaking_3",
   "criteria": {
     "unlock_1": {
       "conditions": {
@@ -13,87 +13,9 @@
       },
       "trigger": "earnedenchants:enchantments_unlocked"
     },
-    "unlock_100": {
-      "conditions": {
-        "min_count": 100
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_101": {
-      "conditions": {
-        "min_count": 101
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_102": {
-      "conditions": {
-        "min_count": 102
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_103": {
-      "conditions": {
-        "min_count": 103
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_104": {
-      "conditions": {
-        "min_count": 104
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_105": {
-      "conditions": {
-        "min_count": 105
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_106": {
-      "conditions": {
-        "min_count": 106
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_107": {
-      "conditions": {
-        "min_count": 107
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_108": {
-      "conditions": {
-        "min_count": 108
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_109": {
-      "conditions": {
-        "min_count": 109
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
     "unlock_11": {
       "conditions": {
         "min_count": 11
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_110": {
-      "conditions": {
-        "min_count": 110
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_111": {
-      "conditions": {
-        "min_count": 111
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_112": {
-      "conditions": {
-        "min_count": 112
       },
       "trigger": "earnedenchants:enchantments_unlocked"
     },
@@ -421,123 +343,9 @@
       },
       "trigger": "earnedenchants:enchantments_unlocked"
     },
-    "unlock_61": {
-      "conditions": {
-        "min_count": 61
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_62": {
-      "conditions": {
-        "min_count": 62
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_63": {
-      "conditions": {
-        "min_count": 63
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_64": {
-      "conditions": {
-        "min_count": 64
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_65": {
-      "conditions": {
-        "min_count": 65
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_66": {
-      "conditions": {
-        "min_count": 66
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_67": {
-      "conditions": {
-        "min_count": 67
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_68": {
-      "conditions": {
-        "min_count": 68
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_69": {
-      "conditions": {
-        "min_count": 69
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
     "unlock_7": {
       "conditions": {
         "min_count": 7
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_70": {
-      "conditions": {
-        "min_count": 70
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_71": {
-      "conditions": {
-        "min_count": 71
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_72": {
-      "conditions": {
-        "min_count": 72
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_73": {
-      "conditions": {
-        "min_count": 73
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_74": {
-      "conditions": {
-        "min_count": 74
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_75": {
-      "conditions": {
-        "min_count": 75
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_76": {
-      "conditions": {
-        "min_count": 76
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_77": {
-      "conditions": {
-        "min_count": 77
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_78": {
-      "conditions": {
-        "min_count": 78
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_79": {
-      "conditions": {
-        "min_count": 79
       },
       "trigger": "earnedenchants:enchantments_unlocked"
     },
@@ -547,141 +355,20 @@
       },
       "trigger": "earnedenchants:enchantments_unlocked"
     },
-    "unlock_80": {
-      "conditions": {
-        "min_count": 80
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_81": {
-      "conditions": {
-        "min_count": 81
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_82": {
-      "conditions": {
-        "min_count": 82
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_83": {
-      "conditions": {
-        "min_count": 83
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_84": {
-      "conditions": {
-        "min_count": 84
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_85": {
-      "conditions": {
-        "min_count": 85
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_86": {
-      "conditions": {
-        "min_count": 86
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_87": {
-      "conditions": {
-        "min_count": 87
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_88": {
-      "conditions": {
-        "min_count": 88
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_89": {
-      "conditions": {
-        "min_count": 89
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
     "unlock_9": {
       "conditions": {
         "min_count": 9
       },
       "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_90": {
-      "conditions": {
-        "min_count": 90
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_91": {
-      "conditions": {
-        "min_count": 91
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_92": {
-      "conditions": {
-        "min_count": 92
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_93": {
-      "conditions": {
-        "min_count": 93
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_94": {
-      "conditions": {
-        "min_count": 94
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_95": {
-      "conditions": {
-        "min_count": 95
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_96": {
-      "conditions": {
-        "min_count": 96
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_97": {
-      "conditions": {
-        "min_count": 97
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_98": {
-      "conditions": {
-        "min_count": 98
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
-    },
-    "unlock_99": {
-      "conditions": {
-        "min_count": 99
-      },
-      "trigger": "earnedenchants:enchantments_unlocked"
     }
   },
   "display": {
-    "description": "Complete any 112 enchantment advancements",
-    "frame": "challenge",
+    "description": "Complete 60 enchantment advancements",
     "icon": {
       "count": 1,
       "id": "minecraft:enchanted_book"
     },
-    "title": "Mending"
+    "title": "Efficiency V Book"
   },
   "requirements": [
     [
@@ -863,163 +550,12 @@
     ],
     [
       "unlock_60"
-    ],
-    [
-      "unlock_61"
-    ],
-    [
-      "unlock_62"
-    ],
-    [
-      "unlock_63"
-    ],
-    [
-      "unlock_64"
-    ],
-    [
-      "unlock_65"
-    ],
-    [
-      "unlock_66"
-    ],
-    [
-      "unlock_67"
-    ],
-    [
-      "unlock_68"
-    ],
-    [
-      "unlock_69"
-    ],
-    [
-      "unlock_70"
-    ],
-    [
-      "unlock_71"
-    ],
-    [
-      "unlock_72"
-    ],
-    [
-      "unlock_73"
-    ],
-    [
-      "unlock_74"
-    ],
-    [
-      "unlock_75"
-    ],
-    [
-      "unlock_76"
-    ],
-    [
-      "unlock_77"
-    ],
-    [
-      "unlock_78"
-    ],
-    [
-      "unlock_79"
-    ],
-    [
-      "unlock_80"
-    ],
-    [
-      "unlock_81"
-    ],
-    [
-      "unlock_82"
-    ],
-    [
-      "unlock_83"
-    ],
-    [
-      "unlock_84"
-    ],
-    [
-      "unlock_85"
-    ],
-    [
-      "unlock_86"
-    ],
-    [
-      "unlock_87"
-    ],
-    [
-      "unlock_88"
-    ],
-    [
-      "unlock_89"
-    ],
-    [
-      "unlock_90"
-    ],
-    [
-      "unlock_91"
-    ],
-    [
-      "unlock_92"
-    ],
-    [
-      "unlock_93"
-    ],
-    [
-      "unlock_94"
-    ],
-    [
-      "unlock_95"
-    ],
-    [
-      "unlock_96"
-    ],
-    [
-      "unlock_97"
-    ],
-    [
-      "unlock_98"
-    ],
-    [
-      "unlock_99"
-    ],
-    [
-      "unlock_100"
-    ],
-    [
-      "unlock_101"
-    ],
-    [
-      "unlock_102"
-    ],
-    [
-      "unlock_103"
-    ],
-    [
-      "unlock_104"
-    ],
-    [
-      "unlock_105"
-    ],
-    [
-      "unlock_106"
-    ],
-    [
-      "unlock_107"
-    ],
-    [
-      "unlock_108"
-    ],
-    [
-      "unlock_109"
-    ],
-    [
-      "unlock_110"
-    ],
-    [
-      "unlock_111"
-    ],
-    [
-      "unlock_112"
     ]
   ],
+  "rewards": {
+    "loot": [
+      "earnedenchants:rewards/efficiency_5_book"
+    ]
+  },
   "sends_telemetry_event": true
 }

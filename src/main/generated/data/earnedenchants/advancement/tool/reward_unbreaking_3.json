@@ -1,0 +1,291 @@
+{
+  "parent": "earnedenchants:tool/rewards_cat",
+  "criteria": {
+    "unlock_1": {
+      "conditions": {
+        "min_count": 1
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_10": {
+      "conditions": {
+        "min_count": 10
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_11": {
+      "conditions": {
+        "min_count": 11
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_12": {
+      "conditions": {
+        "min_count": 12
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_13": {
+      "conditions": {
+        "min_count": 13
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_14": {
+      "conditions": {
+        "min_count": 14
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_15": {
+      "conditions": {
+        "min_count": 15
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_16": {
+      "conditions": {
+        "min_count": 16
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_17": {
+      "conditions": {
+        "min_count": 17
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_18": {
+      "conditions": {
+        "min_count": 18
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_19": {
+      "conditions": {
+        "min_count": 19
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_2": {
+      "conditions": {
+        "min_count": 2
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_20": {
+      "conditions": {
+        "min_count": 20
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_21": {
+      "conditions": {
+        "min_count": 21
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_22": {
+      "conditions": {
+        "min_count": 22
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_23": {
+      "conditions": {
+        "min_count": 23
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_24": {
+      "conditions": {
+        "min_count": 24
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_25": {
+      "conditions": {
+        "min_count": 25
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_26": {
+      "conditions": {
+        "min_count": 26
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_27": {
+      "conditions": {
+        "min_count": 27
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_28": {
+      "conditions": {
+        "min_count": 28
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_29": {
+      "conditions": {
+        "min_count": 29
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_3": {
+      "conditions": {
+        "min_count": 3
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_30": {
+      "conditions": {
+        "min_count": 30
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_4": {
+      "conditions": {
+        "min_count": 4
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_5": {
+      "conditions": {
+        "min_count": 5
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_6": {
+      "conditions": {
+        "min_count": 6
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_7": {
+      "conditions": {
+        "min_count": 7
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_8": {
+      "conditions": {
+        "min_count": 8
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    },
+    "unlock_9": {
+      "conditions": {
+        "min_count": 9
+      },
+      "trigger": "earnedenchants:enchantments_unlocked"
+    }
+  },
+  "display": {
+    "description": "Complete 30 enchantment advancements",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:enchanted_book"
+    },
+    "title": "Unbreaking III Book"
+  },
+  "requirements": [
+    [
+      "unlock_1"
+    ],
+    [
+      "unlock_2"
+    ],
+    [
+      "unlock_3"
+    ],
+    [
+      "unlock_4"
+    ],
+    [
+      "unlock_5"
+    ],
+    [
+      "unlock_6"
+    ],
+    [
+      "unlock_7"
+    ],
+    [
+      "unlock_8"
+    ],
+    [
+      "unlock_9"
+    ],
+    [
+      "unlock_10"
+    ],
+    [
+      "unlock_11"
+    ],
+    [
+      "unlock_12"
+    ],
+    [
+      "unlock_13"
+    ],
+    [
+      "unlock_14"
+    ],
+    [
+      "unlock_15"
+    ],
+    [
+      "unlock_16"
+    ],
+    [
+      "unlock_17"
+    ],
+    [
+      "unlock_18"
+    ],
+    [
+      "unlock_19"
+    ],
+    [
+      "unlock_20"
+    ],
+    [
+      "unlock_21"
+    ],
+    [
+      "unlock_22"
+    ],
+    [
+      "unlock_23"
+    ],
+    [
+      "unlock_24"
+    ],
+    [
+      "unlock_25"
+    ],
+    [
+      "unlock_26"
+    ],
+    [
+      "unlock_27"
+    ],
+    [
+      "unlock_28"
+    ],
+    [
+      "unlock_29"
+    ],
+    [
+      "unlock_30"
+    ]
+  ],
+  "rewards": {
+    "loot": [
+      "earnedenchants:rewards/unbreaking_3_book"
+    ]
+  },
+  "sends_telemetry_event": true
+}

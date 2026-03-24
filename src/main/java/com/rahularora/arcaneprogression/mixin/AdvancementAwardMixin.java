@@ -23,7 +23,7 @@ public abstract class AdvancementAwardMixin {
     @Shadow
     private ServerPlayer player;
 
-    // Advancements that don't count toward Mending (root, category headers, mending itself)
+    // Advancements that don't count toward reward chain (root, category headers, reward advancements)
     @Unique
     private static final Set<String> EXCLUDED_IDS = Set.of(
             "earnedenchants:tool/root",
@@ -36,7 +36,11 @@ public abstract class AdvancementAwardMixin {
             "earnedenchants:tool/mace_cat",
             "earnedenchants:tool/armor_cat",
             "earnedenchants:tool/treasure_cat",
-            "earnedenchants:tool/mending"
+            "earnedenchants:tool/rewards_cat",
+            "earnedenchants:tool/reward_unbreaking_3",
+            "earnedenchants:tool/reward_efficiency_5",
+            "earnedenchants:tool/reward_fortune_3",
+            "earnedenchants:tool/reward_mending"
     );
 
     @Shadow
@@ -48,7 +52,7 @@ public abstract class AdvancementAwardMixin {
         if (!cir.getReturnValue()) return;
 
         String id = holder.id().toString();
-        // Only track arcane_progression advancements, excluding root/categories/mending
+        // Only track arcane_progression advancements, excluding root/categories/rewards
         if (!id.startsWith("earnedenchants:")) return;
         if (EXCLUDED_IDS.contains(id)) return;
         if (!getOrStartProgress(holder).isDone()) return;

@@ -19,16 +19,17 @@ A detailed technical reference covering vanilla stat analysis, custom tracking r
 - **Trident enchantments:** Loyalty I–III, Riptide I–III, Channeling, Impaling I–V
 - **Mace enchantments:** Breach I–IV, Density I–V
 - **Armor enchantments:** Protection I–IV, Fire Protection I–IV, Blast Protection I–IV, Projectile Protection I–IV, Feather Falling I–IV, Thorns I–III, Aqua Affinity, Respiration I–III, Depth Strider I–III
-- **Treasure enchantments:** Frost Walker I–II, Soul Speed I–III, Swift Sneak I–III, Wind Burst I–III, Mending
-- **Total:** 135 generated advancements + 1 hand-written root = 136 advancements
+- **Treasure enchantments:** Frost Walker I–II, Soul Speed I–III, Swift Sneak I–III, Wind Burst I–III
+- **Reward chain:** Unbreaking III Book (30 advancements), Efficiency V Book (60), Fortune III Book (70), Mending Book (125) — gives enchanted books via loot table rewards
+- **Total:** 138 generated advancements + 1 hand-written root = 139 advancements
 - All in a single "Arcane Progression" tab with **category headers** (Tool, Fishing, Melee, Bow, Crossbow, Trident, Mace, Armor, Treasure)
 - Category headers are auto-granted advancements (InventoryChangeTrigger, no toast/chat) that group chains visually
 - Progress display via sub-criteria (Better Advancements shows "N/M")
 - Visibility mixin forces all our advancements visible in the tree
 - Better Advancements `criteriaDetail` set to `"Off"`
 - **Enchanting table respects unlock progress** — locked enchantments don't appear, per-tier caps validated against vanilla cost ranges, treasure enchantments added when unlocked
-- **Custom cost overrides** for 22 enchantment:level combos — makes unreachable max-tier enchants obtainable (~11-15% on diamond)
-- **Mending** requires any 112 of 125 enchantment advancements (not just final tiers)
+- **Custom cost overrides** for 20 enchantment:level combos — makes unreachable max-tier enchants obtainable (~11-15% on diamond)
+- **Mending** is NOT available in the enchanting table — it is earned as a book reward for completing all 125 enchantment advancements
 - **Easy Magic compatible** (mixin fires on inherited method, no dependency needed)
 
 **All enchantment categories complete.** Curses were dropped from scope.
@@ -125,7 +126,7 @@ src/client/java/com/rahularora/arcaneprogression/
 | `nether_travel` | `CountReachedTrigger` | `nether_travel` | `Integer` | Soul Speed I–III |
 | `sneak_travel` | `CountReachedTrigger` | `sneak_travel` | `Integer` | Swift Sneak I–III |
 | `wind_charges_used` | `CountReachedTrigger` | `wind_charges_used` | `Integer` | Wind Burst I–III |
-| `enchantments_unlocked` | `CountReachedTrigger` | `enchantments_unlocked` | `Integer` | Mending |
+| `enchantments_unlocked` | `CountReachedTrigger` | `enchantments_unlocked` | `Integer` | Reward chain (Unbreaking III/Efficiency V/Fortune III/Mending books) |
 
 ### Data Flow — Advancement Tracking
 ```
@@ -160,7 +161,7 @@ Player opens enchanting table
 ### Tracking Approaches
 - **Fabric events:** `PlayerBlockBreakEvents.AFTER` for block mining (BlockBreakHandler), `ServerEntityCombatEvents.AFTER_KILLED_OTHER_ENTITY` for mob kills (MobKillHandler)
 - **Mixins:** `LivingEntity.onEquippedItemBroken` for item breaks (ItemBreakMixin), `FishingHook.retrieve` for fishing catches (FishingMixin), `LivingEntity.causeFallDamage` for knockback falls (KnockbackFallMixin), `Player.doSweepAttack` for sweep attacks (SweepAttackMixin), `LivingEntity.hurtServer` for projectile hits (ProjectileHitMixin) and melee hits (MeleeHitMixin), `BowItem.releaseUsing` for bow fires (BowFireMixin), `CrossbowItem.performShooting` for crossbow fires (CrossbowFireMixin), `ThrownTrident.tryPickup` for trident retrievals (TridentPickupMixin), `ServerPlayer.checkMovementStatistics` for rain/underwater/snowy/nether/sneak travel (WetTravelMixin), `WindChargeItem.use` for wind charge uses (WindChargeUseMixin)
-- **Mixin on PlayerAdvancements:** `PlayerAdvancements.award` for tracking final-tier advancement completions (AdvancementAwardMixin, deferred via `server.execute()` to avoid re-entrancy)
+- **Mixin on PlayerAdvancements:** `PlayerAdvancements.award` for tracking enchantment advancement completions for reward chain (AdvancementAwardMixin, deferred via `server.execute()` to avoid re-entrancy)
 - **Enchanting table:** `EnchantmentMenu.getEnchantmentList` for stream filtering + ThreadLocal management (EnchantingTableMixin), `EnchantmentHelper.getAvailableEnchantmentResults` for level capping with cost-range validation (EnchantmentHelperMixin)
 
 ### Build & Datagen Workflow
@@ -214,8 +215,8 @@ Player opens enchanting table
 | `mixin/MeleeHitMixin.java` | Tracks armored mob hits (Breach) + mace smash damage (Density) via LivingEntity.hurtServer() |
 | `mixin/DamageTakenMixin.java` | Tracks damage taken by player (Protection, Fire/Blast/Projectile Prot) via LivingEntity.hurtServer() |
 | `mixin/WindChargeUseMixin.java` | Tracks wind charge uses via WindChargeItem.use() |
-| `mixin/AdvancementAwardMixin.java` | Tracks final-tier advancement completions for Mending via PlayerAdvancements.award() |
-| `data/EnchantmentUnlockData.java` | Static map of 41 enchantment keys → advancement IDs, `getMaxUnlockedLevel()`, `getUnlockedTreasureHolders()`, ThreadLocal bridge |
+| `mixin/AdvancementAwardMixin.java` | Tracks enchantment advancement completions for reward chain via PlayerAdvancements.award() |
+| `data/EnchantmentUnlockData.java` | Static map of 40 enchantment keys → advancement IDs, `getMaxUnlockedLevel()`, `getUnlockedTreasureHolders()`, ThreadLocal bridge |
 | `mixin/EnchantingTableMixin.java` | Mixin on `EnchantmentMenu`: captures player, pre-filters locked enchantments, adds treasure, manages ThreadLocal |
 | `mixin/EnchantmentHelperMixin.java` | Mixin on `EnchantmentHelper.getAvailableEnchantmentResults()`: caps levels with cost-range validation |
 | `datagen/AdvancementProvider.java` | Generates all advancement JSONs; `generateCountChain()` helper for standard chains |

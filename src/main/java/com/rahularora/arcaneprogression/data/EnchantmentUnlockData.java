@@ -34,11 +34,8 @@ public class EnchantmentUnlockData {
     private static final int LOW_ENCH_THRESHOLD = 1;
 
     public static final Set<String> TREASURE_ENCHANTMENT_KEYS = Set.of(
-            "frost_walker", "soul_speed", "swift_sneak", "wind_burst", "mending"
+            "frost_walker", "soul_speed", "swift_sneak", "wind_burst"
     );
-
-    // Number of trackable enchantment advancements (excludes root, category headers, mending)
-    public static final int MENDING_ADVANCEMENT_COUNT = 125;
 
     static {
         // Cost overrides — CORRECTED: diamond max modified = 40, bow/crossbow/trident max = 36, mace/netherite max = 43
@@ -74,11 +71,7 @@ public class EnchantmentUnlockData {
         COST_OVERRIDES.put("wind_burst:2", new int[]{34, 200});           // ~70% on mace
         COST_OVERRIDES.put("wind_burst:3", new int[]{36, 200});           // ~30% on mace
 
-        // Mending — the rarest
-        COST_OVERRIDES.put("mending:1", new int[]{36, 200});              // ~15% on diamond, ~30% on mace/netherite
-
         // Low-enchantability overrides (ench<=1 items: bow, crossbow, trident, fishing rod, book)
-        LOW_ENCH_COST_OVERRIDES.put("mending:1", new int[]{33, 200});     // ~11% on ench=1 items
         LOW_ENCH_COST_OVERRIDES.put("frost_walker:2", new int[]{33, 200}); // ~11% on ench=1 items
         LOW_ENCH_COST_OVERRIDES.put("soul_speed:1", new int[]{31, 200});   // ~42% on ench=1 items
         LOW_ENCH_COST_OVERRIDES.put("soul_speed:2", new int[]{32, 200});   // ~25% on ench=1 items
@@ -142,7 +135,6 @@ public class EnchantmentUnlockData {
         register("soul_speed", "soul_speed", 3, true);
         register("swift_sneak", "swift_sneak", 3, true);
         register("wind_burst", "wind_burst", 3, true);
-        register("mending", "mending", 1, true);
     }
 
     private static void register(String enchantmentKey, String advancementName, int maxLevel, boolean isTreasure) {
